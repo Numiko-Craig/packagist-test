@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/drupal/yamlform2text/drupal-yamlform2text-8.1.0-72b245.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/drupal/yamlform2text/drupal-yamlform2text-8.1.0-72b245.tar",
                     "reference": "ade3b4b31481ad353d63b4fbafa462189323c5be",
                     "shasum": "5af64e016870c707af98f9ef0956ca450bc00ab7"
                 },
@@ -37,7 +37,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/drupal/yamlform2text/drupal-yamlform2text-8.1.1-1cbc92.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/drupal/yamlform2text/drupal-yamlform2text-8.1.1-1cbc92.tar",
                     "reference": "3585ebfc96963b1ce9b5d00e9feb088cbee8f290",
                     "shasum": "7997e65dfccddcd6c299e2c482c099d05a94c2e0"
                 },
@@ -62,7 +62,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/drupal/yamlform2text/drupal-yamlform2text-8.1.2-113c67.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/drupal/yamlform2text/drupal-yamlform2text-8.1.2-113c67.tar",
                     "reference": "d06ecd7a82b6afa5fc1b145115c3171db72e0a18",
                     "shasum": "c9353a3088faf867a122009ad0e9d1b0a96ef8c9"
                 },

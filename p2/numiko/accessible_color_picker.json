@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/accessible_color_picker/numiko-accessible_color_picker-1.0.1-4b3d75.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/accessible_color_picker/numiko-accessible_color_picker-1.0.1-4b3d75.tar",
                     "reference": "e6b6fd1caab99ab4c11c947c1312f010aaf76dfe",
                     "shasum": "03a886e5ed327c2d3063675f153a3d419057d150"
                 },
@@ -37,7 +37,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/accessible_color_picker/numiko-accessible_color_picker-1.0.2-d6ba5d.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/accessible_color_picker/numiko-accessible_color_picker-1.0.2-d6ba5d.tar",
                     "reference": "d04565279a0592390d0fa6fdbf92bdf3d9e61829",
                     "shasum": "4a7f4d8decf10c19b039a30f69a70b72627a7e73"
                 },

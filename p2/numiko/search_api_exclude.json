@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/search_api_exclude/numiko-search_api_exclude-2.0.0-f0675d.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/search_api_exclude/numiko-search_api_exclude-2.0.0-f0675d.tar",
                     "reference": "723fb047cdd144b8f21a810288f24d988311380e",
                     "shasum": "34bbaa3472937b95ea3afdd5f2498b5945e95646"
                 },

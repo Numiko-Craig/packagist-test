@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.0.0-beta1-7da3d6.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.0.0-beta1-7da3d6.tar",
                     "reference": "9228de480dba94454d39c4c2e9eb5b2bff994fdb",
                     "shasum": "5011d2933535f90c3e60c75b7cfdd692675af6db"
                 },
@@ -126,7 +126,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.0.0-beta2-afb10b.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.0.0-beta2-afb10b.tar",
                     "reference": "7db1871091088842898bfbbe086a99ff1a1c46c3",
                     "shasum": "a853e57ed6c3a848191c7998aa1de8e07139cfc6"
                 },
@@ -240,7 +240,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.0.0-beta3-c6e64f.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.0.0-beta3-c6e64f.tar",
                     "reference": "655bbe2f31d610a89fef96e4b35609ed634f2d0a",
                     "shasum": "de0bc46e174d88411c8a404585713b93715a0126"
                 },
@@ -354,7 +354,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.0-22eb97.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.0-22eb97.tar",
                     "reference": "29bdfd6832ed95a15810f42fd62ba1a22c0391fa",
                     "shasum": "5c42a4d4096577ed4216160865c9fa6810e99b14"
                 },
@@ -467,7 +467,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta1-30ef63.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta1-30ef63.tar",
                     "reference": "140f79723b62d432c695d81b89e812b71a720e16",
                     "shasum": "7671a642da0bd89bc20bea18371d517067d17567"
                 },
@@ -578,7 +578,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta10-11a0c3.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta10-11a0c3.tar",
                     "reference": "3fe44568bc3670263dfb29cad90e67ee4b55f3d9",
                     "shasum": "df12a0ce28a374aae57e38c9ca5ebb5ef044c787"
                 },
@@ -689,7 +689,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta11-00c60e.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta11-00c60e.tar",
                     "reference": "423342728772308348a5fe9dd30616a8d103611a",
                     "shasum": "df379f31ca339bef8e0ce619148ea9f4ed4eb3df"
                 },
@@ -800,7 +800,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta12-6dd2f2.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta12-6dd2f2.tar",
                     "reference": "412a7a4cadfa13e49d4aafb3dda4884168b1b4fc",
                     "shasum": "77fc8d5a07c444775963371f4261eaf03e93e1bd"
                 },
@@ -911,7 +911,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta13-308c79.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta13-308c79.tar",
                     "reference": "8e7a5875d5e08d3c5376edf5d544e1e42f246f87",
                     "shasum": "8af63f5f58bc54bb18633f1e1402a7502e03d9ad"
                 },
@@ -1023,7 +1023,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta14-0d09db.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta14-0d09db.tar",
                     "reference": "9808270d306c94879f65a2a50abd4790db10afe3",
                     "shasum": "f63383652095ebcb4bc7aa4cd4bf6e84367052da"
                 },
@@ -1135,7 +1135,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta15-42c1d5.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta15-42c1d5.tar",
                     "reference": "c11390a3828188c104d061935117fb88532c88ef",
                     "shasum": "71e8cbff70cfff1d9b5dfcfdd9ae1bc1cadeffe9"
                 },
@@ -1247,7 +1247,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta16-88521b.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta16-88521b.tar",
                     "reference": "b4b6dd45ebed07dfc3ff32e8ec5adcbc3c9c723d",
                     "shasum": "4a78f16badd613e4fd48391ea6a4bd560c4b4187"
                 },
@@ -1358,7 +1358,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta17-2ced95.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta17-2ced95.tar",
                     "reference": "4dea88a2ef6aed59247bd7d46815ebb5e1c3867e",
                     "shasum": "046b2edc97fe9dcd12d4424afe1716e1120c20dc"
                 },
@@ -1471,7 +1471,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta18-99a792.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta18-99a792.tar",
                     "reference": "53fbbfaa55365fc086fc4e1916441cf3a15d1889",
                     "shasum": "39ba80988a8d2ad4a5afe06dd3e5205e19740797"
                 },
@@ -1584,7 +1584,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta2-f0a380.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta2-f0a380.tar",
                     "reference": "1ff2d2427ee8d60a1488f85d831c9e38d9a029e5",
                     "shasum": "7b6e1812ab64d7a46caaef96c3a50fd0eff53320"
                 },
@@ -1696,7 +1696,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta3-0b833a.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta3-0b833a.tar",
                     "reference": "81db8f8cf91183c4996af3484386b3e5e4d9774e",
                     "shasum": "f7838578c1615b22189ed30731599a177bb62133"
                 },
@@ -1808,7 +1808,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta4-9c816c.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta4-9c816c.tar",
                     "reference": "4fdb65988babb5765bcb6fee27bb1a9a92bba04e",
                     "shasum": "4c6fdcc4f1e61f1b68b4fa36220d250f097c4fb2"
                 },
@@ -1920,7 +1920,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta5-ff3f7f.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta5-ff3f7f.tar",
                     "reference": "e545f0d6be2f6d7a853026076bf9c4203fbb539b",
                     "shasum": "9b9c377f1dbd5025cf726589ed8dd5ac98eb888d"
                 },
@@ -2032,7 +2032,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta6-4fc04c.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta6-4fc04c.tar",
                     "reference": "12232ffbfd99e674c622a4703a84bc4b44a23a0d",
                     "shasum": "69481ba5324f1327adeed7d73a4e3d78bc6e02b8"
                 },
@@ -2144,7 +2144,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta7-3187a5.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta7-3187a5.tar",
                     "reference": "e33ec221bde2680b78e3cd8e3073aed02ff32d2d",
                     "shasum": "281702de92154c546d5eae538b18726c12997fca"
                 },
@@ -2256,7 +2256,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta8-78e60e.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.0-beta8-78e60e.tar",
                     "reference": "9a8c30394f7e52381c0cf81ec210d5dc4efb8a75",
                     "shasum": "cf29a3ab3986e0e13a50bebec1078892cbcba59c"
                 },
@@ -2367,7 +2367,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.1-beta1-8f2528.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.1-beta1-8f2528.tar",
                     "reference": "3d83f6de6f5402c20dd44a9fea773ecd71cc72c5",
                     "shasum": "f11e5c9e12b5bc8b1922eb235e59f8a3be9802a0"
                 },
@@ -2476,7 +2476,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.1-beta2-a52755.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.1-beta2-a52755.tar",
                     "reference": "d1985269c4f18815bc95e9963ef6bd6c5d7480b4",
                     "shasum": "3805d4b35e64708034433008ef0b097deadc23a3"
                 },
@@ -2582,7 +2582,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.1-beta3-37b419.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.1-beta3-37b419.tar",
                     "reference": "1b90e0cb227b8e61a2d47a99b2b99d90ae3f74bc",
                     "shasum": "194f77a40459d671e26e45692116bc0b378ce509"
                 },
@@ -2687,7 +2687,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.1-beta4-0cc91a.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.1-beta4-0cc91a.tar",
                     "reference": "0c460454b4144719500f2ad3923ac6f3ced0e274",
                     "shasum": "bf2e0e39e8e59033e7ac83942ee6cebe4cf5b6e2"
                 },
@@ -2792,7 +2792,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.2-beta1-f56a06.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.2-beta1-f56a06.tar",
                     "reference": "bdb3d89d7ca02549bbcad7c2582980bd477c1623",
                     "shasum": "81466304046cdcd85ebe0d88863f2f0e7407b418"
                 },
@@ -2905,7 +2905,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.2-beta2-a51309.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.2-beta2-a51309.tar",
                     "reference": "7ebb2e7c21b49c063404177ff59a83df64d39c7e",
                     "shasum": "29c951c0c70691ea4f655ccc52ffe795a00ea2b1"
                 },
@@ -3010,7 +3010,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.1.2-beta3-8862a7.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.1.2-beta3-8862a7.tar",
                     "reference": "5155dde226d593f52323b1a72ef8498b78f99ff2",
                     "shasum": "275b51e337e45320aafc1c4da1fd9e820daa996c"
                 },
@@ -3115,7 +3115,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-91c88e.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-91c88e.tar",
                     "reference": "3b0b9b99b8d9e90f2fbddcb9c5c11652a87844c5",
                     "shasum": "c6dea95f222d026224b9e2cea4c859aa6e74f86d"
                 },
@@ -3224,7 +3224,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta1-761ddd.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta1-761ddd.tar",
                     "reference": "81c77c66e810ffd8dcdb68301f4c4922bccaad69",
                     "shasum": "9cf9af72a5391759e6c91772fcb0e4bfddf2db25"
                 },
@@ -3338,7 +3338,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta10-92ecaf.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta10-92ecaf.tar",
                     "reference": "114ceadaeb3c57c359d686661f137452e8e7d01f",
                     "shasum": "82244e2ad594223bd38a6047b99695c2dca37dfd"
                 },
@@ -3442,7 +3442,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta11-33127e.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta11-33127e.tar",
                     "reference": "34b8c9a068eafa2bfe51b2847e86b4fcbf524c7a",
                     "shasum": "dbac2bd5d69706292d3b73d88de5bb24662db6c6"
                 },
@@ -3546,7 +3546,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta12-2adc8d.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta12-2adc8d.tar",
                     "reference": "c35711eea3891547f20b1d651ab08371a916c0d0",
                     "shasum": "3872a052280d684c85b6f14ed2be8c6a5ed520cd"
                 },
@@ -3650,7 +3650,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta13-f26339.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta13-f26339.tar",
                     "reference": "7c60c19e21fec000bf166876507f2f2955a0892d",
                     "shasum": "1adb373a7359d28de520e18607ec0fe8882ed7ae"
                 },
@@ -3754,7 +3754,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta14-77381d.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta14-77381d.tar",
                     "reference": "c1b5b0c36fc9f2b449ded08a8077c2030ab4e648",
                     "shasum": "ecc7de2fb63df5ce5b1a1022f03c46f7429040c6"
                 },
@@ -3863,7 +3863,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta15-f4c12b.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta15-f4c12b.tar",
                     "reference": "2887df43d65ea6fecda3f3b8bd56fad3103fdbc0",
                     "shasum": "d6109b993b06bed31588b1d2fdd2e250983b90c0"
                 },
@@ -3972,7 +3972,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta16-453c0c.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta16-453c0c.tar",
                     "reference": "765db3fd8a8336ae11166a98b0bfa17788653355",
                     "shasum": "ffa2a77392717dcbf5a6f43802bf3ad3a37ec01d"
                 },
@@ -4081,7 +4081,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta17-990214.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta17-990214.tar",
                     "reference": "75fd5f04b077a878c04b62dda41fc1340050488c",
                     "shasum": "2f8693e4b07593ff488b5ef35905a29486704bc3"
                 },
@@ -4191,7 +4191,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta18-a42f09.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta18-a42f09.tar",
                     "reference": "8e07f38e45ed5309afed59261188d8a14ce45f28",
                     "shasum": "5c520a76eee5ac70e95a2ffb062ff977e35a4fec"
                 },
@@ -4301,7 +4301,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta19-7c0753.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta19-7c0753.tar",
                     "reference": "00d72bce2bef2c84cf065b43a9b7b6c6b6f3d6d1",
                     "shasum": "3745546f96c1e6fd168e1a1e516b64e9c3c1fc2d"
                 },
@@ -4411,7 +4411,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta2-c25aa3.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta2-c25aa3.tar",
                     "reference": "e5b4225f48c55751ca2e70517d5dc402006a6f2a",
                     "shasum": "deb4166551d46bc92a54c877458c7f4b90419cad"
                 },
@@ -4525,7 +4525,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta20-796e7f.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta20-796e7f.tar",
                     "reference": "e48c7483e8b8a8e63e4f4454447600e86aee33da",
                     "shasum": "bc7347d95f2f0bf8ea06f25aecde5bbf7c8698d2"
                 },
@@ -4635,7 +4635,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta21-514b45.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta21-514b45.tar",
                     "reference": "0c8fb668ac5ab0c79ef133a69ca51513b1c6d646",
                     "shasum": "fdeabaabf97c2613cd55e050f5b835e1318c17a6"
                 },
@@ -4745,7 +4745,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta22-cf1674.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta22-cf1674.tar",
                     "reference": "0618ad0a09a0a65a2c20f251016e32382a6e077c",
                     "shasum": "f7b1743b65974752b1d9b3779888b33b5c693f9d"
                 },
@@ -4855,7 +4855,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta23-3d4344.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta23-3d4344.tar",
                     "reference": "b6b30ff2526a0c8e2a288f72e82af8746e7f77e6",
                     "shasum": "a1add99d2bc207df3b6e602d2137d5a48d694064"
                 },
@@ -4965,7 +4965,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta24-ce9799.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta24-ce9799.tar",
                     "reference": "19287dfaf310b32f4de822654b9fba4c849b2abd",
                     "shasum": "61e7b19af466aca899e0859f64bfc2fa7fc43439"
                 },
@@ -5075,7 +5075,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta25-535edc.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta25-535edc.tar",
                     "reference": "1d3fea2bc12a6a423e3b5cbaedea2d98e9cdc6b0",
                     "shasum": "d78d6d0c42f68595daa35622375ad2ca34fc0980"
                 },
@@ -5185,7 +5185,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta26-cfa6a8.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta26-cfa6a8.tar",
                     "reference": "04e58b2634cb76fd44324bfef49327aaa384bab7",
                     "shasum": "5e99f7d0ec4ccdb78739cef4f98ee8d61d2ce261"
                 },
@@ -5295,7 +5295,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta27-237263.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta27-237263.tar",
                     "reference": "651b6f1d2e540ec348845acd9fb30847d3e39024",
                     "shasum": "ca5faea98ed6612cf58fcd1415c01877028e9e39"
                 },
@@ -5405,7 +5405,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta28-77d70e.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta28-77d70e.tar",
                     "reference": "2b82320dd06b1d780a33efe3057b570ec4f3fb20",
                     "shasum": "ed08b2d98b8b1ec6c0c90f4ea6a2e8f3a289dbe1"
                 },
@@ -5515,7 +5515,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta29-5ab494.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta29-5ab494.tar",
                     "reference": "818bbb908cf790ab53553ce9eb4023abbfee1553",
                     "shasum": "5a3da30f521f9c016d513e7b91c476241b92ad80"
                 },
@@ -5625,7 +5625,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta3-59a2fe.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta3-59a2fe.tar",
                     "reference": "d5bc23c9bfbd7b68fb7701ad75d2ee04c5b0a316",
                     "shasum": "81560b2c59867d51f0b136c31092b810ff0104db"
                 },
@@ -5731,7 +5731,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta30-ec72ae.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta30-ec72ae.tar",
                     "reference": "6acba8626eb1fbd42a35874733c4c662651673ba",
                     "shasum": "c6015d97888b3b3b15aabfb59a54f59348eba7c5"
                 },
@@ -5841,7 +5841,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta31-c7e91a.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta31-c7e91a.tar",
                     "reference": "5dabc06502e0df906fad9199478765bc27e90255",
                     "shasum": "ef6abd955648a80685acd08ed14d7cdd719613b9"
                 },
@@ -5951,7 +5951,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta32-738e30.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta32-738e30.tar",
                     "reference": "51c1cbdaa5e4bb1b24d50cdcccd079c7c40887df",
                     "shasum": "278439a13776eca85b1213895a60a9e5d1ebee27"
                 },
@@ -6060,7 +6060,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta33-8f36df.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta33-8f36df.tar",
                     "reference": "e7bdc4a63d8f1dce6f0a9225a42c8793dbfcfc6c",
                     "shasum": "c8a79abbdf0f1f42ae94f903a6f8800b6cd07194"
                 },
@@ -6169,7 +6169,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta34-91c88e.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta34-91c88e.tar",
                     "reference": "3b0b9b99b8d9e90f2fbddcb9c5c11652a87844c5",
                     "shasum": "194aeb135b29ca0fe0a5205fab26d5a8c0569568"
                 },
@@ -6278,7 +6278,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta4-5d9619.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta4-5d9619.tar",
                     "reference": "18029b29f38791842441b6c1473f9f8850155793",
                     "shasum": "7d984d178d42cda438fc4254ccefdc5988ca13f3"
                 },
@@ -6384,7 +6384,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta5-a211ed.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta5-a211ed.tar",
                     "reference": "be550febe8db1d007dbad021e475885687d9c7fa",
                     "shasum": "3cc5f9f33b9156ebb82f9fe9fb633310928d3b7d"
                 },
@@ -6490,7 +6490,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta6-cf14dc.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta6-cf14dc.tar",
                     "reference": "d5b41b3d69ba9aa5d8ce05a91bedf99cfe90d69c",
                     "shasum": "b93a46115f0181e29efed014c4dd112b49b8b8f3"
                 },
@@ -6596,7 +6596,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta7-5c4aed.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta7-5c4aed.tar",
                     "reference": "ab89dc416bb2662cb8d7288a0ddd77952a86d89b",
                     "shasum": "a076ffb48323ef49b4aa434322cf3d3771de9ea7"
                 },
@@ -6703,7 +6703,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta8-ea50bf.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta8-ea50bf.tar",
                     "reference": "9afed14b6c66957ed80cd5c72ef6282b19378ea2",
                     "shasum": "6356dc48bea6a26145bfa60f5e07c5560611adfa"
                 },
@@ -6807,7 +6807,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta9-cf625b.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.2.0-beta9-cf625b.tar",
                     "reference": "b414af0277a2b1381e3b3d57c5865670894d7ef3",
                     "shasum": "db4bbd65e0e9eedc5027b5f1edef84c69081b930"
                 },
@@ -6911,7 +6911,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.3.0-9d4b18.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.3.0-9d4b18.tar",
                     "reference": "2dc2f9c44cff64a82fdc660d0d72d557b6e6b22e",
                     "shasum": "471d8ea0e7ac903fd0e28278e45249652a882d5d"
                 },
@@ -7019,7 +7019,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.3.0-beta1-9e1b64.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.3.0-beta1-9e1b64.tar",
                     "reference": "52f1d0eb39bced0398c439f5f595037bda1abe9c",
                     "shasum": "e7558c290aa027540327bb18e40cf61c5e007616"
                 },
@@ -7129,7 +7129,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.3.0-beta2-408841.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.3.0-beta2-408841.tar",
                     "reference": "c776595f8862862c986e9cf6e216c457a48b9ac7",
                     "shasum": "73070a909780a888a5e5e038b81854f2fb0808de"
                 },
@@ -7240,7 +7240,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.3.0-beta3-13009a.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.3.0-beta3-13009a.tar",
                     "reference": "6e567b1b4eef8b77be115b850d3884c9927d1eaf",
                     "shasum": "c4dc3f6bc14a44853fd220bc82bc94cf70132328"
                 },
@@ -7353,7 +7353,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.3.0-beta4-c89e71.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.3.0-beta4-c89e71.tar",
                     "reference": "6c148b17b2cadbb416455cd31e534ae6e88b1ec6",
                     "shasum": "72f5b033bce64a9df97285ef8a2dc1e8fb30e7a3"
                 },
@@ -7462,7 +7462,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.3.0-beta5-c4b6e0.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.3.0-beta5-c4b6e0.tar",
                     "reference": "6c0830452b6cf4c4627f4f1ed9b1b521849d7621",
                     "shasum": "e97e0d4077008dde8a61f01b654ca6ddd625cddc"
                 },
@@ -7570,7 +7570,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.3.0-beta6-773dd0.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.3.0-beta6-773dd0.tar",
                     "reference": "8d26b23ce36bfb0640841140b0644b0e5e2d07b2",
                     "shasum": "7015ec3d24017b42054e74e5e08ade5bb13362f0"
                 },
@@ -7678,7 +7678,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.3.0-beta7-9d4b18.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.3.0-beta7-9d4b18.tar",
                     "reference": "2dc2f9c44cff64a82fdc660d0d72d557b6e6b22e",
                     "shasum": "a1a483fc82d35211bd1b7a80ad8e5c9fbe4cca9f"
                 },
@@ -7786,7 +7786,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.4.0-cb770b.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.4.0-cb770b.tar",
                     "reference": "f45cf5a3b5c1a14983df9c2913af439b6c30f0d5",
                     "shasum": "f1ca0136d5984a073c5212f173a947798545af61"
                 },
@@ -7892,7 +7892,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.4.0-beta1-5f927b.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.4.0-beta1-5f927b.tar",
                     "reference": "cf49c2cdf0f415f3aca30ea91be94ed6098e1418",
                     "shasum": "007a7896ef1a5773b18a75d060f5b1ab5a13a44b"
                 },
@@ -7998,7 +7998,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.4.0-beta2-bc624a.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.4.0-beta2-bc624a.tar",
                     "reference": "15cb95e28166fdcc4aee966736fab5ed57b83d77",
                     "shasum": "834ee3c90a3bf95e956b75b9d2c61926cd99885e"
                 },
@@ -8101,7 +8101,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.4.0-beta3-d31be5.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.4.0-beta3-d31be5.tar",
                     "reference": "ebf7be23a60fea317990102b50e53aa966a763b6",
                     "shasum": "4672175c206d5cc4b462e1d177265db37f796a27"
                 },
@@ -8204,7 +8204,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta1-1c51f5.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta1-1c51f5.tar",
                     "reference": "d2fa64360f8b7abf36ca8770c6ec4a7782bf635c",
                     "shasum": "7e3f01e9a7f1d38a4d352cf5687605f8811eae95"
                 },
@@ -8226,7 +8226,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta2-652474.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta2-652474.tar",
                     "reference": "1c1b10a93c9558a14452b9780401406de3e9be36",
                     "shasum": "ed0e29cd75a71957d9d95c5fd291d036969165d5"
                 },
@@ -8248,7 +8248,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta3-3405c5.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta3-3405c5.tar",
                     "reference": "8c3800306e65621cee9a5cb75314de821752b643",
                     "shasum": "cb45c89527d39634faf055a85dc768a9da4b21ab"
                 },
@@ -8270,11 +8270,33 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta4-e19d94.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta4-e19d94.tar",
                     "reference": "782f233c5f7051f30d7a5d7a2f473a957cae37ff",
                     "shasum": "fc4af3ac8379553fdc1af64219a417e23b26013b"
                 },
                 "time": "2022-10-18T10:12:21+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/d9-profile",
+                "version": "1.5.0-beta5",
+                "version_normalized": "1.5.0.0-beta5",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "3cf1a3bded70c8130735a2ab785d177cf9b539bd"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta5-1f34b3.tar",
+                    "reference": "3cf1a3bded70c8130735a2ab785d177cf9b539bd",
+                    "shasum": "f7e58f25d1d9a0e4824fdd4e50252704b2cd5021"
+                },
+                "time": "2022-10-18T14:44:11+00:00",
                 "type": "drupal-profile",
                 "installation-source": "source",
                 "license": [

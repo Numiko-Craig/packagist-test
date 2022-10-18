@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/media_wrapper_filter/numiko-media_wrapper_filter-1.0.0-44e47d.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/media_wrapper_filter/numiko-media_wrapper_filter-1.0.0-44e47d.tar",
                     "reference": "89fb43e3a6d9893b3acfd49de52b33fd07e5135d",
                     "shasum": "47a3b79f1bbca163d8d4f76d4555256e1dbe6d05"
                 },
@@ -37,7 +37,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/media_wrapper_filter/numiko-media_wrapper_filter-1.0.1-105240.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/media_wrapper_filter/numiko-media_wrapper_filter-1.0.1-105240.tar",
                     "reference": "4f996c582d5b8be637685df4aee492da87271505",
                     "shasum": "b7679d5265e8a029602d53328863f9bf06e66319"
                 },
@@ -62,7 +62,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/media_wrapper_filter/numiko-media_wrapper_filter-1.1.0-c6874a.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/media_wrapper_filter/numiko-media_wrapper_filter-1.1.0-c6874a.tar",
                     "reference": "c8958bd821dcaf23d2eb8f29336a40284aafde20",
                     "shasum": "9fb81c58399e02d53da8975afc730235e23cba9e"
                 },

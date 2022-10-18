@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/twig_smart_split/numiko-twig_smart_split-1.0.0-5ed71a.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/twig_smart_split/numiko-twig_smart_split-1.0.0-5ed71a.tar",
                     "reference": "89d926c1b2c5b7fe6d02d7c81c17579dbc7beb46",
                     "shasum": "cbc2a9e511130dcbf886799462a3c8ac56024d50"
                 },
@@ -37,7 +37,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/twig_smart_split/numiko-twig_smart_split-1.0.1-b19d5e.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/twig_smart_split/numiko-twig_smart_split-1.0.1-b19d5e.tar",
                     "reference": "dbadde264500d3ef8f555fbfe097a8f943f0ae0e",
                     "shasum": "d894bcde50acd0f5a61e8c3a0e1558b7733b6092"
                 },

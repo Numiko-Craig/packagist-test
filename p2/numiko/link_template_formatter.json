@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/link_template_formatter/numiko-link_template_formatter-1.0.0-e9efdf.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/link_template_formatter/numiko-link_template_formatter-1.0.0-e9efdf.tar",
                     "reference": "432f89a1aaec67e6620e852fa1cdee9b2ef602d5",
                     "shasum": "87cf9d35f3dfb0911796c414bdeae4da1df97986"
                 },
@@ -37,7 +37,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/link_template_formatter/numiko-link_template_formatter-1.1.0-d7edbd.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/link_template_formatter/numiko-link_template_formatter-1.1.0-d7edbd.tar",
                     "reference": "674c89a46143f2e304005806bb6caa32e4989bba",
                     "shasum": "a654b7ba42f5ec03a9e77c6cc69884a2517a2313"
                 },
@@ -62,7 +62,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/link_template_formatter/numiko-link_template_formatter-8.1.0-24aa2f.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/link_template_formatter/numiko-link_template_formatter-8.1.0-24aa2f.tar",
                     "reference": "5e956b9e2aba47f4072e75aa42ec13fe7639b206",
                     "shasum": "6a15f07d55cf703901767d2bb2c9d1599077b5d4"
                 },

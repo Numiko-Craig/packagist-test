@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/webform-dotmailer/numiko-webform-dotmailer-1.0.0-c81106.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/webform-dotmailer/numiko-webform-dotmailer-1.0.0-c81106.tar",
                     "reference": "22214a645660eae9bc03167c85140c62d48e1768",
                     "shasum": "5cd1987e454dfd03fc53c2c1c0098f8c995c69c0"
                 },

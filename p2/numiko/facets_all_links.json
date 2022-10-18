@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/facets_all_links/numiko-facets_all_links-1.0.0-e7b0b5.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/facets_all_links/numiko-facets_all_links-1.0.0-e7b0b5.tar",
                     "reference": "3bda804061793a9924ebc0b0f76b9674844f6492",
                     "shasum": "dd7090b7df090248060e56a4f4205d6f9641464c"
                 },
@@ -37,7 +37,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/facets_all_links/numiko-facets_all_links-1.1.0-0ee405.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/facets_all_links/numiko-facets_all_links-1.1.0-0ee405.tar",
                     "reference": "4a798f4d759f2754f6725ebff8934763f21a8bea",
                     "shasum": "bca3d243dd0315fe1159df3171a2d8432ba82a42"
                 },
@@ -62,7 +62,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/facets_all_links/numiko-facets_all_links-8.1.0-6be677.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/facets_all_links/numiko-facets_all_links-8.1.0-6be677.tar",
                     "reference": "b518f18a523015de8c10b0d4b219c87645461234",
                     "shasum": "bcf658ee65b172ea200d1f587b4e118f15dc55f9"
                 },
@@ -87,7 +87,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/facets_all_links/numiko-facets_all_links-8.1.1-66eb99.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/facets_all_links/numiko-facets_all_links-8.1.1-66eb99.tar",
                     "reference": "14c14aa60647b47fdd6fc6a2eb4ee0ec8b3e4b99",
                     "shasum": "fb0a2cd017192a58dd29e75a386a793fbff79302"
                 },
@@ -112,7 +112,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/facets_all_links/numiko-facets_all_links-8.1.2-aeba8e.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/facets_all_links/numiko-facets_all_links-8.1.2-aeba8e.tar",
                     "reference": "0429a57445de4a3d38b0d90e0d4f306c6bfe09a4",
                     "shasum": "6a3ee7596c76b34fd3afcc401e3086811a60f1aa"
                 },

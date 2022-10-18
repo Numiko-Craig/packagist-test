@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/views_string_length_sort/numiko-views_string_length_sort-1.0.0-cf6e4b.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/views_string_length_sort/numiko-views_string_length_sort-1.0.0-cf6e4b.tar",
                     "reference": "9b04c5524831d66ca3dde6a502f9fd2307a37fe0",
                     "shasum": "efbc224b8fc3d3e88ed1e4b964ef5d0a74dd6227"
                 },

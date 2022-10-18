@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/default_menu_link/numiko-default_menu_link-1.0.0-17695a.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/default_menu_link/numiko-default_menu_link-1.0.0-17695a.tar",
                     "reference": "e566b848d26416c4266ed4017d04f9019bbd0396",
                     "shasum": "3430f5b88b96bf34370d96c3a7e13f5c03a2cd05"
                 },

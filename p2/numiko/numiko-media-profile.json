@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.1.0-9c117e.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.1.0-9c117e.tar",
                     "reference": "25ebd256b1d1037f17c6d3e3b417b65f2efb71ee",
                     "shasum": "125190d80645bb8879ace5172058ab7a4d37b2af"
                 },
@@ -81,7 +81,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.1.1-4c3a78.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.1.1-4c3a78.tar",
                     "reference": "394dbf9444a569f06838db04f683416772ed1b8e",
                     "shasum": "c4aebbb61447f4cbf650290505ed14818f891616"
                 },
@@ -150,7 +150,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.0-1e077c.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.0-1e077c.tar",
                     "reference": "f95cfbc1eda571b0726be21d299a5ab6169abf8a",
                     "shasum": "e95c366325c2c23fcc760be7479aebaa7e0dc710"
                 },
@@ -219,7 +219,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.1-2b171e.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.1-2b171e.tar",
                     "reference": "040e16b7da692315e58e75e42028ea3a56714015",
                     "shasum": "7dcb24c81ccd487195bc3569d145ffbd47d5a552"
                 },
@@ -288,7 +288,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.10-fbf1b8.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.10-fbf1b8.tar",
                     "reference": "6c7f510e5a716e4c90f276d86c991b9260817e19",
                     "shasum": "94f2d7ef3339c58d330fa12ec91806b421a924cf"
                 },
@@ -356,7 +356,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.11-43a24e.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.11-43a24e.tar",
                     "reference": "d5f601986a34371796b9e819810e9486a6e0022f",
                     "shasum": "8454ba462469844c86376dc02d7d1c51c99b5bee"
                 },
@@ -424,7 +424,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.12-a64776.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.12-a64776.tar",
                     "reference": "758b022d7b10623a8f37e02235aff765f332ce2e",
                     "shasum": "3d1912993c98f54c3b2e78428ab1831992766bbd"
                 },
@@ -493,7 +493,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.12-beta-ea475e.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.12-beta-ea475e.tar",
                     "reference": "1fae72d5f6416cbb3b39063310bc3ec3812724a0",
                     "shasum": "e7c3c07899db38b824e6688aba99a5d2ccc7786b"
                 },
@@ -562,7 +562,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.12-beta2-42ff6b.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.12-beta2-42ff6b.tar",
                     "reference": "5f1a43ccc7084ad893d48229346001a963471dec",
                     "shasum": "700a7084fda66a8cd71d1fd4a7cab7f1610048ca"
                 },
@@ -631,7 +631,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.12-beta3-a64776.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.12-beta3-a64776.tar",
                     "reference": "758b022d7b10623a8f37e02235aff765f332ce2e",
                     "shasum": "3ff24f5655b3c7c4bd6f29d7cafe06ce5c66b8bc"
                 },
@@ -700,7 +700,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.13-aad063.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.13-aad063.tar",
                     "reference": "06bac54219f655822fd98677b16e68181ecc80d3",
                     "shasum": "f3eb019c71da9c0507c2163555e2ae398994a2a2"
                 },
@@ -770,7 +770,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.14-738410.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.14-738410.tar",
                     "reference": "cc77dc8d277a31702c1813f257d9049b67c6ebaa",
                     "shasum": "55c8dfbe512c1d1cb0497bdc3aaad338ab68cca6"
                 },
@@ -840,7 +840,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.15-00a6f9.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.15-00a6f9.tar",
                     "reference": "39ed86cdc571c576d39d6c545c3e40f63569ad3f",
                     "shasum": "c9fcdd2894d49e6da1733b424185cb846490d9ed"
                 },
@@ -910,7 +910,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.16-cdfdef.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.16-cdfdef.tar",
                     "reference": "0ceabd502d94e03aba64b56d04708bc7fdf29ee5",
                     "shasum": "32f6624df0ca5df7f75dd8fef25329d00a92d67f"
                 },
@@ -980,7 +980,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.16-beta.1-959767.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.16-beta.1-959767.tar",
                     "reference": "e143a0ff3769190b3c5e49c83ae78190359618c9",
                     "shasum": "1a839722b74495c3918e8d350197bca4fb0dfa83"
                 },
@@ -1050,7 +1050,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.16.1-8baa6c.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.16.1-8baa6c.tar",
                     "reference": "69ae6d1e112e270fc5d8d5d17db6215870d67251",
                     "shasum": "1983d1342752964882a0d1b599c0c9901a869084"
                 },
@@ -1120,7 +1120,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.2-2c23b1.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.2-2c23b1.tar",
                     "reference": "07a978e43d3257ee6353972be8f702c2aeea13e9",
                     "shasum": "e95cde84bdeb6c609fc2375a437359a847fa71ed"
                 },
@@ -1189,7 +1189,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.3-debdd2.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.3-debdd2.tar",
                     "reference": "4cf64301f7f36eda4b52e7f7d669ba08f9a2cb73",
                     "shasum": "cb8221a5b2f385d24d47a3325871f4dedbfb4e5e"
                 },
@@ -1258,7 +1258,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.4-7a006f.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.4-7a006f.tar",
                     "reference": "46d06c385216eee0116b9f5ec49eec259d3865ba",
                     "shasum": "703d6c7c5b41883145c8f10bd3625f912f2aaca2"
                 },
@@ -1327,7 +1327,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.5-e52ffd.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.5-e52ffd.tar",
                     "reference": "5b20cf5d559c8b669bbc6029fc164a54aa71a336",
                     "shasum": "6ac5344c56497457338ead55bde0350f1cebb7d3"
                 },
@@ -1395,7 +1395,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.6-b28df3.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.6-b28df3.tar",
                     "reference": "b5bf4c3c2a56265e69351d1144a88f1bb709e626",
                     "shasum": "aef65556ec9771b678fc2feca612a0542553b19f"
                 },
@@ -1463,7 +1463,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.8-6d6371.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.2.8-6d6371.tar",
                     "reference": "62eff0e2d3ec96e8888e39f10b99573fb5c08810",
                     "shasum": "5557ed283bfea745101208c854d033113b563d8d"
                 },
@@ -1531,7 +1531,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.3.0-c260f1.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko-media-profile/numiko-numiko-media-profile-8.3.0-c260f1.tar",
                     "reference": "28f193dd98d059d6e6bf0ee0ea40c60af3585868",
                     "shasum": "72c0dc46ffed2a499a2b87a704aac464dcf6a2e8"
                 },

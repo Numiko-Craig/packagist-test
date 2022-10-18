@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/paragraphs_parent_revision_access/numiko-paragraphs_parent_revision_access-1.0.0-1aa137.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/paragraphs_parent_revision_access/numiko-paragraphs_parent_revision_access-1.0.0-1aa137.tar",
                     "reference": "8fea786a3751ffb074b048060f9c3cdbef881a72",
                     "shasum": "ccbad77754aec3bf42038232e5e5de4a3085677a"
                 },

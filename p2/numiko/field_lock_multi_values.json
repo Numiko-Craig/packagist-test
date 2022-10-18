@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/field_lock_multi_values/numiko-field_lock_multi_values-0.1.1-dc3608.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/field_lock_multi_values/numiko-field_lock_multi_values-0.1.1-dc3608.tar",
                     "reference": "768b6a9e12eea3289372b63d565f5c46023dea47",
                     "shasum": "cca36ba0ff8437a2e771f18d8c00b0c3e54d645c"
                 },

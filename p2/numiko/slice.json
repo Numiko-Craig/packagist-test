@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-4.0.0-73af08.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-4.0.0-73af08.tar",
                     "reference": "4708cb65a4a98c2461be3a0c7ce3578b2ff7f861",
                     "shasum": "dc25898afa259fb6d85618d19834f766595c43da"
                 },
@@ -42,7 +42,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-4.0.1-953f21.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-4.0.1-953f21.tar",
                     "reference": "3b4eec8d79163435922041022de0b89a0ba71d03",
                     "shasum": "7adaa022bc51884aa36aeef4d6de58209ebba753"
                 },
@@ -72,7 +72,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-4.1.0-b723b8.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-4.1.0-b723b8.tar",
                     "reference": "666f8807c83b4bee1189b485cd90c8c67f0f29d5",
                     "shasum": "e529cd76553f2522d089c1f709ecc52577e6aafb"
                 },
@@ -105,7 +105,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-5.0.0-b89efc.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-5.0.0-b89efc.tar",
                     "reference": "6e76dab5a164d341cfc5ff21248de0069506f865",
                     "shasum": "895f2f56341155afeaa07eb6f5ae7fc7db4f2fcc"
                 },
@@ -135,7 +135,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-5.0.1-74e203.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-5.0.1-74e203.tar",
                     "reference": "4ca072dec1dc13bc67c078e11728a1ed25cfd9bd",
                     "shasum": "77ca502edf7ee3605d3eadf7a6c9ee6f3966e408"
                 },
@@ -165,7 +165,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-5.0.2-b71741.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-5.0.2-b71741.tar",
                     "reference": "869664886a3418b2d498d823ea72f2a63482af2e",
                     "shasum": "fd5ec8891c3064133a1be84ea0cfe7c7b55f5154"
                 },
@@ -195,7 +195,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.1.0-c09fc7.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.1.0-c09fc7.tar",
                     "reference": "e04f68de146ca737a98c1542bcf39bbb5962a15f",
                     "shasum": "96625e6e86679870ed67aacb3c28c2f7f3267b38"
                 },
@@ -225,7 +225,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.1.1-ebec25.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.1.1-ebec25.tar",
                     "reference": "dcf5e9d9ca9b0d0edd2a2b0fe021c08b40019c54",
                     "shasum": "527d9dfab0e77fe0f284e877e52fda5177401deb"
                 },
@@ -255,7 +255,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.1.2-89b700.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.1.2-89b700.tar",
                     "reference": "f5712f04557568d7e0797e3f3833898dae0f8314",
                     "shasum": "c21345035371fbda1cda8e2d295fcc88cceb3b0d"
                 },
@@ -285,7 +285,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.1.3-ff206a.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.1.3-ff206a.tar",
                     "reference": "c541f909648ec1c869aaa2cdb01a46fd7de3a6f3",
                     "shasum": "6ed09f5a22f282c1027dea787de9aac76b1da767"
                 },
@@ -315,7 +315,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.1.4-4724f9.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.1.4-4724f9.tar",
                     "reference": "3db9d24a292628acbf7d68503e8ce88f8d007fce",
                     "shasum": "0dfc23b7bbdf7311654b35716d402ba80162484c"
                 },
@@ -345,7 +345,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.2.0-4e3701.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.2.0-4e3701.tar",
                     "reference": "75fbe39780c1841ac8f61e57e5517b4e4bc55cc9",
                     "shasum": "4e937bd9295c846ba4b1b79db5d2c3c9e1c66c7f"
                 },
@@ -375,7 +375,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.2.1-48f10c.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.2.1-48f10c.tar",
                     "reference": "d3613c507a091616339d4e819b71a709a732a5cd",
                     "shasum": "62c6cd7b1f3ee3ca2c599fcc61a83a39faa6972b"
                 },
@@ -405,7 +405,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.2.2-40b3b4.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.2.2-40b3b4.tar",
                     "reference": "4efc1b90b95f8c5e0ea39668761d4a2b0bc102db",
                     "shasum": "dc92d51d398b36aba7cab833d5d87aac8e5dd867"
                 },
@@ -435,7 +435,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.3.0-37b1b9.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.3.0-37b1b9.tar",
                     "reference": "bd63161f114312793a022a4e96db710d94b4926f",
                     "shasum": "5e454d0e8c825b796daee4ae5effaa76746ceffc"
                 },
@@ -465,7 +465,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.3.1-601cff.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.3.1-601cff.tar",
                     "reference": "529f82c7fb25a49d305c55b8cc9f95427ae47cc8",
                     "shasum": "76b2c7eed323f9bf386a0e4861e7965c4525b2fd"
                 },
@@ -495,7 +495,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.3.10-c24d75.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.3.10-c24d75.tar",
                     "reference": "989da3562536688b5458ba92d4bc893b58a0fd0b",
                     "shasum": "64d7ffc9fa4276f5b64aa9e99e84b4ca0b28828c"
                 },
@@ -525,7 +525,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.3.11-783d1b.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.3.11-783d1b.tar",
                     "reference": "5f312ad7b2da289d24194078810604b3432cf1ee",
                     "shasum": "a6b4421c9788f71dd8939c272ae8cdb6104448c7"
                 },
@@ -555,7 +555,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.3.12-beta1-f27dd7.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.3.12-beta1-f27dd7.tar",
                     "reference": "f99e5de1f993c380401de681991b19cfdad8f752",
                     "shasum": "c93131b4dcd17cb09ee51c8ee7a408dc1e791efe"
                 },
@@ -585,7 +585,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.3.13-7f515b.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.3.13-7f515b.tar",
                     "reference": "0246e1a867061d25b8c8a42bebb26b138911093e",
                     "shasum": "13498fc25232643873adf854ad64c0aff0d561e9"
                 },
@@ -615,7 +615,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.3.2-b510ac.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.3.2-b510ac.tar",
                     "reference": "2baa76c56b440dd53d472113d43b84042580642a",
                     "shasum": "c3bb902b6767d4a9f060d4f1cde3e295d041cbb7"
                 },
@@ -645,7 +645,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.3.3-1a8766.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.3.3-1a8766.tar",
                     "reference": "5176ce7348ddb8b7339899b2ed6b573590e0f2a9",
                     "shasum": "fbcdaccad0333c66b468ea9b6351fbb0dffa01b8"
                 },
@@ -675,7 +675,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.3.4-c4e93f.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.3.4-c4e93f.tar",
                     "reference": "a0fbf3d0774405279219d96510c9a7c66a51af7f",
                     "shasum": "54736c7671522b21aee332e58ae141ab5cdf9215"
                 },
@@ -705,7 +705,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.3.5-6bf637.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.3.5-6bf637.tar",
                     "reference": "d08b1af7413e20cf21b24e720ece5305264ac253",
                     "shasum": "50c9afcca8a333c76592be9d0421357fd43d09cb"
                 },
@@ -735,7 +735,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.3.6-9eb525.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.3.6-9eb525.tar",
                     "reference": "05626efe2db659f05f4cc6b207db436f631d06ad",
                     "shasum": "b0c363a9cdd5d5f8d4024b50b1ce655975dfaf06"
                 },
@@ -765,7 +765,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.3.7-6b976c.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.3.7-6b976c.tar",
                     "reference": "045583135c4ed94a3e14ba922e687664340cf088",
                     "shasum": "3c520eaf91886cadfe2e3d9f45d0a4f99932690d"
                 },
@@ -795,7 +795,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.3.7-beta1-da6b51.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.3.7-beta1-da6b51.tar",
                     "reference": "dfc73fb34e82022f1d8b285bbbb78ea714846411",
                     "shasum": "e7a9483d0d134a80e1bdaec31c691415efde7a74"
                 },
@@ -825,7 +825,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.3.7-beta2-3eb26e.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.3.7-beta2-3eb26e.tar",
                     "reference": "c680627ae3e2980d79b20ce05d65364ca62d0374",
                     "shasum": "312410d013191b3c9e1efe4b06ac5698734fa741"
                 },
@@ -855,7 +855,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.3.7-beta3-e4305d.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.3.7-beta3-e4305d.tar",
                     "reference": "c77c923fad43f046f7cf1a778114ec26df237a10",
                     "shasum": "025b7c9ba845464443e8a6e9210435f1622f00de"
                 },
@@ -885,7 +885,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.3.8-6f3fe8.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.3.8-6f3fe8.tar",
                     "reference": "0542cb46ec628d757cd3e36554561120bba90d97",
                     "shasum": "3686e6476a8399c1d9d5c04f734ac577ffccddc1"
                 },
@@ -915,7 +915,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/slice/numiko-slice-8.3.9-1427cf.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/slice/numiko-slice-8.3.9-1427cf.tar",
                     "reference": "62fdc57b3eba15339c4112dc1ae8454f5f9cdb66",
                     "shasum": "0b87854680dea38c4ebcce8749ccb9b2d2de7663"
                 },

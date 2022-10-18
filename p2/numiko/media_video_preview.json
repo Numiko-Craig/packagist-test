@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/media_video_preview/numiko-media_video_preview-3.0.0-7bbc9b.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/media_video_preview/numiko-media_video_preview-3.0.0-7bbc9b.tar",
                     "reference": "e0a7f6f7956d0591c37eb1e3fe117b70ff14c4be",
                     "shasum": "dbf8b1eeccbc0e43c56a73fcc26ec8ce43b32627"
                 },
@@ -37,7 +37,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/media_video_preview/numiko-media_video_preview-8.1.0-e5dffc.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/media_video_preview/numiko-media_video_preview-8.1.0-e5dffc.tar",
                     "reference": "3da835430446253886ed7fecd3d4f54802fd145a",
                     "shasum": "af8e4ea6ba33d080f90fb43ec2556779df6e5640"
                 },
@@ -62,7 +62,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/media_video_preview/numiko-media_video_preview-8.1.1-42a9eb.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/media_video_preview/numiko-media_video_preview-8.1.1-42a9eb.tar",
                     "reference": "8e62d0938f269566affb8c0bc410b0af777cc81e",
                     "shasum": "aac1356b60be2b97e058cca32e0001a8778bee50"
                 },
@@ -87,7 +87,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/media_video_preview/numiko-media_video_preview-8.2.0-f68e3b.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/media_video_preview/numiko-media_video_preview-8.2.0-f68e3b.tar",
                     "reference": "209aba197d4bf1e4dff45df3d62ed46829223a08",
                     "shasum": "3fad63363de9ca4f26fea83ad49f2ba4db0e20a8"
                 },

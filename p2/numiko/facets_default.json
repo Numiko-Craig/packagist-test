@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/facets_default/numiko-facets_default-1.0.0-6dcb88.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/facets_default/numiko-facets_default-1.0.0-6dcb88.tar",
                     "reference": "1757983fd6381c304ac9319a2eb001376d6a658a",
                     "shasum": "08d952a0ffe76993e6a837a341f4ba0bcbcc1f2b"
                 },
@@ -37,7 +37,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/facets_default/numiko-facets_default-8.1.0-e514a7.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/facets_default/numiko-facets_default-8.1.0-e514a7.tar",
                     "reference": "8ed1a72918b9dfa4d25a33cfeba1e91db4674cb5",
                     "shasum": "2ceab21db1d47edb99dc954fb981d0f41e4e3965"
                 },

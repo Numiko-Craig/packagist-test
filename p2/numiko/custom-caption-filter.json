@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/custom-caption-filter/numiko-custom-caption-filter-1.4.0-2d8e9f.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-1.4.0-2d8e9f.tar",
                     "reference": "de138ed21034a77a4bfda6667e32fce961359fbf",
                     "shasum": "e7287bd3d6ccfe322dc8e625df1ea5680cc1c99d"
                 },
@@ -37,7 +37,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/custom-caption-filter/numiko-custom-caption-filter-1.4.1-4d7bdc.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-1.4.1-4d7bdc.tar",
                     "reference": "00fc0e668fc9abcb23ec86624d0e5d5d5db676aa",
                     "shasum": "4c92d5ecaa8edba1b1a071b0e445254cfa073a3f"
                 },
@@ -62,7 +62,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/custom-caption-filter/numiko-custom-caption-filter-2.0.0-16eccd.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-2.0.0-16eccd.tar",
                     "reference": "5b6607f86ab029f6fba08b7e3d49fd774367fb04",
                     "shasum": "f7c746aa884bd2dc489b5aa0e38e58af7d96fe19"
                 },
@@ -87,7 +87,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/custom-caption-filter/numiko-custom-caption-filter-2.0.1-f7a2cd.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-2.0.1-f7a2cd.tar",
                     "reference": "481cf9afcccba66563c202f948fe2e016ce293be",
                     "shasum": "1e95f924fd208f5e96f0cbb0ead48f4216e9f08e"
                 },
@@ -112,7 +112,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/custom-caption-filter/numiko-custom-caption-filter-3.0.0-6620cb.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-3.0.0-6620cb.tar",
                     "reference": "819573efe7ee850eb5f415225b9dfa32e25061d1",
                     "shasum": "758f594fd267b2a300da6372d286362b4350e446"
                 },
@@ -137,7 +137,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/custom-caption-filter/numiko-custom-caption-filter-3.0.1-5de94a.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-3.0.1-5de94a.tar",
                     "reference": "1e8c6b3071efffce37705f2965074498cd6b1e8a",
                     "shasum": "1b716ecb1edcd5080859a344b44842d0f62a8fce"
                 },
@@ -162,7 +162,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/custom-caption-filter/numiko-custom-caption-filter-3.0.2-6922e1.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-3.0.2-6922e1.tar",
                     "reference": "8e010b32b6c266cfbb4a6a9c6514dd99e50efa68",
                     "shasum": "7e1842f96ac51887231b6604600c9201c67394c4"
                 },
@@ -187,7 +187,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/custom-caption-filter/numiko-custom-caption-filter-3.1.0-beta1-086c28.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-3.1.0-beta1-086c28.tar",
                     "reference": "8ef2f66b6f765ef6e3fb7f81126923baa61bb1d0",
                     "shasum": "f7df6488d8a9d614766155b7f15b18057067d5a3"
                 },
@@ -212,7 +212,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/custom-caption-filter/numiko-custom-caption-filter-3.1.0-beta2-80b5c7.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-3.1.0-beta2-80b5c7.tar",
                     "reference": "fb4bb7e74149d3fad8136e36de87016b99d074a8",
                     "shasum": "37d30289b92c9362afd02eed00354107bf1b3f10"
                 },
@@ -237,7 +237,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/custom-caption-filter/numiko-custom-caption-filter-8.1.1-d3d888.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-8.1.1-d3d888.tar",
                     "reference": "da750cdb6c820972141ae2d45c9cb8acdb772624",
                     "shasum": "6c716e8815cda53d507d8bf3c5c686ab2beb6ace"
                 },
@@ -262,7 +262,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/custom-caption-filter/numiko-custom-caption-filter-8.1.2-fc641e.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-8.1.2-fc641e.tar",
                     "reference": "eb88166accfd8c9d9b2f5e537627ca33a4465c4e",
                     "shasum": "1a2a5c295cb99b9953249f52420835f9143ef256"
                 },
@@ -287,7 +287,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/custom-caption-filter/numiko-custom-caption-filter-8.1.3-091d47.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/custom-caption-filter/numiko-custom-caption-filter-8.1.3-091d47.tar",
                     "reference": "eda0af46064d3170c5e2a38f34d4d66f2745862c",
                     "shasum": "c2e61b2277d7f2b8fb6a5b34f76035c6cb1ddff0"
                 },

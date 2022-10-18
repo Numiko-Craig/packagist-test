@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/media_url_formatter/numiko-media_url_formatter-1.0.1-75afa5.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/media_url_formatter/numiko-media_url_formatter-1.0.1-75afa5.tar",
                     "reference": "e428ef5117b53e921e75f5238e86d80fa0b16119",
                     "shasum": "c7703ba8b91fadc0f77a1f2f50c676c469c156e6"
                 },
@@ -37,7 +37,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/media_url_formatter/numiko-media_url_formatter-2.0.0-70a09c.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/media_url_formatter/numiko-media_url_formatter-2.0.0-70a09c.tar",
                     "reference": "79db99dd66426b4b3e81089ac26d44a765deb813",
                     "shasum": "5a1edb811eba090723685047ffb57d2127481692"
                 },
@@ -62,7 +62,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/media_url_formatter/numiko-media_url_formatter-2.0.1-74c709.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/media_url_formatter/numiko-media_url_formatter-2.0.1-74c709.tar",
                     "reference": "7b1e4d3a84884e33d5c9c5ae2279da48e16415c4",
                     "shasum": "cba75ed06fa7046616f9b101bbbe85d1e2f607cd"
                 },
@@ -87,7 +87,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/media_url_formatter/numiko-media_url_formatter-2.1.0-db01da.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/media_url_formatter/numiko-media_url_formatter-2.1.0-db01da.tar",
                     "reference": "a45d196df4c753661344a55002aa6846250ba30c",
                     "shasum": "626e5efccc5622f7d41c92f84caf98c5a1caf747"
                 },
@@ -112,7 +112,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/media_url_formatter/numiko-media_url_formatter-2.2.0-b4d0cc.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/media_url_formatter/numiko-media_url_formatter-2.2.0-b4d0cc.tar",
                     "reference": "5828b7de40602c42cb0f28033416d80c70a543fd",
                     "shasum": "f070f4d37c024c293382815791b82c794d0da94b"
                 },

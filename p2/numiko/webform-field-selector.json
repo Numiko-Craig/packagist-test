@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/webform-field-selector/numiko-webform-field-selector-1.0.0-cfb85b.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/webform-field-selector/numiko-webform-field-selector-1.0.0-cfb85b.tar",
                     "reference": "d76c97f24349e5bd10bd93250d2c339f9176f2c5",
                     "shasum": "2298c7c9caed3800bbe53aaf5f8881afc359ce73"
                 },

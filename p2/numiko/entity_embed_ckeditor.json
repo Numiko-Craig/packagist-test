@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/entity_embed_ckeditor/numiko-entity_embed_ckeditor-2.0.0-26fe0a.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/entity_embed_ckeditor/numiko-entity_embed_ckeditor-2.0.0-26fe0a.tar",
                     "reference": "a757e31676bfada2fab3334ed07a7555b72c765c",
                     "shasum": "06fe9e51582759f281025bf41edd40a56439cd25"
                 },
@@ -37,7 +37,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/entity_embed_ckeditor/numiko-entity_embed_ckeditor-2.0.1-949411.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/entity_embed_ckeditor/numiko-entity_embed_ckeditor-2.0.1-949411.tar",
                     "reference": "1ebf396acc287f2cc3d4e1bcad3e9add6e594e97",
                     "shasum": "c2f6fa3cd7f6b22f94b20730fe6cf5f4e6e5ee8d"
                 },
@@ -62,7 +62,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/entity_embed_ckeditor/numiko-entity_embed_ckeditor-8.1.0-a656b5.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/entity_embed_ckeditor/numiko-entity_embed_ckeditor-8.1.0-a656b5.tar",
                     "reference": "e788edc7c277aba59377bee49f3503a15a6d81c1",
                     "shasum": "665423bc0488eed514df4a16c825a02fc8f90400"
                 },
@@ -87,7 +87,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/entity_embed_ckeditor/numiko-entity_embed_ckeditor-8.1.1-649dad.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/entity_embed_ckeditor/numiko-entity_embed_ckeditor-8.1.1-649dad.tar",
                     "reference": "1094ce2ce2fdb8416629c75087f4cf9b399f7492",
                     "shasum": "2b0ebe63ab4e25c16f87b5d4079ad15c13f59f82"
                 },
@@ -112,7 +112,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/entity_embed_ckeditor/numiko-entity_embed_ckeditor-8.1.2-8e1b68.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/entity_embed_ckeditor/numiko-entity_embed_ckeditor-8.1.2-8e1b68.tar",
                     "reference": "b4df710b426b6d5debf192f288ce0be7d89c9370",
                     "shasum": "c4c847fc7bfe48b57bb61f9197b75c7ef8f66718"
                 },
@@ -137,7 +137,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/entity_embed_ckeditor/numiko-entity_embed_ckeditor-8.1.3-492f30.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/entity_embed_ckeditor/numiko-entity_embed_ckeditor-8.1.3-492f30.tar",
                     "reference": "71b6165bae3d0be3bba759d88bc3253493b7a932",
                     "shasum": "6e3fa551a3a4adfa702befa2adb710f485003581"
                 },
@@ -162,7 +162,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/entity_embed_ckeditor/numiko-entity_embed_ckeditor-8.1.4-5484e4.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/entity_embed_ckeditor/numiko-entity_embed_ckeditor-8.1.4-5484e4.tar",
                     "reference": "1cf2371e32ecaf2f2944579668f1c74e2ea7ec1c",
                     "shasum": "aeedc1f6f2b99fb240527df18820005888ba1dab"
                 },
@@ -187,7 +187,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/entity_embed_ckeditor/numiko-entity_embed_ckeditor-8.1.5-d2cb3d.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/entity_embed_ckeditor/numiko-entity_embed_ckeditor-8.1.5-d2cb3d.tar",
                     "reference": "a2e6816194b36699b25ddb3e87d275fcdf7b925c",
                     "shasum": "c948e347e66c3963e7ae78b60fe03c7e83047f6e"
                 },
@@ -212,7 +212,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/entity_embed_ckeditor/numiko-entity_embed_ckeditor-8.1.6-8426ed.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/entity_embed_ckeditor/numiko-entity_embed_ckeditor-8.1.6-8426ed.tar",
                     "reference": "55cb2c9119c422a2eaa5db2b271e4a50e5ab8ab7",
                     "shasum": "73978a2a6010cd39e64284510e5777b513bc589d"
                 },

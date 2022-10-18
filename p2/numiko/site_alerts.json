@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/site_alerts/numiko-site_alerts-1.1.0-34356a.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/site_alerts/numiko-site_alerts-1.1.0-34356a.tar",
                     "reference": "2e1762c3cc67c198c745a948a81d6dd6eac5cb67",
                     "shasum": "b82501bd47cecb3ea9e43a086219a55f8f892e7f"
                 },
@@ -37,7 +37,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/site_alerts/numiko-site_alerts-1.2.0-e01738.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/site_alerts/numiko-site_alerts-1.2.0-e01738.tar",
                     "reference": "07a2c3ee3e0cc849650b0bba3132bd8b03e07124",
                     "shasum": "f42c32a6188a1678c76deb9bb9ba001d99a7e7f9"
                 },
@@ -62,7 +62,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/site_alerts/numiko-site_alerts-1.3.0-ddf228.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/site_alerts/numiko-site_alerts-1.3.0-ddf228.tar",
                     "reference": "35cc89daf14806ffa998a1dbbab18a7de91554ff",
                     "shasum": "4153a2ec26a3c33d2e22d18538d7c868b071e8b6"
                 },
@@ -87,7 +87,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/site_alerts/numiko-site_alerts-1.4.0-a36606.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/site_alerts/numiko-site_alerts-1.4.0-a36606.tar",
                     "reference": "2843a9ce747f075680a2f58b9b02e27ea63f536e",
                     "shasum": "956a405a49d31fea5bd7c7a69918c9730fe1c6e0"
                 },
@@ -112,7 +112,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/site_alerts/numiko-site_alerts-1.5.0-e5a492.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/site_alerts/numiko-site_alerts-1.5.0-e5a492.tar",
                     "reference": "dd472edf5dd0093fa6c94d29f2c13e30b9b7c873",
                     "shasum": "de1fcedfa92b953536d1bf98fa19a9c405aaa67c"
                 },
@@ -137,7 +137,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/site_alerts/numiko-site_alerts-1.6.0-d47faf.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/site_alerts/numiko-site_alerts-1.6.0-d47faf.tar",
                     "reference": "422bcce22f356792d8f15654afb1ef0ff5f31bb5",
                     "shasum": "bfe36c8f99ba9aec1c8013210259b1b2b36e81e4"
                 },
@@ -162,7 +162,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/site_alerts/numiko-site_alerts-1.6.1-40b084.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/site_alerts/numiko-site_alerts-1.6.1-40b084.tar",
                     "reference": "e516886526e5dbe4a952bddc250f6b35dc3b132f",
                     "shasum": "10175bf8a1170d954250fb24eeb42a03c81cafcc"
                 },
@@ -187,7 +187,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/site_alerts/numiko-site_alerts-1.6.2-2d3af6.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/site_alerts/numiko-site_alerts-1.6.2-2d3af6.tar",
                     "reference": "ee6a131aed98864f35af5afdbf16178022cc7927",
                     "shasum": "18eeb7dc17f7d1dfe1adc22a9feb741f63038b49"
                 },
@@ -212,7 +212,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/site_alerts/numiko-site_alerts-1.6.3-30f100.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/site_alerts/numiko-site_alerts-1.6.3-30f100.tar",
                     "reference": "ee0cc947fab2d353db2533fcd9341d8af9864eee",
                     "shasum": "4aec71f060fae398e59a7f19b933c57d3a5cd764"
                 },
@@ -237,7 +237,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/site_alerts/numiko-site_alerts-1.7.0-f57ef7.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/site_alerts/numiko-site_alerts-1.7.0-f57ef7.tar",
                     "reference": "36347e306eebb771a2c247fe6d0f63b9be0b7881",
                     "shasum": "c10b8d4a9ae80ffca13df6a6e6b96eb0659ef8aa"
                 },

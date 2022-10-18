@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/minimal-date-fields/numiko-minimal-date-fields-1.0.0-f6e119.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/minimal-date-fields/numiko-minimal-date-fields-1.0.0-f6e119.tar",
                     "reference": "b177233aa889c248ba159e9513a243c58fe0e060",
                     "shasum": "4b6bf84950adbfe379b7568922d0730f39a1259d"
                 },

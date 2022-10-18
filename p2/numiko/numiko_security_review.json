@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko_security_review/numiko-numiko_security_review-0.2.0-963330.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko_security_review/numiko-numiko_security_review-0.2.0-963330.tar",
                     "reference": "be51ceb3d2424846a695d825a0edfe91d83fd2ca",
                     "shasum": "2125b62bbec70cd0ddf1ddef803342185b1b0a92"
                 },
@@ -31,7 +31,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko_security_review/numiko-numiko_security_review-0.3.0-fe6b32.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko_security_review/numiko-numiko_security_review-0.3.0-fe6b32.tar",
                     "reference": "844635b39ee6d03f8e58697b879e4e29596a145c",
                     "shasum": "78f79535ca45179050d62768df06b875d2b5f62b"
                 },
@@ -50,7 +50,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko_security_review/numiko-numiko_security_review-0.4.0-6584b2.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko_security_review/numiko-numiko_security_review-0.4.0-6584b2.tar",
                     "reference": "61a09c79f308af50a5dd7b7844acfbe3d067b080",
                     "shasum": "d118a34b5f63e8c300cf1054d7129c0f4b35986e"
                 },
@@ -69,7 +69,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/numiko_security_review/numiko-numiko_security_review-0.5.0-5876e2.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko_security_review/numiko-numiko_security_review-0.5.0-5876e2.tar",
                     "reference": "fe7410b818daf6051128c675cbac5a7c13184c1e",
                     "shasum": "7feff96cd3286df99dcaabae34d30664bbe47861"
                 },

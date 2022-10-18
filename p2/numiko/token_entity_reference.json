@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/token_entity_reference/numiko-token_entity_reference-1.0.0-afcb49.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/token_entity_reference/numiko-token_entity_reference-1.0.0-afcb49.tar",
                     "reference": "f26d47a46881b693499c605de74a917c55d1ddd6",
                     "shasum": "3a43a9b8b9e897f2a54fab4d13ecc5c512e5fc2a"
                 },
@@ -36,7 +36,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/token_entity_reference/numiko-token_entity_reference-1.0.1-f1633f.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/token_entity_reference/numiko-token_entity_reference-1.0.1-f1633f.tar",
                     "reference": "d9878bdecd2dc2337e4a86a761c90e7e96e5472e",
                     "shasum": "2f48907f2a883f7bb0c65420c112c6e8e7a85ac0"
                 },
@@ -60,7 +60,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/token_entity_reference/numiko-token_entity_reference-1.0.2-fabb94.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/token_entity_reference/numiko-token_entity_reference-1.0.2-fabb94.tar",
                     "reference": "4ddde2ca9ee49b9c8590608ae71969eb9ac86ef7",
                     "shasum": "c8903d7c7038cc96cf44ad37fe21ca9334dd9d40"
                 },
@@ -84,7 +84,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/token_entity_reference/numiko-token_entity_reference-1.1.0-4a58bf.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/token_entity_reference/numiko-token_entity_reference-1.1.0-4a58bf.tar",
                     "reference": "6956645c386c0a82cdaf559dc61b90f9cc91768e",
                     "shasum": "7ece57de6cd99822bb10a73547ed3e672eba8730"
                 },

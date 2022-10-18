@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/styleguide/numiko-styleguide-0.1.0-9ac1a4.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/styleguide/numiko-styleguide-0.1.0-9ac1a4.tar",
                     "reference": "7e646b5c1ed139b3668d3f60e5ab41a1bdcafd64",
                     "shasum": "079e611e1c973950c0ca9acd9e914396544e304c"
                 },
@@ -36,7 +36,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/styleguide/numiko-styleguide-0.2.0-64da6f.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/styleguide/numiko-styleguide-0.2.0-64da6f.tar",
                     "reference": "0a65aede57a4d45cd6ea8bdd6227812e63da09fb",
                     "shasum": "a066a16724e8567e1f47468b53a2faf031e09a16"
                 },
@@ -60,7 +60,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/styleguide/numiko-styleguide-0.3.0-826d03.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/styleguide/numiko-styleguide-0.3.0-826d03.tar",
                     "reference": "a29175c8374e2f76d961052dea1f7e08b924768d",
                     "shasum": "8baaaee3a5245142e9e614da5df6745d41dbc7e6"
                 },

@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/devel_matrix/numiko-devel_matrix-1.0.0-eca3d5.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/devel_matrix/numiko-devel_matrix-1.0.0-eca3d5.tar",
                     "reference": "f3fed4a342f478302fcfc1e4f03b3f212bf22f1f",
                     "shasum": "4cfbeaf06a62f2ea3384bb13c8c2ada5de344400"
                 },

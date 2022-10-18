@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/content_bulk_update/numiko-content_bulk_update-1.0.0-ba7a54.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/content_bulk_update/numiko-content_bulk_update-1.0.0-ba7a54.tar",
                     "reference": "a5c036bffe37f300b15b374960db0df31eb27751",
                     "shasum": "9478a53cdd1f664fe8b10c726df8bde15fbdbc20"
                 },
@@ -39,7 +39,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/content_bulk_update/numiko-content_bulk_update-1.1.0-ffc868.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/content_bulk_update/numiko-content_bulk_update-1.1.0-ffc868.tar",
                     "reference": "4d91541ca5f2b1485558aba4049a2ded2adc8265",
                     "shasum": "1efe49b353c6414b47069bb5d7ad5381059051b7"
                 },
@@ -66,7 +66,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/content_bulk_update/numiko-content_bulk_update-1.2.0-574ec3.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/content_bulk_update/numiko-content_bulk_update-1.2.0-574ec3.tar",
                     "reference": "ed16b8e0c0f2471a7b61b1fc8ac9279c248da881",
                     "shasum": "88fbfd355ba438474f1be3ac29ce01df2ca48c16"
                 },

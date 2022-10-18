@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/responsive_image_class/numiko-responsive_image_class-1.0.1-fd6cc9.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/responsive_image_class/numiko-responsive_image_class-1.0.1-fd6cc9.tar",
                     "reference": "fab4990dc8a5eba5a54089845b503fdec2ed903d",
                     "shasum": "07b0d2249383004f45244d670e81a43093ac354e"
                 },
@@ -31,7 +31,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/responsive_image_class/numiko-responsive_image_class-1.0.2-d87010.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/responsive_image_class/numiko-responsive_image_class-1.0.2-d87010.tar",
                     "reference": "71dee5880192907f7e84cf614408a8cd761d68e0",
                     "shasum": "a5462db24d3d1b4da4d6e3d328e68a000c6f7c6d"
                 },
@@ -50,7 +50,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/responsive_image_class/numiko-responsive_image_class-1.1.0-ae5f28.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/responsive_image_class/numiko-responsive_image_class-1.1.0-ae5f28.tar",
                     "reference": "9be2dae2f4d9777b12666d21c528c874c787f1cf",
                     "shasum": "fcec1a45b6570ebfafd6321e2189f9ddd023f2c6"
                 },
@@ -69,7 +69,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/responsive_image_class/numiko-responsive_image_class-1.2.0-d0f942.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/responsive_image_class/numiko-responsive_image_class-1.2.0-d0f942.tar",
                     "reference": "1d992a0ac37d08d235dbcbde10fab670bb3add6f",
                     "shasum": "10bf1c6a0bc61750cf0c49fc6273a5ab01f68ffb"
                 },
@@ -88,7 +88,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/responsive_image_class/numiko-responsive_image_class-1.2.0-beta1-950b18.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/responsive_image_class/numiko-responsive_image_class-1.2.0-beta1-950b18.tar",
                     "reference": "1a97d424bf5ad2aa93ea93984f4b347d2e27a60c",
                     "shasum": "4ed8b381290b0c87b7938168a6d4082ca1e05126"
                 },

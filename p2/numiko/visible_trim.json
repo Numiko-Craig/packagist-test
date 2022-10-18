@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/visible_trim/numiko-visible_trim-1.0.0-c87df0.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/visible_trim/numiko-visible_trim-1.0.0-c87df0.tar",
                     "reference": "18316f2abdbdde904d6b8e8a8e4cf307928cb270",
                     "shasum": "2db6380290dbd3f1631d2f9563bdd4614f9619c8"
                 },
@@ -37,7 +37,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/visible_trim/numiko-visible_trim-1.0.1-27640f.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/visible_trim/numiko-visible_trim-1.0.1-27640f.tar",
                     "reference": "16b0c363137808f19691348bbf0874b55a9bf52b",
                     "shasum": "58dec263e7322ad9a7d3d5a54eb7dbd79c101160"
                 },
@@ -62,7 +62,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/visible_trim/numiko-visible_trim-1.0.2-c443b4.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/visible_trim/numiko-visible_trim-1.0.2-c443b4.tar",
                     "reference": "9392d7b1e2e571c66d84b657da6cc2a7a3eebe8a",
                     "shasum": "1faec6188d6494dfd3577f23a51893da6828366c"
                 },
@@ -87,7 +87,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/visible_trim/numiko-visible_trim-8.1.0-f500c8.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/visible_trim/numiko-visible_trim-8.1.0-f500c8.tar",
                     "reference": "41737ec33f1feb7c9d0244ff3bdb6185b1e78504",
                     "shasum": "37db0b5a407ff5e66a4937a37a00ff8ea0f12876"
                 },
@@ -112,7 +112,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/visible_trim/numiko-visible_trim-8.1.1-9103eb.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/visible_trim/numiko-visible_trim-8.1.1-9103eb.tar",
                     "reference": "c054f8c0b6fa79003a3205d3f337428ffd545672",
                     "shasum": "20534c6ca53a47da1fcaf778995644cff8e9c15d"
                 },
@@ -137,7 +137,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist//dist/numiko/visible_trim/numiko-visible_trim-8.1.2-5a2a43.tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/visible_trim/numiko-visible_trim-8.1.2-5a2a43.tar",
                     "reference": "d60424635e201ef9f58df8811a95a3392b4d03df",
                     "shasum": "35edb305d5d40f5eeda889c390519751f709e626"
                 },
