@@ -1,0 +1,347 @@
+{
+    "packages": {
+        "numiko/enforceuserlogincsrf": [
+            {
+                "name": "numiko/enforceuserlogincsrf",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/enforceuserlogincsrf.git",
+                    "reference": "cd44fada19d034965c394cad9e766bf06e444c14"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/enforceuserlogincsrf/numiko-enforceuserlogincsrf-1.0.0-ebb178.tar",
+                    "reference": "cd44fada19d034965c394cad9e766bf06e444c14",
+                    "shasum": "0141c00d23a7a6a18608b3e1f231827e21376a2d"
+                },
+                "time": "2017-07-06T14:12:37+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enforces Csrf on login form",
+                "homepage": "https://www.drupal.org/project/secureme",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/secureme",
+                    "source": "http://cgit.drupalcode.org/secureme"
+                }
+            },
+            {
+                "name": "numiko/enforceuserlogincsrf",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/enforceuserlogincsrf.git",
+                    "reference": "f4531573472c05645e7248625a892aaa41db80dd"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/enforceuserlogincsrf/numiko-enforceuserlogincsrf-1.0.1-367d7e.tar",
+                    "reference": "f4531573472c05645e7248625a892aaa41db80dd",
+                    "shasum": "0c2e3ace49b24ab5db2b192235c11e9c5c157420"
+                },
+                "time": "2017-07-06T15:17:49+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enforces Csrf on login form",
+                "homepage": "https://www.drupal.org/project/enforceuserlogincsrf",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/enforceuserlogincsrf",
+                    "source": "http://cgit.drupalcode.org/enforceuserlogincsrf"
+                }
+            },
+            {
+                "name": "numiko/enforceuserlogincsrf",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/enforceuserlogincsrf.git",
+                    "reference": "03921cde938b6b253734bd7951a48ba723026e15"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/enforceuserlogincsrf/numiko-enforceuserlogincsrf-1.1.0-2f3a34.tar",
+                    "reference": "03921cde938b6b253734bd7951a48ba723026e15",
+                    "shasum": "5ae784b91d8becaa860e74b2ff728de08450b857"
+                },
+                "time": "2017-07-06T15:41:23+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enforces Csrf on login form",
+                "homepage": "https://www.drupal.org/project/enforceuserlogincsrf",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/enforceuserlogincsrf",
+                    "source": "http://cgit.drupalcode.org/enforceuserlogincsrf"
+                }
+            },
+            {
+                "name": "numiko/enforceuserlogincsrf",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/enforceuserlogincsrf.git",
+                    "reference": "5b36e54a4229463adc32fabee7340abbb4ddc7f7"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/enforceuserlogincsrf/numiko-enforceuserlogincsrf-1.1.1-24f319.tar",
+                    "reference": "5b36e54a4229463adc32fabee7340abbb4ddc7f7",
+                    "shasum": "d9f65539bb33d3fd374ee73803933f6e1e6f8cf2"
+                },
+                "time": "2017-07-06T16:13:59+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enforces Csrf on login form",
+                "homepage": "https://www.drupal.org/project/enforceuserlogincsrf",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/enforceuserlogincsrf",
+                    "source": "http://cgit.drupalcode.org/enforceuserlogincsrf"
+                }
+            },
+            {
+                "name": "numiko/enforceuserlogincsrf",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/enforceuserlogincsrf.git",
+                    "reference": "6b4ac00f1af750662a675990d59aca52de51cdbe"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/enforceuserlogincsrf/numiko-enforceuserlogincsrf-1.1.2-9e0c0d.tar",
+                    "reference": "6b4ac00f1af750662a675990d59aca52de51cdbe",
+                    "shasum": "d17759e0e1c9de87033446dbfafaacd434c5181f"
+                },
+                "time": "2017-07-07T14:26:40+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enforces Csrf on login form",
+                "homepage": "https://www.drupal.org/project/enforceuserlogincsrf",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/enforceuserlogincsrf",
+                    "source": "http://cgit.drupalcode.org/enforceuserlogincsrf"
+                }
+            },
+            {
+                "name": "numiko/enforceuserlogincsrf",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/enforceuserlogincsrf.git",
+                    "reference": "5709d37932fe703da73154832ffb71cdac7f73a0"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/enforceuserlogincsrf/numiko-enforceuserlogincsrf-1.2.1-8a116c.tar",
+                    "reference": "5709d37932fe703da73154832ffb71cdac7f73a0",
+                    "shasum": "e375810984538480b8c5f19d057262124176f518"
+                },
+                "time": "2017-07-07T14:54:39+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enforces Csrf on login form",
+                "homepage": "https://www.drupal.org/project/enforceuserlogincsrf",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/enforceuserlogincsrf",
+                    "source": "http://cgit.drupalcode.org/enforceuserlogincsrf"
+                }
+            },
+            {
+                "name": "numiko/enforceuserlogincsrf",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/enforceuserlogincsrf.git",
+                    "reference": "60e11d047da39d46145b19fc1ce1295fbed3543a"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/enforceuserlogincsrf/numiko-enforceuserlogincsrf-1.2.2-50ccae.tar",
+                    "reference": "60e11d047da39d46145b19fc1ce1295fbed3543a",
+                    "shasum": "861c677fffa4bb72e0287b56f4ef29c1b3b501f8"
+                },
+                "time": "2017-07-07T14:58:40+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enforces Csrf on login form",
+                "homepage": "https://www.drupal.org/project/enforceuserlogincsrf",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/enforceuserlogincsrf",
+                    "source": "http://cgit.drupalcode.org/enforceuserlogincsrf"
+                }
+            },
+            {
+                "name": "numiko/enforceuserlogincsrf",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/enforceuserlogincsrf.git",
+                    "reference": "ee61c5542c01322dd94e122846d917c547fb7ea9"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/enforceuserlogincsrf/numiko-enforceuserlogincsrf-1.2.3-fcbc70.tar",
+                    "reference": "ee61c5542c01322dd94e122846d917c547fb7ea9",
+                    "shasum": "0a874ef520e1e9247988f34236d79f922898f7e1"
+                },
+                "time": "2017-07-07T15:15:54+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enforces Csrf on login form",
+                "homepage": "https://www.drupal.org/project/enforceuserlogincsrf",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/enforceuserlogincsrf",
+                    "source": "http://cgit.drupalcode.org/enforceuserlogincsrf"
+                }
+            },
+            {
+                "name": "numiko/enforceuserlogincsrf",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/enforceuserlogincsrf.git",
+                    "reference": "badf9f8a427a726d752ef4dfdf0f5fc745d5f22b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/enforceuserlogincsrf/numiko-enforceuserlogincsrf-1.2.4-b59e76.tar",
+                    "reference": "badf9f8a427a726d752ef4dfdf0f5fc745d5f22b",
+                    "shasum": "5fe66cbbc76d7472ac2a5db4b388f71f44a6f986"
+                },
+                "time": "2018-02-21T11:31:59+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enforces Csrf on login form",
+                "homepage": "https://www.drupal.org/project/enforceuserlogincsrf",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/enforceuserlogincsrf",
+                    "source": "http://cgit.drupalcode.org/enforceuserlogincsrf"
+                }
+            },
+            {
+                "name": "numiko/enforceuserlogincsrf",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/enforceuserlogincsrf.git",
+                    "reference": "6b4af81c82fe35c63cffe449bc0162b17d190024"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/enforceuserlogincsrf/numiko-enforceuserlogincsrf-2.0.0-7d0586.tar",
+                    "reference": "6b4af81c82fe35c63cffe449bc0162b17d190024",
+                    "shasum": "e912f8f53fa8fbfb39ee4abcec43537c6a8ff51f"
+                },
+                "time": "2021-10-06T08:15:54+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enforces Csrf on login form",
+                "homepage": "https://www.drupal.org/project/enforceuserlogincsrf",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/enforceuserlogincsrf",
+                    "source": "http://cgit.drupalcode.org/enforceuserlogincsrf"
+                }
+            },
+            {
+                "name": "numiko/enforceuserlogincsrf",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/enforceuserlogincsrf.git",
+                    "reference": "7598f35aa77ce54c4dfaa0f47a944c9079b55421"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/enforceuserlogincsrf/numiko-enforceuserlogincsrf-2.0.1-4051ee.tar",
+                    "reference": "7598f35aa77ce54c4dfaa0f47a944c9079b55421",
+                    "shasum": "15d3abcbe4e6119a7a6bbdb3c86ebb031ee43ed0"
+                },
+                "time": "2021-10-11T08:42:15+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Enforces Csrf on login form",
+                "homepage": "https://www.drupal.org/project/enforceuserlogincsrf",
+                "keywords": [
+                    "Drupal"
+                ],
+                "support": {
+                    "issues": "https://www.drupal.org/project/issues/enforceuserlogincsrf",
+                    "source": "http://cgit.drupalcode.org/enforceuserlogincsrf"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "numiko/security_checker": [
+            {
+                "name": "numiko/security_checker",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/security-checker.git",
+                    "reference": "ab3c39b0bb1863144dfcca2ff638575c35fdf75b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko.github.io/packagist/dist/numiko/security_checker/numiko-security_checker-1.0.0-40bcb2.tar",
+                    "reference": "ab3c39b0bb1863144dfcca2ff638575c35fdf75b",
+                    "shasum": "a68b8eb7ea71921c5e2fc5ceba0e5d4bad1c2994"
+                },
+                "time": "2022-08-11T14:51:58+00:00",
+                "type": "library",
+                "installation-source": "source",
+                "description": "Check composer.lock file for security updates"
+            }
+        ]
+    }
+}
