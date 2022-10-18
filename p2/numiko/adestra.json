@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/adestra/numiko-adestra-1.0.0-137dab.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/adestra/numiko-adestra-1.0.0-137dab.tar",
                     "reference": "21144024518ed0ab82701535677c409f9ce7666c",
                     "shasum": "b31a1b99caf1beb0b2d69c8e9291d0558f76b626"
                 },
@@ -21,7 +21,6 @@
                 },
                 "time": "2021-07-01T09:42:09+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -39,7 +38,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/adestra/numiko-adestra-1.0.1-154586.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/adestra/numiko-adestra-1.0.1-154586.tar",
                     "reference": "8833d8a12a9dd9470a086850c3fc41fd22043a8f",
                     "shasum": "aeff0021ebda5c4850c12740732957e4aad0177c"
                 },
@@ -48,7 +47,6 @@
                 },
                 "time": "2021-07-01T14:14:54+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -66,7 +64,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/adestra/numiko-adestra-2.0.0-1f15c6.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/adestra/numiko-adestra-2.0.0-1f15c6.tar",
                     "reference": "5806286742fee3aacdf368282d2f117d0700a126",
                     "shasum": "c7dd9cb70d47052630e2c6af5121f2bbd4428480"
                 },
@@ -75,7 +73,6 @@
                 },
                 "time": "2021-08-10T08:02:17+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

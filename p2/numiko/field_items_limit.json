@@ -12,13 +12,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/field_items_limit/numiko-field_items_limit-1.0.0-052d3f.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/field_items_limit/numiko-field_items_limit-1.0.0-052d3f.tar",
                     "reference": "35b769dd5c20f01304844d826972cde67034370e",
                     "shasum": "c7c8e87fadcc2ade5163829fea930aef28e8373f"
                 },
                 "time": "2018-07-30T09:40:12+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -38,13 +37,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/field_items_limit/numiko-field_items_limit-1.0.1-365028.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/field_items_limit/numiko-field_items_limit-1.0.1-365028.tar",
                     "reference": "bf6487b5de7d47c10f0f018cb1c8eccbf42781c7",
                     "shasum": "2ddbfb84166c290703e0c53b97197d0b05e581cf"
                 },
                 "time": "2021-10-19T10:51:02+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -64,13 +62,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/field_items_limit/numiko-field_items_limit-1.1.0-8423d3.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/field_items_limit/numiko-field_items_limit-1.1.0-8423d3.tar",
                     "reference": "7aa29de4f4e539725ebeb3e81260fda297e515e8",
                     "shasum": "2bb28f3ba45cbb5fa90a1d50be25510d8d8dd83b"
                 },
                 "time": "2022-09-05T13:48:26+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

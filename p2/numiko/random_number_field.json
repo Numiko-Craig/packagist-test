@@ -12,13 +12,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/random_number_field/numiko-random_number_field-1.0.0-296cfa.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/random_number_field/numiko-random_number_field-1.0.0-296cfa.tar",
                     "reference": "68e4847a63329b6d9f6480ca7c1645b94ee750fb",
                     "shasum": "b2f5f0cbfcd31f6631867f8382bab29ad5b37c00"
                 },
                 "time": "2018-07-30T10:23:48+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

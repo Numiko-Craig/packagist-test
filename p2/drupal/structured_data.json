@@ -12,13 +12,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/drupal/structured_data/drupal-structured_data-8.1.1-ef93c1.tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal/structured_data/drupal-structured_data-8.1.1-ef93c1.tar",
                     "reference": "c2882df15ef0f76518fd38c446d3363de244fd95",
                     "shasum": "059416cba7ac89b551726fcc9dd839fc25c66913"
                 },
                 "time": "2017-03-07T14:48:40+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -38,13 +37,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/drupal/structured_data/drupal-structured_data-8.1.2-0462c3.tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal/structured_data/drupal-structured_data-8.1.2-0462c3.tar",
                     "reference": "3c58f54206da573f4fbfe007d4d3b7ec2980775c",
                     "shasum": "8f7c522b6ac309c58cd2e107d5bfadefba71c6d6"
                 },
                 "time": "2017-04-24T15:41:04+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -64,13 +62,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/drupal/structured_data/drupal-structured_data-8.1.3-35a7c3.tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal/structured_data/drupal-structured_data-8.1.3-35a7c3.tar",
                     "reference": "27452a5018de5d4a3f03668574b6ef0ebf76b768",
                     "shasum": "3f64407bf7e03e9096e93ce8474119ef54467565"
                 },
                 "time": "2018-01-18T13:39:39+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -90,13 +87,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/drupal/structured_data/drupal-structured_data-8.1.4-e40b0f.tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal/structured_data/drupal-structured_data-8.1.4-e40b0f.tar",
                     "reference": "9353d81c7f7e198073a02662d54e81cb4467b80c",
                     "shasum": "5ce72dcd419bfb3757998d1eb17c45d9ead43b5d"
                 },
                 "time": "2018-01-19T09:02:50+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -116,13 +112,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/drupal/structured_data/drupal-structured_data-8.1.5-080c1d.tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal/structured_data/drupal-structured_data-8.1.5-080c1d.tar",
                     "reference": "48d5be75e5150d68c3f50b46b8ab09948e28c804",
                     "shasum": "39d653ecc1da489d31217207f1734b870d70ee52"
                 },
                 "time": "2019-01-09T09:50:34+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -142,13 +137,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/drupal/structured_data/drupal-structured_data-8.1.6-beta.1-f09a08.tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal/structured_data/drupal-structured_data-8.1.6-beta.1-f09a08.tar",
                     "reference": "45790476b029ed0e0c94cca8e0a03e388d32661f",
                     "shasum": "6c6fdf7cba13a537dd724df903be7aad0ff56c6e"
                 },
                 "time": "2019-04-15T15:17:06+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -168,13 +162,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/drupal/structured_data/drupal-structured_data-8.1.7-0377ba.tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal/structured_data/drupal-structured_data-8.1.7-0377ba.tar",
                     "reference": "a8263a06b5d5cdc2fd1bf3e1b17929b9b3151f06",
                     "shasum": "a2b2263ddb2039bed7c2fbc7cbfd619ca008a1ed"
                 },
                 "time": "2021-06-25T10:16:06+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -194,13 +187,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/drupal/structured_data/drupal-structured_data-8.2.0-81945f.tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal/structured_data/drupal-structured_data-8.2.0-81945f.tar",
                     "reference": "058362019180f129bea13358ac816a87458a4672",
                     "shasum": "751bb4a43014efff5c3cffe2d0ad12f4434ac599"
                 },
                 "time": "2022-09-15T08:03:16+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

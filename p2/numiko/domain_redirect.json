@@ -12,13 +12,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_redirect/numiko-domain_redirect-8.1.0-250b0e.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/domain_redirect/numiko-domain_redirect-8.1.0-250b0e.tar",
                     "reference": "ab5ec3ab431e85a91411159e735ed871de63acf2",
                     "shasum": "51a604a179f2d8cb04e09fdd941987fda70c730b"
                 },
                 "time": "2017-08-17T10:59:54+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -43,13 +42,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_redirect/numiko-domain_redirect-8.1.1-18f60a.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/domain_redirect/numiko-domain_redirect-8.1.1-18f60a.tar",
                     "reference": "5ec0e86125d2e31e8ab42058d9a8bbcc5019cddf",
                     "shasum": "916d67e10876f61bdb943dd1de115fda6a634bdd"
                 },
                 "time": "2017-08-17T14:55:02+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -74,13 +72,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_redirect/numiko-domain_redirect-8.1.2-a582fa.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/domain_redirect/numiko-domain_redirect-8.1.2-a582fa.tar",
                     "reference": "31b0bd03af287556cf7e7753b71ab9b80a759b9b",
                     "shasum": "4540aa22860fdd396ca673c3f49197172d1e857f"
                 },
                 "time": "2017-09-11T15:25:20+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -105,13 +102,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_redirect/numiko-domain_redirect-8.1.3-c74bf7.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/domain_redirect/numiko-domain_redirect-8.1.3-c74bf7.tar",
                     "reference": "4749a1593be6ede28dbd5624924736ce4b0873e5",
                     "shasum": "45e666f015dfdf3b6871d274689287938c0a3623"
                 },
                 "time": "2017-10-05T10:42:12+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -136,13 +132,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_redirect/numiko-domain_redirect-8.1.3-beta1-a03249.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/domain_redirect/numiko-domain_redirect-8.1.3-beta1-a03249.tar",
                     "reference": "0bc818c2b0b35d8c45b2adfb0be18150fe3f59a8",
                     "shasum": "8bfc4edfa05e29f0a98f53c607d29f9d3782b5fe"
                 },
                 "time": "2017-10-25T17:12:15+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -167,13 +162,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_redirect/numiko-domain_redirect-8.1.4-942206.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/domain_redirect/numiko-domain_redirect-8.1.4-942206.tar",
                     "reference": "1d514b012aac4cf715bd2c99cd66150061632cc1",
                     "shasum": "a56c4dde6049c7925234f670800eb25eea99c9ef"
                 },
                 "time": "2017-10-31T13:34:40+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -198,13 +192,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_redirect/numiko-domain_redirect-8.1.5-9c901f.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/domain_redirect/numiko-domain_redirect-8.1.5-9c901f.tar",
                     "reference": "c68c582d826afeb7f20e0588d0dff087e3a27706",
                     "shasum": "2451bc276d201d51ec3808a61a2f53bd6e2fdff6"
                 },
                 "time": "2018-10-29T17:38:56+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -229,13 +222,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_redirect/numiko-domain_redirect-8.1.6-ffd63c.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/domain_redirect/numiko-domain_redirect-8.1.6-ffd63c.tar",
                     "reference": "daf9383ca1b23249ce2bd1b40192721fcd9c47f7",
                     "shasum": "27aa042a3c2f91560fa6fa509dc2ca15d0906c86"
                 },
                 "time": "2018-10-29T17:39:54+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -260,13 +252,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_redirect/numiko-domain_redirect-8.1.7-0072ab.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/domain_redirect/numiko-domain_redirect-8.1.7-0072ab.tar",
                     "reference": "8239d1aecf955e9f41057c6ab831c69cad477d9e",
                     "shasum": "f77b320fb806ea51ae4d6753dcad1ff192168761"
                 },
                 "time": "2018-10-29T17:50:40+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -291,13 +282,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_redirect/numiko-domain_redirect-8.1.8-beta.1-f87c8c.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/domain_redirect/numiko-domain_redirect-8.1.8-beta.1-f87c8c.tar",
                     "reference": "5c4664374137b9ac3b1123af9e8f462b21b77a2f",
                     "shasum": "696513c980e345ba1997cc759db1c5fafb12e879"
                 },
                 "time": "2018-11-15T11:48:13+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -322,13 +312,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_redirect/numiko-domain_redirect-8.1.9-4912ed.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/domain_redirect/numiko-domain_redirect-8.1.9-4912ed.tar",
                     "reference": "07640de16ec31ab1e8a20e5dc5d7c84994111002",
                     "shasum": "5c8dda867f368cfa67ce7add96f5e2b180c6dfbf"
                 },
                 "time": "2020-02-18T17:10:54+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -353,13 +342,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_redirect/numiko-domain_redirect-8.2.0-fc4f38.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/domain_redirect/numiko-domain_redirect-8.2.0-fc4f38.tar",
                     "reference": "1ea873aa2146d2ef55f1f6fd991eb80b7e16f825",
                     "shasum": "cb374a2b24210bd812367fff5578d640850a0cc3"
                 },
                 "time": "2021-06-25T12:52:56+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -384,13 +372,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_redirect/numiko-domain_redirect-8.2.1-457d3a.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/domain_redirect/numiko-domain_redirect-8.2.1-457d3a.tar",
                     "reference": "42b5c781fa8cffdc57f9f7a59e20a98190530f9f",
                     "shasum": "b117a0127cb8486c2c73800d1756703801155a23"
                 },
                 "time": "2021-08-26T10:35:42+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -415,13 +402,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/domain_redirect/numiko-domain_redirect-8.2.2-37c7f3.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/domain_redirect/numiko-domain_redirect-8.2.2-37c7f3.tar",
                     "reference": "1601ba974b4ab8f2a3874b3a227d3e53c915dd57",
                     "shasum": "2d1bba57a58e725174359f874ebd041b92e3354a"
                 },
                 "time": "2021-11-24T09:47:16+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

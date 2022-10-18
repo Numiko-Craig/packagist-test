@@ -12,13 +12,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/dotmailer/numiko-dotmailer-2.0.0-af95a5.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/dotmailer/numiko-dotmailer-2.0.0-af95a5.tar",
                     "reference": "9115c0358fadffecf93d201873273e87b605ed37",
                     "shasum": "c8ca56e6f145ed58e2228b18ab5fd902b2e336f6"
                 },
                 "time": "2019-05-14T10:55:28+00:00",
                 "type": "library",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

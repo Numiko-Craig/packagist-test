@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha1-bcc50c.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha1-bcc50c.tar",
                     "reference": "99776a1bf5482f2d236a891b15ca4b2da5263bf2",
                     "shasum": "e3755183f0ab695e829eba3e79b625b379f8ccad"
                 },
@@ -91,7 +91,6 @@
                 },
                 "time": "2018-01-10T13:12:28+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -108,7 +107,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha10-f11a41.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha10-f11a41.tar",
                     "reference": "e9c188639b3483be9dfa1e15773c70f5d5717ad6",
                     "shasum": "fad6d7cda4d82f30114bbc4ee7a069737bdf30d7"
                 },
@@ -190,7 +189,6 @@
                 },
                 "time": "2018-01-12T15:53:53+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -207,7 +205,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha11-3e0ed0.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha11-3e0ed0.tar",
                     "reference": "b6e9503864a6c44f7053586bbb5ba5dc7c226b81",
                     "shasum": "f5b579c2d6d66439fcd33b0affc474b9c4c06694"
                 },
@@ -289,7 +287,6 @@
                 },
                 "time": "2018-01-12T16:12:40+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -306,7 +303,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha12-6f6a55.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha12-6f6a55.tar",
                     "reference": "bbe0bc1bdb31e13f835fb0b081b9aba28733d95a",
                     "shasum": "55e8b3a4e01ccbfe8fc11779a1db1919221a4524"
                 },
@@ -388,7 +385,6 @@
                 },
                 "time": "2018-01-15T10:01:55+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -405,7 +401,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha13-8754d8.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha13-8754d8.tar",
                     "reference": "afb7d3913706888b46bedcd172cc93fa024172ca",
                     "shasum": "651c46656bc1d2f98425bae3c5a8735563da2a6a"
                 },
@@ -487,7 +483,6 @@
                 },
                 "time": "2018-01-15T15:01:02+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -504,7 +499,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha14-1e26c7.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha14-1e26c7.tar",
                     "reference": "ae6cdc4c08f593c0056af297336e684e91c0abb8",
                     "shasum": "05b9534b30ac7b519ac15a4efbcb7ddd4c17e268"
                 },
@@ -602,7 +597,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -619,7 +613,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha15-f0a29c.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha15-f0a29c.tar",
                     "reference": "ff76bd5e73c6eaa5aed2bfeff287a9a7d9469117",
                     "shasum": "e5322c905b909e9dbbe9a060bb789096841a2385"
                 },
@@ -720,7 +714,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -737,7 +730,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha16-0e16af.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha16-0e16af.tar",
                     "reference": "dce0b2d6f9cdfaa20dd2389dca9b2291f0b6848f",
                     "shasum": "552321b83f1f7320c441f0a9e3469eb5f3c1ed70"
                 },
@@ -838,7 +831,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -855,7 +847,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha17-dd6ae6.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha17-dd6ae6.tar",
                     "reference": "e150be6e3ee31f88c884611795f6468d1bcf2ca3",
                     "shasum": "a331a42fd1c647ed1779626b1dab8374b9e292f8"
                 },
@@ -960,7 +952,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -977,7 +968,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha18-db499f.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha18-db499f.tar",
                     "reference": "e30acc5013baf22e29f8964422971af5fa733397",
                     "shasum": "fc1b169b570a3033584a69615558fb669b5b857f"
                 },
@@ -1085,7 +1076,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -1102,7 +1092,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha19-6f75a3.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha19-6f75a3.tar",
                     "reference": "5aa991827fa89c26e8d84280adc45056b8710e0b",
                     "shasum": "d323618caedf8f2ee1e56aec726c41f52772d7f3"
                 },
@@ -1210,7 +1200,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -1227,7 +1216,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha2-ae2c01.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha2-ae2c01.tar",
                     "reference": "9eb1892d11cf444c485dd06514ecb5493bc71ffd",
                     "shasum": "da3500656690fdc3c48c1824d7e428d13e858af2"
                 },
@@ -1306,7 +1295,6 @@
                 },
                 "time": "2018-01-10T13:43:40+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -1323,7 +1311,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha20-beb19b.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha20-beb19b.tar",
                     "reference": "fbf974afcff4d19fc96ae904a40302bc36839143",
                     "shasum": "e11583059020ee66222614e581712355cedb173f"
                 },
@@ -1431,7 +1419,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -1448,7 +1435,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha3-d7509c.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha3-d7509c.tar",
                     "reference": "f9bfea49388420a26b75f030f1dd1fb268cdf92f",
                     "shasum": "0d8426d8a9c66ce6d2bdb68e4494dca3faec9467"
                 },
@@ -1528,7 +1515,6 @@
                 },
                 "time": "2018-01-11T09:31:14+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -1545,7 +1531,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha4-53b37d.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha4-53b37d.tar",
                     "reference": "30c44f317f71398067099d1383e5ad3ad62cdb1d",
                     "shasum": "d3a244bdd8b102fd82ddcbfa55a5ccc5346cbb36"
                 },
@@ -1625,7 +1611,6 @@
                 },
                 "time": "2018-01-11T15:23:26+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -1642,7 +1627,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha5-769b26.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha5-769b26.tar",
                     "reference": "dfea2a37e5cbc5ec423fb51a8e0c8cffc140078b",
                     "shasum": "3209bed6915ea15990316799c441abd2a793763d"
                 },
@@ -1724,7 +1709,6 @@
                 },
                 "time": "2018-01-12T09:16:29+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -1741,7 +1725,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha6-a098b6.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha6-a098b6.tar",
                     "reference": "c551c4b41a1b80075d4961a77bd05635311c051f",
                     "shasum": "667ef0fac9d94eac60665f5fddd7c382ff31af4a"
                 },
@@ -1823,7 +1807,6 @@
                 },
                 "time": "2018-01-12T12:26:21+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -1840,7 +1823,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha7-dc4a32.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha7-dc4a32.tar",
                     "reference": "351d83ec81e88c69d2b1c8fcbe75b351e7e63f4c",
                     "shasum": "f2c14c62c595bacfde0cf4478c9b592b1d9c622b"
                 },
@@ -1922,7 +1905,6 @@
                 },
                 "time": "2018-01-12T13:49:37+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -1939,7 +1921,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha8-a0a049.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha8-a0a049.tar",
                     "reference": "30457c4af3f3c6a1cc8a1082e1930f08dffb53c7",
                     "shasum": "fdcda86c44d28c7ad4d2f27aeab485a0931d1b80"
                 },
@@ -2021,7 +2003,6 @@
                 },
                 "time": "2018-01-12T14:49:31+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -2038,7 +2019,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha9-57f6d6.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-alpha9-57f6d6.tar",
                     "reference": "d204becd545c06980d7dddfe03295c9da00ef4a3",
                     "shasum": "7e99d4e465dae94b6b586dbb9792a6410a092c74"
                 },
@@ -2120,7 +2101,6 @@
                 },
                 "time": "2018-01-12T15:36:23+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -2137,7 +2117,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.1.0-beta1-f0d146.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.1.0-beta1-f0d146.tar",
                     "reference": "28d29cee9084ae79f41bd399c4416ed3adf273b8",
                     "shasum": "e0e283d0e97ccfa98f0db007e3d3660d9c921d36"
                 },
@@ -2241,7 +2221,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -2258,7 +2237,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.2.0-36ebc4.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.2.0-36ebc4.tar",
                     "reference": "ae000c716dc97d59fe41e33f4d88e0211f789344",
                     "shasum": "f7f16d35f9cf919ca29cd08396833c7a95f72412"
                 },
@@ -2362,7 +2341,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -2379,7 +2357,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.2.1-7100d7.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.2.1-7100d7.tar",
                     "reference": "bc285cb2098698818844527942745b64ae53f86e",
                     "shasum": "5fef57f3ef6d49f28b9c48649def3cb656607f35"
                 },
@@ -2483,7 +2461,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -2500,7 +2477,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.2.2-ff31cb.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.2.2-ff31cb.tar",
                     "reference": "d1d83b9febe1081d54caec1a40a26894f350b2c2",
                     "shasum": "9923f227252db409f2770c77229c832f1a4fe069"
                 },
@@ -2604,7 +2581,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -2621,7 +2597,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.2.3-b0fb81.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.2.3-b0fb81.tar",
                     "reference": "fe93d493a22b5350fd5b1dbcd7385e1baab70d32",
                     "shasum": "c7095647d89e307d35fe7ebb52b2fdf9baab7ef0"
                 },
@@ -2725,7 +2701,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -2742,7 +2717,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.3.0-51ea0e.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.3.0-51ea0e.tar",
                     "reference": "d0029150d944aa87839e44a3d6b33d6a42461264",
                     "shasum": "3afa411d03b4e9075670e52051c1f4d942b053ae"
                 },
@@ -2846,7 +2821,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -2863,7 +2837,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-0.4.0-237b9d.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-0.4.0-237b9d.tar",
                     "reference": "56270f8cfb880625e5ca15990170bde721f18883",
                     "shasum": "a2b90613d99db765af25ab93bfe026674c5da382"
                 },
@@ -2967,7 +2941,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -2984,7 +2957,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-1.0.0-0ac224.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-1.0.0-0ac224.tar",
                     "reference": "e2a1523bce5993fec8ec8117430cb3e08b18f156",
                     "shasum": "a7fb73cc9c533b348a97dccc120a16aff6dba079"
                 },
@@ -3086,7 +3059,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -3103,7 +3075,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-1.1.0-30f300.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-1.1.0-30f300.tar",
                     "reference": "9b40269ab057d40546aeba4267365562fa74589c",
                     "shasum": "b6544806396c718e7df2eca135130bfca2d6d8a1"
                 },
@@ -3205,7 +3177,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -3222,7 +3193,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-1.2.0-ddb065.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-1.2.0-ddb065.tar",
                     "reference": "04f7af49eac01fc451ab49a52f15bb1184fa2b15",
                     "shasum": "983cd36f449bead966975d1924cb1fd07c354522"
                 },
@@ -3324,7 +3295,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -3341,7 +3311,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-1.3.0-c3698f.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-1.3.0-c3698f.tar",
                     "reference": "6b9632958fe8258673c7825395be927cf4f3f629",
                     "shasum": "541899b53a37e77d2d8df1c0b488a30ea584c27d"
                 },
@@ -3443,7 +3413,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -3460,7 +3429,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-2.0.0-61ae54.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-2.0.0-61ae54.tar",
                     "reference": "d2501cb7b4949f5e6bb754ff333e282e9a738a25",
                     "shasum": "50f17eeccb8c8aea8df01e83d64c9d0fed53f7ef"
                 },
@@ -3561,7 +3530,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -3578,7 +3546,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-2.0.1-e9cae1.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-2.0.1-e9cae1.tar",
                     "reference": "bf243be9228ac01dc5c802bed071946bb7cab08f",
                     "shasum": "a07fa02fb704315c08f368d89bb371534455c2d2"
                 },
@@ -3679,7 +3647,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -3696,7 +3663,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-2.0.2-58bdb5.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-2.0.2-58bdb5.tar",
                     "reference": "cbafa5535ddbac57cd127470bd2ca7d961226b8f",
                     "shasum": "59295b581e45e48e4ead68f795a3fe4a3878138c"
                 },
@@ -3797,7 +3764,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -3814,7 +3780,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-2.0.3-1c4db1.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-2.0.3-1c4db1.tar",
                     "reference": "8c877e373381796b72fdac2c9378d71db0af89e6",
                     "shasum": "7436f8663694170bc8ade5f9a2a44f2245f2e5a6"
                 },
@@ -3915,7 +3881,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -3932,7 +3897,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-2.1.0-f5f4b9.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-2.1.0-f5f4b9.tar",
                     "reference": "d22f9ede239835bd1d2d9890e3c448625c7f9e8c",
                     "shasum": "578f9a9f6b0e6abad726cff0beea77ff1cd70bb6"
                 },
@@ -4033,7 +3998,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -4050,7 +4014,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-2.1.1-be1e80.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-2.1.1-be1e80.tar",
                     "reference": "5bb989c745c946d7e2176f379ce0fe558fb766b9",
                     "shasum": "a84c321b5b7e2fc89ecc27cbdeae74b51ee22f13"
                 },
@@ -4151,7 +4115,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -4168,7 +4131,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-2.2.0-98cf18.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-2.2.0-98cf18.tar",
                     "reference": "a675ed4797389ea0d7fe7d768020c4fb00726afe",
                     "shasum": "a058bdf0bd7b16f52822176b275804ddc05a3980"
                 },
@@ -4269,7 +4232,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -4286,7 +4248,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-2.3.0-beta1-49b2ff.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-2.3.0-beta1-49b2ff.tar",
                     "reference": "17734f50192a3942463b3eade21707f8850bdcfd",
                     "shasum": "6181de0b01bda7544b80e6e2691014f32b9d5a51"
                 },
@@ -4387,7 +4349,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -4404,7 +4365,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-2.3.0-beta2-f65da4.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-2.3.0-beta2-f65da4.tar",
                     "reference": "980c72a1e86201f775c5e8c5ce89a41ab9019b78",
                     "shasum": "2a9873a89378b1f0f2eb0b5d14d03bf959caf99c"
                 },
@@ -4505,7 +4466,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -4522,7 +4482,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-2.3.0-beta3-fd7760.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-2.3.0-beta3-fd7760.tar",
                     "reference": "49947b9570ffc18a281330912bfb7cda377807e0",
                     "shasum": "3ff87c3f274115845c063f489a634d0eea40a76e"
                 },
@@ -4623,7 +4583,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -4640,7 +4599,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-2.3.0-beta4-811ea4.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-2.3.0-beta4-811ea4.tar",
                     "reference": "c91e947aa939f6ce1e51a0f0e3ee9948b6610e45",
                     "shasum": "ab797a324fb626fd1b3c6a1914da59360df80c96"
                 },
@@ -4741,7 +4700,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -4758,7 +4716,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.0-a3fed7.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.0-a3fed7.tar",
                     "reference": "36b4e8e62aac1c0b4d976d44ce99edcd75f606ac",
                     "shasum": "7870207f9eb19ff3c37d1a07b67c572c31a54a6f"
                 },
@@ -4860,7 +4818,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -4877,7 +4834,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.1-98cf18.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.1-98cf18.tar",
                     "reference": "a675ed4797389ea0d7fe7d768020c4fb00726afe",
                     "shasum": "725fff2c7794c19906d196e51a4aa13a23a2132a"
                 },
@@ -4978,7 +4935,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -4995,7 +4951,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.10-2ecf46.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.10-2ecf46.tar",
                     "reference": "7adc64b8fd8ed18376f0056bccff65f4f7239b2c",
                     "shasum": "ffb48761d476f8938cb6cc08103a08769e0aecbf"
                 },
@@ -5097,7 +5053,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -5114,7 +5069,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.11-797a0c.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.11-797a0c.tar",
                     "reference": "0c05082e7f959375f0be1dce68374580d71c481e",
                     "shasum": "cda0f083b1bd09d99aacc0e9a9f412c30eaa269a"
                 },
@@ -5216,7 +5171,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -5233,7 +5187,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.12-044a1c.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.12-044a1c.tar",
                     "reference": "63ef5f5e9fb22191d1f25d5ecd742b64b5b4edd6",
                     "shasum": "e677c4a14e285a2a1e6f8d333e697e552be0ed0b"
                 },
@@ -5335,7 +5289,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -5352,7 +5305,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.13-a3fed7.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.13-a3fed7.tar",
                     "reference": "36b4e8e62aac1c0b4d976d44ce99edcd75f606ac",
                     "shasum": "d04dda5b70f461cc5927adc94e9c6eaebf084d27"
                 },
@@ -5454,7 +5407,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -5471,7 +5423,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.2-2ae4e9.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.2-2ae4e9.tar",
                     "reference": "759d969e81d30391449e0b34108a757c848d8ced",
                     "shasum": "98eb291a510b5ab42cc8b9995afa562e7ef96278"
                 },
@@ -5563,7 +5515,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -5580,7 +5531,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.3-dca782.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.3-dca782.tar",
                     "reference": "0ded07afd0515636da21078234982eba53dc6dbb",
                     "shasum": "4a9fc933e242dfaa554d8a8fe1665294bf1d025f"
                 },
@@ -5673,7 +5624,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -5690,7 +5640,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.4-8a59fa.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.4-8a59fa.tar",
                     "reference": "226fc45a66c664f7f90af9ce69f03ee54e25e032",
                     "shasum": "ee5c0540359b5f41f509cabead2fed87c635dc6e"
                 },
@@ -5784,7 +5734,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -5801,7 +5750,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.6-24d705.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.6-24d705.tar",
                     "reference": "4d49fefabb6ed85ab70d7e219f4b529f1e437018",
                     "shasum": "79ae7c687e223f44cb4afdbe2c615c7447bb1690"
                 },
@@ -5894,7 +5843,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -5911,7 +5859,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.7-58d9f7.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.7-58d9f7.tar",
                     "reference": "e915e0f03e77d89b9c3bdaf06e921c2f278bf05b",
                     "shasum": "7d6f96fd985e234e34d39fcad1dd6499fc7ada79"
                 },
@@ -6006,7 +5954,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -6023,7 +5970,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.8-644895.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.8-644895.tar",
                     "reference": "7577cda1de1036d60fd87a99a47d1ef3a03d43ef",
                     "shasum": "bdda8d5c112c50be8faf3b352a6e905096b198f6"
                 },
@@ -6125,7 +6072,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -6142,7 +6088,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.9-686faa.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.0-beta.9-686faa.tar",
                     "reference": "022ca9469f822c564403507517741d35bd08fe43",
                     "shasum": "be2d505a46d4c6cacddddeec20c3093e299f9ed2"
                 },
@@ -6244,7 +6190,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -6261,7 +6206,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.1-095cf3.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.1-095cf3.tar",
                     "reference": "57b40fdb745a4f13e26f07ec932cbe3afac8016c",
                     "shasum": "5caa6a79035ace0bbe03f546feb342ee5cd852e8"
                 },
@@ -6363,7 +6308,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -6380,7 +6324,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.1-beta1-df5588.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.1-beta1-df5588.tar",
                     "reference": "8714fde696254ca729ec336ef7238ebe07b7628d",
                     "shasum": "709947f7eeb62efb532f5e18418ea26aad1db993"
                 },
@@ -6482,7 +6426,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -6499,7 +6442,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.1-beta2-9e4d7e.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.1-beta2-9e4d7e.tar",
                     "reference": "a34a06ddbdc70d2b7c81f185fd94735b32ca93d2",
                     "shasum": "77b05c5182f58baa5425e96bbb252a96a4ec31b5"
                 },
@@ -6601,7 +6544,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -6618,7 +6560,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.1-beta3-095cf3.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.1-beta3-095cf3.tar",
                     "reference": "57b40fdb745a4f13e26f07ec932cbe3afac8016c",
                     "shasum": "cf4e8cdbd0e0527f7feaaa21b165ff998347fb51"
                 },
@@ -6720,7 +6662,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -6737,7 +6678,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.2-86d25a.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.2-86d25a.tar",
                     "reference": "84030284c0da66f5f90324355aa7040a14168b75",
                     "shasum": "db043da4e7e7fb29bfaec38f5ec120ac4ead5572"
                 },
@@ -6839,7 +6780,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -6856,7 +6796,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.3-7c539c.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.3-7c539c.tar",
                     "reference": "03199525d9a3f46613dac41aff45fabf4f46a12b",
                     "shasum": "2d97525132a96428ff5845bcacbdb7441e9fda38"
                 },
@@ -6958,7 +6898,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -6975,7 +6914,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.4-beta1-b4c003.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.4-beta1-b4c003.tar",
                     "reference": "402fb4c0358ec22b8441ade80f5b4f0e1de91a2a",
                     "shasum": "2ce1ba123e3d87d0159478e2ddb8898e816c83bc"
                 },
@@ -7077,7 +7016,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -7094,7 +7032,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.5-beta1-925ae9.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.5-beta1-925ae9.tar",
                     "reference": "d4f0f5f27893a55b066d9bb04c7d8de9016552f6",
                     "shasum": "a5a349327cb0470667decf1201fccad34aaadddd"
                 },
@@ -7199,7 +7137,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -7216,7 +7153,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.5-beta2-9eae1a.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.5-beta2-9eae1a.tar",
                     "reference": "d8baa87a43c08e260c97ec7f478391b8651fc504",
                     "shasum": "24298cba6d86d6b40e79663b44257d92fbe0b421"
                 },
@@ -7318,7 +7255,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -7335,7 +7271,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.5-beta3-f399db.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.5-beta3-f399db.tar",
                     "reference": "cc21e05d9483df75b11a26b450eb6c8bdcc65c01",
                     "shasum": "91a530d7fa13df05bfc64abfe73f3f0063e4372e"
                 },
@@ -7434,7 +7370,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -7451,7 +7386,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.0.6-beta1-107a66.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.0.6-beta1-107a66.tar",
                     "reference": "b8abf667787ae9ac548cc3289393a5f491c3697d",
                     "shasum": "ee89bedde56b17e6f33d0889397704a1cadc7e30"
                 },
@@ -7550,7 +7485,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -7567,7 +7501,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-3.1.0-d94e9c.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-3.1.0-d94e9c.tar",
                     "reference": "0a277b5a9aafb3a6bb055c912270eae2d23a6ff6",
                     "shasum": "16edcb045ac57547fc7dd8cac4157ce9c810422d"
                 },
@@ -7666,7 +7600,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -7683,7 +7616,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-4.0.0-beta1-7c6ab2.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-4.0.0-beta1-7c6ab2.tar",
                     "reference": "196a71b40c5b0b62894e13edc7d46c6a74d7c57c",
                     "shasum": "7b0e40e1b2aea8f1387633573d9fe3a716f144b6"
                 },
@@ -7789,7 +7722,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -7806,7 +7738,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-4.0.0-beta2-9fe58d.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-4.0.0-beta2-9fe58d.tar",
                     "reference": "a8b3570a3d617d88b342a09e89847ecdc6ff4f03",
                     "shasum": "a4beb9f0fd227f9e024b2dcdbe36ca5606119c73"
                 },
@@ -7909,7 +7841,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -7926,7 +7857,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-4.1.0-beta1-536da1.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-4.1.0-beta1-536da1.tar",
                     "reference": "82d0e82ae29d29cf37322089d5f905548918cfb6",
                     "shasum": "da77ff992f95623801dbc074678d7df27675833b"
                 },
@@ -8026,7 +7957,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -8043,7 +7973,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-4.2.0-beta1-8a852a.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-4.2.0-beta1-8a852a.tar",
                     "reference": "a888ba44575154731b5037575795e8229dc3d915",
                     "shasum": "b14f05997bb0a5bc5fe2361675e0c6108d0004ab"
                 },
@@ -8144,7 +8074,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -8161,7 +8090,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/d8-profile/numiko-d8-profile-4.2.0-beta2-193354.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/d8-profile/numiko-d8-profile-4.2.0-beta2-193354.tar",
                     "reference": "41d79ba8facf79ff9409b2abfef6d830a958c3b9",
                     "shasum": "8cc47a79620b704abf5203c40f4f4a8fa93433d7"
                 },
@@ -8262,7 +8191,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

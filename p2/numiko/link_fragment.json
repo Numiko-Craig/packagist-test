@@ -12,13 +12,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/link_fragment/numiko-link_fragment-1.0.0-8d59b9.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/link_fragment/numiko-link_fragment-1.0.0-8d59b9.tar",
                     "reference": "52d284a33f6b66150e2b7587cb5a9b42120dd489",
                     "shasum": "112a12b4d8a2773efb95e6a35db05e79c0e15d7b"
                 },
                 "time": "2017-06-02T10:51:01+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -38,13 +37,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/link_fragment/numiko-link_fragment-1.0.1-098876.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/link_fragment/numiko-link_fragment-1.0.1-098876.tar",
                     "reference": "1c6f11177121d40e60618a9bda54313e1a086e7d",
                     "shasum": "96c7face2647ce12757e36fc4cea4313d42358b6"
                 },
                 "time": "2021-10-19T12:26:24+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

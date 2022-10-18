@@ -12,13 +12,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/paragraphs_category_modal/numiko-paragraphs_category_modal-1.0.0-88aad7.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/paragraphs_category_modal/numiko-paragraphs_category_modal-1.0.0-88aad7.tar",
                     "reference": "bf49ac2188a17e2f876422170b3be4d0dbff58ca",
                     "shasum": "05f7eb4fac129df8fc0114ded206445262e2486d"
                 },
                 "time": "2019-09-06T15:31:59+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -38,13 +37,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/paragraphs_category_modal/numiko-paragraphs_category_modal-1.1.0-beta1-b64859.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/paragraphs_category_modal/numiko-paragraphs_category_modal-1.1.0-beta1-b64859.tar",
                     "reference": "df07fe64a2dcbccd7820e7891d5f5bd4fc5a7f92",
                     "shasum": "8c0b6d23bf1188f18e8dff5aeca7e229f4c91f7c"
                 },
                 "time": "2020-08-17T11:27:25+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -64,13 +62,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/paragraphs_category_modal/numiko-paragraphs_category_modal-2.0.0-d3dc06.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/paragraphs_category_modal/numiko-paragraphs_category_modal-2.0.0-d3dc06.tar",
                     "reference": "52af919673d85fbca9d1d9911bcfe921a1ad80eb",
                     "shasum": "059ddb1ed09ea7b0de352685826dbee3ea4a2551"
                 },
                 "time": "2021-01-20T14:01:16+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -90,13 +87,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/paragraphs_category_modal/numiko-paragraphs_category_modal-2.1.0-abb1a4.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/paragraphs_category_modal/numiko-paragraphs_category_modal-2.1.0-abb1a4.tar",
                     "reference": "6e287ecd4edaafbdf3e46d00ba37b36754305f95",
                     "shasum": "212833bca4d70a6fb79f18c812c3a897319b7096"
                 },
                 "time": "2021-10-01T09:27:25+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -116,13 +112,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/paragraphs_category_modal/numiko-paragraphs_category_modal-2.2.0-61c47b.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/paragraphs_category_modal/numiko-paragraphs_category_modal-2.2.0-61c47b.tar",
                     "reference": "569c178b8c7e35ecc158d32207e48c62852dce73",
                     "shasum": "0c21dcca4fa98a51cc6f0fda0c8a92974914319f"
                 },
                 "time": "2022-09-01T13:31:18+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -142,13 +137,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/paragraphs_category_modal/numiko-paragraphs_category_modal-2.3.0-263379.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/paragraphs_category_modal/numiko-paragraphs_category_modal-2.3.0-263379.tar",
                     "reference": "7d03eb5e702d4a29f5c3fb75246871ebb3cd11a1",
                     "shasum": "1fedf0ba7d927d032b1850e7b41e32069fb1a667"
                 },
                 "time": "2022-09-05T10:20:57+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

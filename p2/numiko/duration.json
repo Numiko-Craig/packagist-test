@@ -12,13 +12,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/duration/numiko-duration-8.1.0-3c657a.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/duration/numiko-duration-8.1.0-3c657a.tar",
                     "reference": "8ff6c1b44eb022baa377d4a88d13165bc68a4867",
                     "shasum": "85c1955423111cc2e39220fa0de727f40cd57472"
                 },
                 "time": "2016-12-02T15:59:34+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

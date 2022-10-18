@@ -12,13 +12,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/media_responsive_thumbnail/numiko-media_responsive_thumbnail-2.0.0-e674b6.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/media_responsive_thumbnail/numiko-media_responsive_thumbnail-2.0.0-e674b6.tar",
                     "reference": "6c4462689c87a4ad477cf43287126a5dde37cf1d",
                     "shasum": "0ecd53b58bad4a3cb96a0a59502c28142b08e88f"
                 },
                 "time": "2018-07-31T12:40:24+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -38,13 +37,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/media_responsive_thumbnail/numiko-media_responsive_thumbnail-2.1.0-692a74.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/media_responsive_thumbnail/numiko-media_responsive_thumbnail-2.1.0-692a74.tar",
                     "reference": "021bf3a746fa312793af7be64d8b56fbbcc97d94",
                     "shasum": "2cb6a5829f67cbca75d278118f1554d7e8b19df2"
                 },
                 "time": "2021-08-02T12:56:51+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -64,13 +62,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/media_responsive_thumbnail/numiko-media_responsive_thumbnail-8.1.0-a904c4.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/media_responsive_thumbnail/numiko-media_responsive_thumbnail-8.1.0-a904c4.tar",
                     "reference": "4fea972800e801b75d5c6f375999e98a0ae13f80",
                     "shasum": "d0d230356fea1d27a26da8e086a2e963e3b86b71"
                 },
                 "time": "2017-03-29T12:16:01+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -90,13 +87,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/media_responsive_thumbnail/numiko-media_responsive_thumbnail-8.1.1-723b10.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/media_responsive_thumbnail/numiko-media_responsive_thumbnail-8.1.1-723b10.tar",
                     "reference": "80ca72cd982d5279b56e70f60bc5d81c3f41d615",
                     "shasum": "301438f10dfbc35049c557b6c0d520c05c40284d"
                 },
                 "time": "2017-10-23T14:54:45+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

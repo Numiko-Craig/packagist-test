@@ -12,13 +12,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/webform_settings/numiko-webform_settings-1.0.0-0ef5db.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/webform_settings/numiko-webform_settings-1.0.0-0ef5db.tar",
                     "reference": "9470ee59ab99bb227830e174e6cf9f43f27a134c",
                     "shasum": "6f68b07a9e6520ff1b37b2124b328e5895c91492"
                 },
                 "time": "2021-07-01T09:26:31+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -38,13 +37,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/webform_settings/numiko-webform_settings-1.1.0-b43e7c.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/webform_settings/numiko-webform_settings-1.1.0-b43e7c.tar",
                     "reference": "ccc7d9a81ae2312584c94018c51b4dc9ae179635",
                     "shasum": "1e678d2135e685c4688bad234add31d4ad81b469"
                 },
                 "time": "2022-09-06T09:51:08+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

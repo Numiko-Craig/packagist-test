@@ -12,13 +12,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/entity_reference_view_display/numiko-entity_reference_view_display-8.1.0-dfd64c.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/entity_reference_view_display/numiko-entity_reference_view_display-8.1.0-dfd64c.tar",
                     "reference": "5afe24434b784d921fb92cb0630df104db69e511",
                     "shasum": "b6886d9e33b40d66099106813cde662affd40c74"
                 },
                 "time": "2016-09-14T12:42:26+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -38,13 +37,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/entity_reference_view_display/numiko-entity_reference_view_display-8.1.1-5f1e2a.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/entity_reference_view_display/numiko-entity_reference_view_display-8.1.1-5f1e2a.tar",
                     "reference": "dfd744bb80bd949c059880ee67c1d955627441cb",
                     "shasum": "fbe2743a06f0895614045798febc606ad8f68fe1"
                 },
                 "time": "2016-10-04T09:15:55+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -64,13 +62,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/entity_reference_view_display/numiko-entity_reference_view_display-8.1.2-2a6482.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/entity_reference_view_display/numiko-entity_reference_view_display-8.1.2-2a6482.tar",
                     "reference": "3116c51268aad64cfe66b74c9af304681064f0e4",
                     "shasum": "a1d11bbd5d014d2d10188f68eb1fac3f94a688e5"
                 },
                 "time": "2016-11-01T10:36:19+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -90,13 +87,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/entity_reference_view_display/numiko-entity_reference_view_display-8.1.3-e59245.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/entity_reference_view_display/numiko-entity_reference_view_display-8.1.3-e59245.tar",
                     "reference": "3e58d82e19d3fa27758b454516b5db10fc28cb1f",
                     "shasum": "8d2e659e1f13f52bacb3a1f2c8903e3a0f34ec96"
                 },
                 "time": "2017-05-18T19:51:21+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -116,13 +112,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/entity_reference_view_display/numiko-entity_reference_view_display-8.1.4-72c952.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/entity_reference_view_display/numiko-entity_reference_view_display-8.1.4-72c952.tar",
                     "reference": "3663a7428c17422976831478db09aef482ddd5e4",
                     "shasum": "43dde277bf117a18178c7b8194e3787cebe5c8c5"
                 },
                 "time": "2018-05-15T12:10:35+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -142,13 +137,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/entity_reference_view_display/numiko-entity_reference_view_display-8.2.0-a7c3a2.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/entity_reference_view_display/numiko-entity_reference_view_display-8.2.0-a7c3a2.tar",
                     "reference": "40c980698e897ee763f7e121c8830fdba4eca2a6",
                     "shasum": "d55945ad6baae98c79309c5a5ba228e06d4f27ee"
                 },
                 "time": "2020-11-16T13:29:39+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -168,13 +162,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/entity_reference_view_display/numiko-entity_reference_view_display-8.2.1-132d84.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/entity_reference_view_display/numiko-entity_reference_view_display-8.2.1-132d84.tar",
                     "reference": "5322f158a47f3bbeb89926b90306e5fcd99633eb",
                     "shasum": "239f563dc3ad92f6831d9833c0a6d14e3a2eafec"
                 },
                 "time": "2021-03-23T11:25:12+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -194,13 +187,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/entity_reference_view_display/numiko-entity_reference_view_display-8.2.2-e30cff.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/entity_reference_view_display/numiko-entity_reference_view_display-8.2.2-e30cff.tar",
                     "reference": "1eec0ec42295364374748fd31e6aef674fa1aa6c",
                     "shasum": "219dd346d2a44d28adf7e046f185b238a49b4fb4"
                 },
                 "time": "2022-09-06T09:45:32+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

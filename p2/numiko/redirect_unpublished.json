@@ -12,13 +12,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/redirect_unpublished/numiko-redirect_unpublished-1.0.1-2bbcce.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/redirect_unpublished/numiko-redirect_unpublished-1.0.1-2bbcce.tar",
                     "reference": "cc2af3eac57d3acd1cfcfaae1fa748a3a7395dd7",
                     "shasum": "76ddcce15560e8b75d60d42e7f233cbe7ec8c5a9"
                 },
                 "time": "2019-03-14T17:24:20+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Redirect unpublished nodes if they have a redirect"
             }
         ]

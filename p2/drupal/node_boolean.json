@@ -12,13 +12,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/drupal/node_boolean/drupal-node_boolean-8.1.0-cffccd.tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal/node_boolean/drupal-node_boolean-8.1.0-cffccd.tar",
                     "reference": "d5dad91e14d12e1235c32f1ef7c95948d54f1aed",
                     "shasum": "aa7aff610a059e3720a932371f161af82afb1312"
                 },
                 "time": "2016-08-23T09:53:15+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -43,13 +42,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/drupal/node_boolean/drupal-node_boolean-8.1.1-d2c63e.tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal/node_boolean/drupal-node_boolean-8.1.1-d2c63e.tar",
                     "reference": "e45b55730b14e8015046c3d1fbf8cd9da1da56ce",
                     "shasum": "91ccdb0f00df78355f353a6cdb90f9d69f57fe58"
                 },
                 "time": "2017-03-02T13:56:37+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -74,13 +72,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/drupal/node_boolean/drupal-node_boolean-8.1.2-3b52b7.tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal/node_boolean/drupal-node_boolean-8.1.2-3b52b7.tar",
                     "reference": "6217c91473fa099d42038074fc8e5fea1de13418",
                     "shasum": "31451855f1d179bed840fa7d7ba6021a1e833351"
                 },
                 "time": "2017-03-16T15:58:25+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -105,13 +102,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/drupal/node_boolean/drupal-node_boolean-8.1.3-f7c32d.tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal/node_boolean/drupal-node_boolean-8.1.3-f7c32d.tar",
                     "reference": "b62f14f3c37a3eecf9ebca635034c86a46ec1480",
                     "shasum": "f70ed03d46d136762e7f4f779751c76a87549ca6"
                 },
                 "time": "2017-04-04T10:49:49+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -136,13 +132,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/drupal/node_boolean/drupal-node_boolean-8.1.4-2aa829.tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal/node_boolean/drupal-node_boolean-8.1.4-2aa829.tar",
                     "reference": "eb0f77d3500bc9256b563730dfa54f6a92aee6e6",
                     "shasum": "8fe1e53cfc4220534a919a1ef80c0321415d401c"
                 },
                 "time": "2017-05-10T11:20:53+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -167,13 +162,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/drupal/node_boolean/drupal-node_boolean-8.1.9-3e7f1e.tar",
+                    "url": "https://numiko.github.io/packagist//dist/drupal/node_boolean/drupal-node_boolean-8.1.9-3e7f1e.tar",
                     "reference": "d01a8311356be411a4d8a5bb2c558fced374ed73",
                     "shasum": "4c89abeda8f04e2c7f799b6fee8eacb47c832fd7"
                 },
                 "time": "2022-09-06T14:04:27+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

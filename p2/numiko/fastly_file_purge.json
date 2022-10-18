@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/fastly_file_purge/numiko-fastly_file_purge-1.0.0-615117.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/fastly_file_purge/numiko-fastly_file_purge-1.0.0-615117.tar",
                     "reference": "054396a4822bf94c06ba82799debc4a022a565b8",
                     "shasum": "5ee6ce6ef1535cb52768f8822e901d3b35aa9670"
                 },
@@ -21,7 +21,6 @@
                 },
                 "time": "2022-08-05T08:44:21+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Purge Fastly file urls when file is replaced or deleted.",
                 "keywords": [
                     "Drupal"

@@ -12,7 +12,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-1.0.0-de8535.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/listings_filter/numiko-listings_filter-1.0.0-de8535.tar",
                     "reference": "239730525c7f7e7eb76b96d49b09c010e8205207",
                     "shasum": "01360f489bdd293ce4a958ead090838e2fe0e77c"
                 },
@@ -23,7 +23,6 @@
                 },
                 "time": "2021-09-09T15:51:17+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -43,7 +42,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-1.0.1-8b44bb.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/listings_filter/numiko-listings_filter-1.0.1-8b44bb.tar",
                     "reference": "efab95b6782a5eee313ee505da48d7c78828c8f7",
                     "shasum": "154d308c0f06f358dd38e3fa4d3812bc08c8662d"
                 },
@@ -54,7 +53,6 @@
                 },
                 "time": "2021-09-09T16:03:52+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -74,7 +72,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-1.10.0-bb9339.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/listings_filter/numiko-listings_filter-1.10.0-bb9339.tar",
                     "reference": "896fc5ea832c60dcf29dfe656779894a9601c75b",
                     "shasum": "e35d1b17fcfb71d8fae2c16534c04e107885b197"
                 },
@@ -85,7 +83,6 @@
                 },
                 "time": "2022-09-06T09:40:11+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -105,7 +102,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-1.2.0-55a8c7.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/listings_filter/numiko-listings_filter-1.2.0-55a8c7.tar",
                     "reference": "bb22c65002e39ba2336f8ec880d0dedafdba8f94",
                     "shasum": "c55e50a5096ea64dce8fd66b6189e9af6758a56b"
                 },
@@ -116,7 +113,6 @@
                 },
                 "time": "2021-10-08T12:39:12+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -136,7 +132,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-1.3.0-f957e1.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/listings_filter/numiko-listings_filter-1.3.0-f957e1.tar",
                     "reference": "ec630c14ce45b952ab2756201181f0d6ec65cce2",
                     "shasum": "b9b0dcd98d15d8b0fce8ebee03e49c862c31bd93"
                 },
@@ -147,7 +143,6 @@
                 },
                 "time": "2021-11-11T10:55:54+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -167,7 +162,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-1.4.0-32fc15.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/listings_filter/numiko-listings_filter-1.4.0-32fc15.tar",
                     "reference": "8a2ac6bd3e6298d822c1ed701814f14ed5a67611",
                     "shasum": "725d6c966ba883e1a8991bba9cbe32b88d32f18f"
                 },
@@ -178,7 +173,6 @@
                 },
                 "time": "2021-11-23T09:35:16+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -198,7 +192,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-1.5.0-a53629.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/listings_filter/numiko-listings_filter-1.5.0-a53629.tar",
                     "reference": "4c0765b3d09aad25a9b0a722fb22eb43f6841592",
                     "shasum": "1388f2da4c5c08c139bfa74224bd9de217637377"
                 },
@@ -209,7 +203,6 @@
                 },
                 "time": "2021-11-29T13:51:38+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -229,7 +222,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-1.6.0-f1ed6b.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/listings_filter/numiko-listings_filter-1.6.0-f1ed6b.tar",
                     "reference": "5e1253e7099c9bf5d51caa5825d1dd9189463b00",
                     "shasum": "4281e78356b2339db77de11b17b8212c5349c3ec"
                 },
@@ -240,7 +233,6 @@
                 },
                 "time": "2021-12-17T12:06:58+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -260,7 +252,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-1.7.0-b6703a.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/listings_filter/numiko-listings_filter-1.7.0-b6703a.tar",
                     "reference": "e7df9112c02db94c0306dd09ea5ed9ad7db9055a",
                     "shasum": "1d71d02968dc5e8b2a634fb014f8692ac5a74245"
                 },
@@ -271,7 +263,6 @@
                 },
                 "time": "2022-01-05T16:30:00+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -291,7 +282,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-1.7.1-e152aa.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/listings_filter/numiko-listings_filter-1.7.1-e152aa.tar",
                     "reference": "4a38acfa609916eb93b240cec7e492212b86b810",
                     "shasum": "ac366eb115290869f674bc79b0396f0baf206924"
                 },
@@ -302,7 +293,6 @@
                 },
                 "time": "2022-01-16T21:48:44+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -322,7 +312,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-1.8.0-924917.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/listings_filter/numiko-listings_filter-1.8.0-924917.tar",
                     "reference": "5408ffce7494e89416e3186c88d7e457d17b7a1a",
                     "shasum": "0415ca5529f753f88ad765a39c6e077b4250d922"
                 },
@@ -333,7 +323,6 @@
                 },
                 "time": "2022-01-28T11:32:05+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -353,7 +342,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-1.9.0-5aea4b.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/listings_filter/numiko-listings_filter-1.9.0-5aea4b.tar",
                     "reference": "da46140d00a0310b4519fca8df132c2719300db5",
                     "shasum": "fe2acdc3e4adc4fcdf1b1611370221bc11bf9a91"
                 },
@@ -364,7 +353,6 @@
                 },
                 "time": "2022-08-22T14:16:31+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -384,7 +372,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-2.0.0-d9aaa3.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/listings_filter/numiko-listings_filter-2.0.0-d9aaa3.tar",
                     "reference": "5e4ca5073ca3a940b45b87cbe5efd4ad7fe0a8a9",
                     "shasum": "b2a61dee82667556f14f85b1a97554649dc4ea49"
                 },
@@ -395,7 +383,6 @@
                 },
                 "time": "2022-10-06T14:59:04+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -415,7 +402,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/listings_filter/numiko-listings_filter-2.0.0-beta1-237962.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/listings_filter/numiko-listings_filter-2.0.0-beta1-237962.tar",
                     "reference": "1224d66eea2423dd543a451f5c08576a9c4acedc",
                     "shasum": "138910f3e48da0b4526dcb6026c032b6102263ba"
                 },
@@ -426,7 +413,6 @@
                 },
                 "time": "2022-09-30T15:25:15+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

@@ -12,13 +12,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.0.0-28f021.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.0.0-28f021.tar",
                     "reference": "56efcb05cb813edfc10c84dc3ac6869f7c972e5f",
                     "shasum": "5f944e3086fe191824ce041e29b5dabf3bf88ae2"
                 },
                 "time": "2018-07-30T09:59:18+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -38,13 +37,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.1.0-b698da.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.1.0-b698da.tar",
                     "reference": "8cd696f7f85c1ebb70c0286864f70ced1a868d0f",
                     "shasum": "e55a03a48983b2cdfa196910cd03e4b989822d5e"
                 },
                 "time": "2019-08-23T15:14:55+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -64,13 +62,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.2.0-f3f91c.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.2.0-f3f91c.tar",
                     "reference": "08fe44483eddca23ee64e6ac29932493b6bc957b",
                     "shasum": "9c222912e661d452ae48e868dfbdc12e045375b6"
                 },
                 "time": "2019-08-29T13:45:35+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -90,13 +87,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.2.1-b459c0.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.2.1-b459c0.tar",
                     "reference": "3c5d801b38dfde811098ccad55dc4aba2ed8ba5e",
                     "shasum": "c8595b0c5662475a323db8ff9f1c7a468c1832cb"
                 },
                 "time": "2019-10-07T10:38:04+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -116,13 +112,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.2.2-beta1-3a493f.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.2.2-beta1-3a493f.tar",
                     "reference": "cdd11a1dff883e7f5d7a858f3f6fa4b5f13cd23c",
                     "shasum": "12ac33cf43c4a982e3a339a32f8aebabf2245ad6"
                 },
                 "time": "2019-11-28T14:50:32+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -142,13 +137,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.2.2-beta2-021305.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.2.2-beta2-021305.tar",
                     "reference": "ff93a9af2582d49b78739a905b0d6ae098e8fb36",
                     "shasum": "9f441fc18c1834f846745bcc64aff40f8a4cb77d"
                 },
                 "time": "2019-11-28T14:59:14+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -168,13 +162,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.2.2-beta3-04763d.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/taxonomy_slice/numiko-taxonomy_slice-1.2.2-beta3-04763d.tar",
                     "reference": "23bddbb744c0d7f1ea9ee2029f1f070ccb9d9126",
                     "shasum": "71eea16e4a5d23dffbf88c6e4f7570dffce7d60e"
                 },
                 "time": "2019-11-28T15:59:22+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -194,13 +187,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/taxonomy_slice/numiko-taxonomy_slice-2.0.0-f6af5e.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/taxonomy_slice/numiko-taxonomy_slice-2.0.0-f6af5e.tar",
                     "reference": "ddbacd6e044f366f8cb428e41d795cec4c91fdf0",
                     "shasum": "86ab8df137a396cfb98148081634704acb986e4c"
                 },
                 "time": "2021-07-29T16:01:31+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

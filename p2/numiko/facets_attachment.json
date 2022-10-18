@@ -12,13 +12,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/facets_attachment/numiko-facets_attachment-2.0.0-481151.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/facets_attachment/numiko-facets_attachment-2.0.0-481151.tar",
                     "reference": "1e4454362ae1ed9a02aa923174b458623c8ac20c",
                     "shasum": "f21fb77e2a9369f30af7f5b829d12f1662da315c"
                 },
                 "time": "2021-09-10T14:56:03+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -38,13 +37,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/facets_attachment/numiko-facets_attachment-2.1.0-627ada.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/facets_attachment/numiko-facets_attachment-2.1.0-627ada.tar",
                     "reference": "43c8085113dd5e63774137487f1dbfbb7718a843",
                     "shasum": "9d81c15a843ad181ab0a988a32311b4821d15f4e"
                 },
                 "time": "2021-10-26T08:50:38+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -64,13 +62,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/facets_attachment/numiko-facets_attachment-2.1.1-c487c4.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/facets_attachment/numiko-facets_attachment-2.1.1-c487c4.tar",
                     "reference": "342d336da3717ef74e6ba0350b59d3ccff6d67e0",
                     "shasum": "6b8291b676f2b93d9e2de3f536fc6f3ab00300d4"
                 },
                 "time": "2022-05-20T13:34:38+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -90,13 +87,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/facets_attachment/numiko-facets_attachment-2.2.0-7f5362.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/facets_attachment/numiko-facets_attachment-2.2.0-7f5362.tar",
                     "reference": "f791eebb28af7e43bf164552cef97e661ec10876",
                     "shasum": "75bc27252a479bec9ee8306f50790e5433155175"
                 },
                 "time": "2022-09-06T10:27:49+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -116,13 +112,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/facets_attachment/numiko-facets_attachment-8.1.0-7fbcd9.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/facets_attachment/numiko-facets_attachment-8.1.0-7fbcd9.tar",
                     "reference": "7939c86a2ffa088239e130ce2da140318d7ccb0b",
                     "shasum": "f53503889c8fafc18115d94d38c9e09fba63fb86"
                 },
                 "time": "2017-02-21T21:07:28+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -142,13 +137,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/facets_attachment/numiko-facets_attachment-8.1.1-1d83cd.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/facets_attachment/numiko-facets_attachment-8.1.1-1d83cd.tar",
                     "reference": "c66c494affb3aefb9c32519b48d298c802b98db8",
                     "shasum": "1d1399563af4df7ca9d105c1f2d1ae91e983ea07"
                 },
                 "time": "2017-04-21T09:10:50+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -168,13 +162,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/facets_attachment/numiko-facets_attachment-8.1.2-bf7dfe.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/facets_attachment/numiko-facets_attachment-8.1.2-bf7dfe.tar",
                     "reference": "f72fdc104cb72dcad0661b51520f51a3ae134c20",
                     "shasum": "1954d69b30171cf5d645651a5d3f51f47f1d0e3c"
                 },
                 "time": "2019-08-23T13:50:19+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -194,13 +187,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/facets_attachment/numiko-facets_attachment-8.1.3-1f782e.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/facets_attachment/numiko-facets_attachment-8.1.3-1f782e.tar",
                     "reference": "808a3d05c19c82a9c25160dbec54d749c495780f",
                     "shasum": "e5a4b5eed5bc7cb5f7fd64eb181d602cd2343225"
                 },
                 "time": "2019-08-23T15:44:10+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

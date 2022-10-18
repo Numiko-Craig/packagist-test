@@ -12,13 +12,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/simple_domain_path/numiko-simple_domain_path-1.0.0-beta2-7a6486.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/simple_domain_path/numiko-simple_domain_path-1.0.0-beta2-7a6486.tar",
                     "reference": "602864e5ad58749a474073667f24b4130778cbf7",
                     "shasum": "bd32d3628a4369cacc14167f1cb6e1b6b4e18f72"
                 },
                 "time": "2020-09-03T15:36:18+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Allow paths per-domain",
                 "keywords": [
                     "Drupal"
@@ -35,13 +34,12 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/simple_domain_path/numiko-simple_domain_path-1.0.0-beta3-fdc07c.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/simple_domain_path/numiko-simple_domain_path-1.0.0-beta3-fdc07c.tar",
                     "reference": "f080c6cecbdb269cef3a6f6911e9f1fec5ff0344",
                     "shasum": "1f2690d5f27682b84fd739d7097bfff95a76abf8"
                 },
                 "time": "2021-01-12T14:48:19+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "description": "Allow paths per-domain",
                 "keywords": [
                     "Drupal"
@@ -58,7 +56,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/simple_domain_path/numiko-simple_domain_path-1.0.0-beta4-d1d584.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/simple_domain_path/numiko-simple_domain_path-1.0.0-beta4-d1d584.tar",
                     "reference": "902d452fd62601dd5b93049c4a28d35872d30f2c",
                     "shasum": "14e2ac397902cccdfe2a716c783e7e41e13f2e73"
                 },
@@ -74,7 +72,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "description": "Allow paths per-domain",
                 "keywords": [
                     "Drupal"
@@ -91,7 +88,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/simple_domain_path/numiko-simple_domain_path-1.0.0-beta5-cdc952.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/simple_domain_path/numiko-simple_domain_path-1.0.0-beta5-cdc952.tar",
                     "reference": "4ee171432139d162d8d21d852fcb2c9f4d617150",
                     "shasum": "5785b4c06a73b7c252803b9918fc911ba590c4af"
                 },
@@ -107,7 +104,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "description": "Allow paths per-domain",
                 "keywords": [
                     "Drupal"
@@ -124,7 +120,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/simple_domain_path/numiko-simple_domain_path-2.0.0-e4ae53.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/simple_domain_path/numiko-simple_domain_path-2.0.0-e4ae53.tar",
                     "reference": "60967fe6169f3a7a274337600636416c3df8a6a1",
                     "shasum": "c09873c12420fa69c7980486a4b9bb9a517732e1"
                 },
@@ -140,7 +136,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "description": "Allow paths per-domain",
                 "keywords": [
                     "Drupal"
@@ -157,7 +152,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/simple_domain_path/numiko-simple_domain_path-2.0.1-4e57d5.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/simple_domain_path/numiko-simple_domain_path-2.0.1-4e57d5.tar",
                     "reference": "e768a8595f3981aab3ecda4f0249d62392ddb78a",
                     "shasum": "c9b729e9beeb392e1367ab2084305ef00fb2f5a6"
                 },
@@ -173,7 +168,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "description": "Allow paths per-domain",
                 "keywords": [
                     "Drupal"
@@ -190,7 +184,7 @@
                 },
                 "dist": {
                     "type": "tar",
-                    "url": "https://numiko.github.io/packagist/dist/numiko/simple_domain_path/numiko-simple_domain_path-2.1.0-b2af8b.tar",
+                    "url": "https://numiko.github.io/packagist//dist/numiko/simple_domain_path/numiko-simple_domain_path-2.1.0-b2af8b.tar",
                     "reference": "9ba48656f6cd43eccd77ed1f03aa49024d85cd96",
                     "shasum": "66892a3288f61c3cebc9ee9d7ffd9684b4ede042"
                 },
@@ -206,7 +200,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "description": "Allow paths per-domain",
                 "keywords": [
                     "Drupal"
