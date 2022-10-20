@@ -8276,7 +8276,6 @@
                 },
                 "time": "2022-10-20T11:49:21+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
