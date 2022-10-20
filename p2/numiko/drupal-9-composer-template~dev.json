@@ -306,7 +306,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "c96c92d2afda25cf069b3f915bf9540b73272493"
+                    "reference": "60e57930313b35b1b438b83b4da431099b590b0c"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -327,7 +327,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2022-10-17T10:44:00+00:00",
+                "time": "2022-10-19T14:21:16+00:00",
                 "default-branch": true,
                 "type": "project",
                 "extra": {
@@ -629,7 +629,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "150506698e7f5679ea6bac63e6a7ad4a8a44d670"
+                    "reference": "ff61cfd1c92c51bf60ee2bd78607aa78f8fdeee2"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -703,6 +703,8 @@
                     "numiko/form_ui": "^2.0",
                     "numiko/icon-menu": "^1.0",
                     "numiko/integration_tests": "^2.2",
+                    "numiko/media_video_id": "^1.2",
+                    "numiko/paragraphs_category_modal": "^2.3",
                     "numiko/personas": "^1.2",
                     "numiko/responsive_image_class": "^1.2",
                     "numiko/security_checker": "^1.0",
@@ -722,7 +724,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2022-10-18T21:53:59+00:00",
+                "time": "2022-10-19T13:55:17+00:00",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -760,11 +762,14 @@
                         "drupal/coffee": {
                             "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
                         },
+                        "drupal/easy_breadcrumb": {
+                            "[3281468] preg_split(): Passing null to parameter #2 ($subject) of type string is deprecated": "https://www.drupal.org/files/issues/2022-05-25/preg-split-3281468-7.patch"
+                        },
                         "drupal/gin_toolbar": {
                             "[3121440] Add option for node local tasks in toolbar": "https://www.drupal.org/files/issues/2022-02-11/3263805-41.patch"
                         },
-                        "drupal/easy_breadcrumb": {
-                            "[3281468] preg_split(): Passing null to parameter #2 ($subject) of type string is deprecated": "https://www.drupal.org/files/issues/2022-05-25/preg-split-3281468-7.patch"
+                        "drupal/paragraphs": {
+                            "[3268122] Button Add above is missing with Gin theme enabled": "https://www.drupal.org/files/issues/2022-10-18/3268122-add-above-button-to-work-with-gin-8.patch"
                         }
                     }
                 },

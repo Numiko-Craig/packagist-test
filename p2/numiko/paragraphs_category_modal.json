@@ -150,6 +150,32 @@
                 "keywords": [
                     "Drupal"
                 ]
+            },
+            {
+                "name": "numiko/paragraphs_category_modal",
+                "version": "2.4.0-beta1",
+                "version_normalized": "2.4.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/paragraphs-category-modal.git",
+                    "reference": "fe46ac549cd68fc4043840ddd85b910cdcfe32de"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/paragraphs_category_modal/numiko-paragraphs_category_modal-2.4.0-beta1-d7d3cf.tar",
+                    "reference": "fe46ac549cd68fc4043840ddd85b910cdcfe32de",
+                    "shasum": "2809ac1b5460675a2654831e974c7bcc497c6068"
+                },
+                "time": "2022-10-19T13:12:25+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Paragraphs category modal - to enhance the modal widget with categories",
+                "keywords": [
+                    "Drupal"
+                ]
             }
         ]
     }

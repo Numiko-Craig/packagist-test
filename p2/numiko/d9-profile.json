@@ -8302,6 +8302,98 @@
                     "GPL-2.0+"
                 ],
                 "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/d9-profile",
+                "version": "1.5.0-beta6",
+                "version_normalized": "1.5.0.0-beta6",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "f2b55df028be1c35fbccc55403fa7e98da07b62f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta6-cc9417.tar",
+                    "reference": "f2b55df028be1c35fbccc55403fa7e98da07b62f",
+                    "shasum": "bf5795bb6e20c5d3153c7d4fa2c7e4670f2780fd"
+                },
+                "time": "2022-10-19T13:22:55+00:00",
+                "type": "drupal-profile",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/d9-profile",
+                "version": "1.5.0-beta7",
+                "version_normalized": "1.5.0.0-beta7",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "e00d3f49ad95c7d3aefa972582678dee7f1e3c0a"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta7-89ae1e.tar",
+                    "reference": "e00d3f49ad95c7d3aefa972582678dee7f1e3c0a",
+                    "shasum": "81601bddce3ddecdac0e3e7aa657398c53f1df46"
+                },
+                "time": "2022-10-19T13:42:29+00:00",
+                "type": "drupal-profile",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/d9-profile",
+                "version": "1.5.0-beta8",
+                "version_normalized": "1.5.0.0-beta8",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "ddfc6cfbd3d6738dfe51dbfea26d879bd14e3343"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta8-a9b3b4.tar",
+                    "reference": "ddfc6cfbd3d6738dfe51dbfea26d879bd14e3343",
+                    "shasum": "547c85f9c302fe5e179e2c3d2ae2245a5ce96602"
+                },
+                "time": "2022-10-19T14:36:30+00:00",
+                "type": "drupal-profile",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/d9-profile",
+                "version": "1.5.0-beta9",
+                "version_normalized": "1.5.0.0-beta9",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "d55c6d716adf7dd8fd573654433d6a9fa50db4b1"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta9-783e8f.tar",
+                    "reference": "d55c6d716adf7dd8fd573654433d6a9fa50db4b1",
+                    "shasum": "7b7f8b1df49ae1b7dc6cc8523ba7c291f43f83a3"
+                },
+                "time": "2022-10-19T14:36:59+00:00",
+                "type": "drupal-profile",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
             }
         ]
     }

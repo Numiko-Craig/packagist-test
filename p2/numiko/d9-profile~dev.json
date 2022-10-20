@@ -3,6 +3,22 @@
         "numiko/d9-profile": [
             {
                 "name": "numiko/d9-profile",
+                "version": "dev-SITEKIT-218",
+                "version_normalized": "dev-SITEKIT-218",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "46126eec5f5170fc5aecc7692f3498dc240a8194"
+                },
+                "time": "2022-10-19T10:35:41+00:00",
+                "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/d9-profile",
                 "version": "dev-feature/drop_dev_module_dependencies",
                 "version_normalized": "dev-feature/drop_dev_module_dependencies",
                 "source": {
@@ -619,9 +635,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "ed8c7da4b44f15d891d7b6d5f92bda13b5fa001b"
+                    "reference": "d55c6d716adf7dd8fd573654433d6a9fa50db4b1"
                 },
-                "time": "2022-10-19T09:43:49+00:00",
+                "time": "2022-10-19T14:36:59+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
