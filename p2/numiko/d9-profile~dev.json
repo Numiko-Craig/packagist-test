@@ -3,14 +3,14 @@
         "numiko/d9-profile": [
             {
                 "name": "numiko/d9-profile",
-                "version": "dev-SITEKIT-156",
-                "version_normalized": "dev-SITEKIT-156",
+                "version": "dev-SITEKIT-205",
+                "version_normalized": "dev-SITEKIT-205",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "6c30fa6144aa2755a7303c6f350e08bb515fafa4"
+                    "reference": "c4bafb6a0d764100d7da89e8c24f3e3a10ad1351"
                 },
-                "time": "2022-10-20T12:12:12+00:00",
+                "time": "2022-10-20T14:20:01+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -651,9 +651,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "2d65b6d9124c4127ceb71fa1998a9189fddd30d4"
+                    "reference": "5e137bddbfa092d32a1fdfbd945a85014a582f0e"
                 },
-                "time": "2022-10-20T11:49:21+00:00",
+                "time": "2022-10-20T14:06:46+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
