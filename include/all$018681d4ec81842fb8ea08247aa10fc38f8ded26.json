@@ -22969,6 +22969,52 @@
                 ],
                 "description": "The Numiko drupal profile"
             },
+            "1.5.0-beta10": {
+                "name": "numiko/d9-profile",
+                "version": "1.5.0-beta10",
+                "version_normalized": "1.5.0.0-beta10",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "025f6f629d6c8ff90c4ec37955eefd90acdc28e8"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta10-23705f.tar",
+                    "reference": "025f6f629d6c8ff90c4ec37955eefd90acdc28e8",
+                    "shasum": "a5545129e12500e826c4d060bc43d291d4d64fa8"
+                },
+                "time": "2022-10-19T15:19:45+00:00",
+                "type": "drupal-profile",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            "1.5.0-beta11": {
+                "name": "numiko/d9-profile",
+                "version": "1.5.0-beta11",
+                "version_normalized": "1.5.0.0-beta11",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "20cc706a0f0b839f0f8b6799087e9925d857a594"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta11-07ba09.tar",
+                    "reference": "20cc706a0f0b839f0f8b6799087e9925d857a594",
+                    "shasum": "05f968b87aaeb9373b76deb419035511b75da2dc"
+                },
+                "time": "2022-10-20T10:42:54+00:00",
+                "type": "drupal-profile",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
             "1.5.0-beta2": {
                 "name": "numiko/d9-profile",
                 "version": "1.5.0-beta2",
@@ -23074,7 +23120,6 @@
                 },
                 "time": "2022-10-19T13:22:55+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -23097,7 +23142,6 @@
                 },
                 "time": "2022-10-19T13:42:29+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -23120,7 +23164,6 @@
                 },
                 "time": "2022-10-19T14:36:30+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -23143,7 +23186,6 @@
                 },
                 "time": "2022-10-19T14:36:59+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -23378,7 +23420,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "f45cf5a3b5c1a14983df9c2913af439b6c30f0d5"
+                    "reference": "bbc58b53a262ecb114c9a1cfae8573f146faba85"
                 },
                 "require": {
                     "drupal/admin_toolbar": "*",
@@ -23454,7 +23496,7 @@
                     "numiko/user_login_admin": "*",
                     "numiko/views-topup": "*"
                 },
-                "time": "2022-09-29T09:21:28+00:00",
+                "time": "2022-10-20T10:35:09+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
@@ -23783,9 +23825,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "d55c6d716adf7dd8fd573654433d6a9fa50db4b1"
+                    "reference": "20cc706a0f0b839f0f8b6799087e9925d857a594"
                 },
-                "time": "2022-10-19T14:36:59+00:00",
+                "time": "2022-10-20T10:42:54+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -34383,7 +34425,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -34576,7 +34617,6 @@
                         }
                     }
                 },
-                "installation-source": "source",
                 "autoload": {
                     "classmap": [
                         "scripts/composer/ScriptHandler.php"
@@ -34766,6 +34806,199 @@
                         },
                         "drupal/gin_toolbar": {
                             "[3121440] Add option for node local tasks in toolbar": "https://www.drupal.org/files/issues/2022-02-11/3263805-41.patch"
+                        },
+                        "drupal/paragraphs": {
+                            "[3268122] Button Add above is missing with Gin theme enabled": "https://www.drupal.org/files/issues/2022-10-18/3268122-add-above-button-to-work-with-gin-8.patch"
+                        }
+                    }
+                },
+                "autoload": {
+                    "classmap": [
+                        "scripts/composer/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "pre-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-create-project-cmd": [
+                        "Composer\\Config::disableProcessTimeout",
+                        "DrupalProject\\composer\\ScriptHandler::setScriptPermissionsOnProjectCreate",
+                        "bash scripts/composer/download-docker",
+                        "bash scripts/composer/theme-install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Numiko",
+                        "role": ""
+                    }
+                ],
+                "description": "Drupal composer project"
+            },
+            "1.5.0-beta15": {
+                "name": "numiko/drupal-9-composer-template",
+                "version": "1.5.0-beta15",
+                "version_normalized": "1.5.0.0-beta15",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "reference": "bce7855bffeb9ff57ed1f50bbcca04f4bd7b1cb7"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta15-76ed53.tar",
+                    "reference": "bce7855bffeb9ff57ed1f50bbcca04f4bd7b1cb7",
+                    "shasum": "993b9b1ee2232da3638c896b83ff2e043f1e55b4"
+                },
+                "require": {
+                    "composer/installers": "^1.9",
+                    "cweagans/composer-patches": "^1.7",
+                    "drupal/admin_toolbar": "^3.2",
+                    "drupal/advagg": "^5.0",
+                    "drupal/allowed_formats": "^1.5",
+                    "drupal/clientside_validation": "^4.0",
+                    "drupal/coffee": "^1.2",
+                    "drupal/components": "^2.4",
+                    "drupal/config_filter": "^2.4",
+                    "drupal/config_ignore": "^2.3",
+                    "drupal/config_split": "^2.0",
+                    "drupal/config_update": "^1.7",
+                    "drupal/core-composer-scaffold": "^9.4",
+                    "drupal/core-recommended": "^9.4",
+                    "drupal/cshs": "^3.6",
+                    "drupal/ctools": "^3.11",
+                    "drupal/devel": "^5.0",
+                    "drupal/easy_breadcrumb": "^2.0",
+                    "drupal/embed": "^1.6",
+                    "drupal/entity_clone": "^1.0",
+                    "drupal/entity_embed": "^1.2",
+                    "drupal/facets": "^2.0",
+                    "drupal/facets_pretty_paths": "^1.2",
+                    "drupal/field_group": "^3.3",
+                    "drupal/file_delete": "^2.0",
+                    "drupal/file_replace": "^1.3",
+                    "drupal/filter_perms": "^1.0",
+                    "drupal/focal_point": "^1.5",
+                    "drupal/gin": "^3.0",
+                    "drupal/gin_toolbar": "^1.0",
+                    "drupal/honeypot": "^2.1",
+                    "drupal/imageapi_optimize": "^4.0",
+                    "drupal/imageapi_optimize_binaries": "^1.0",
+                    "drupal/inline_entity_form": "^1.0",
+                    "drupal/linkit": "^6.0",
+                    "drupal/mail_safety": "^1.2",
+                    "drupal/mailsystem": "^4.4",
+                    "drupal/maxlength": "^2.0",
+                    "drupal/menu_block": "^1.8",
+                    "drupal/metatag": "^1.22",
+                    "drupal/minifyhtml": "^2.0",
+                    "drupal/node_boolean": "^1.10",
+                    "drupal/node_revision_delete": "^1.0",
+                    "drupal/paragraphs": "^1.15",
+                    "drupal/password_policy": "^3.2",
+                    "drupal/path_redirect_import": "^2.0",
+                    "drupal/pathauto": "^1.11",
+                    "drupal/redirect": "^1.8",
+                    "drupal/redis": "^1.5",
+                    "drupal/role_delegation": "^1.2",
+                    "drupal/scheduled_publish": "^3.9",
+                    "drupal/schema_metatag": "^2.3",
+                    "drupal/search_api": "^1.26",
+                    "drupal/search_api_attachments": "^9.0",
+                    "drupal/search_api_autocomplete": "^1.7",
+                    "drupal/search_api_solr": "^4.2",
+                    "drupal/seckit": "^2.0",
+                    "drupal/simple_sitemap": "^4.1",
+                    "drupal/smart_trim": "^1.3",
+                    "drupal/stage_file_proxy": "^1.2",
+                    "drupal/token": "^1.11",
+                    "drupal/username_enumeration_prevention": "^1.2",
+                    "drupal/webform": "^6.1",
+                    "drush/drush": "^10.3",
+                    "numiko/csp_per_page": "*",
+                    "numiko/custom-caption-filter": "^3.0",
+                    "numiko/d9-profile": "^1.5.0",
+                    "numiko/entity_reference_view_display": "*",
+                    "numiko/form_ui": "^2.0",
+                    "numiko/icon-menu": "^1.0",
+                    "numiko/integration_tests": "^2.2",
+                    "numiko/media_gallery": "^1.0",
+                    "numiko/media_video_id": "^1.2",
+                    "numiko/paragraphs_category_modal": "^2.3",
+                    "numiko/personas": "^1.2",
+                    "numiko/responsive_image_class": "^1.2",
+                    "numiko/security_checker": "^1.0",
+                    "numiko/slice_jump_links": "^8.4",
+                    "numiko/twig_field_values": "^3.0",
+                    "numiko/user_login_admin": "^2.1",
+                    "numiko/views-topup": "^2.1",
+                    "php": ">=8",
+                    "vlucas/phpdotenv": "^5.1",
+                    "webflo/drupal-finder": "^1.2"
+                },
+                "conflict": {
+                    "drupal/drupal": "*"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "^9.0",
+                    "mglaman/drupal-check": "^1.1",
+                    "zaporylie/composer-drupal-optimizations": "^1.2"
+                },
+                "time": "2022-10-19T15:29:10+00:00",
+                "type": "project",
+                "extra": {
+                    "enable-patching": true,
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "docroot/"
+                        },
+                        "file-mapping": {
+                            "[web-root]/sites/example.settings.local.php": false,
+                            "[web-root]/sites/development.services.yml": false,
+                            "[web-root]/robots.txt": false
+                        }
+                    },
+                    "installer-paths": {
+                        "docroot/core": [
+                            "type:drupal-core"
+                        ],
+                        "docroot/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "docroot/profiles/contrib/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "docroot/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ],
+                        "docroot/libraries/{$name}": [
+                            "type:drupal-library"
+                        ]
+                    },
+                    "patches": {
+                        "drupal/coffee": {
+                            "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
+                        },
+                        "drupal/easy_breadcrumb": {
+                            "[3281468] preg_split(): Passing null to parameter #2 ($subject) of type string is deprecated": "https://www.drupal.org/files/issues/2022-05-25/preg-split-3281468-7.patch"
                         },
                         "drupal/paragraphs": {
                             "[3268122] Button Add above is missing with Gin theme enabled": "https://www.drupal.org/files/issues/2022-10-18/3268122-add-above-button-to-work-with-gin-8.patch"
@@ -36972,7 +37205,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "ff61cfd1c92c51bf60ee2bd78607aa78f8fdeee2"
+                    "reference": "53a1b6ff477072f7267572dfec5ddc755eb2a460"
                 },
                 "require": {
                     "composer/installers": "^1.9",
@@ -37046,11 +37279,13 @@
                     "numiko/form_ui": "^2.0",
                     "numiko/icon-menu": "^1.0",
                     "numiko/integration_tests": "^2.2",
+                    "numiko/media_gallery": "^1.0",
                     "numiko/media_video_id": "^1.2",
                     "numiko/paragraphs_category_modal": "^2.3",
-                    "numiko/personas": "^1.2",
+                    "numiko/personas": "^1.3",
                     "numiko/responsive_image_class": "^1.2",
                     "numiko/security_checker": "^1.0",
+                    "numiko/site_alerts": "^1.7",
                     "numiko/slice_jump_links": "^8.4",
                     "numiko/twig_field_values": "^3.0",
                     "numiko/user_login_admin": "^2.1",
@@ -37067,7 +37302,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2022-10-19T13:55:17+00:00",
+                "time": "2022-10-20T09:34:50+00:00",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -37107,9 +37342,6 @@
                         },
                         "drupal/easy_breadcrumb": {
                             "[3281468] preg_split(): Passing null to parameter #2 ($subject) of type string is deprecated": "https://www.drupal.org/files/issues/2022-05-25/preg-split-3281468-7.patch"
-                        },
-                        "drupal/gin_toolbar": {
-                            "[3121440] Add option for node local tasks in toolbar": "https://www.drupal.org/files/issues/2022-02-11/3263805-41.patch"
                         },
                         "drupal/paragraphs": {
                             "[3268122] Button Add above is missing with Gin theme enabled": "https://www.drupal.org/files/issues/2022-10-18/3268122-add-above-button-to-work-with-gin-8.patch"
@@ -43750,9 +43982,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "862e49848d83eef8e7fecd4dc81ef6c7ee06c549"
+                    "reference": "fbba4e90a00908306a9f37a40a5ed28947872f4e"
                 },
-                "time": "2022-10-18T09:25:33+00:00",
+                "time": "2022-10-20T08:02:08+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -43769,9 +44001,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "9e888913e5f1823370b702e7722f348c1fb4c7a5"
+                    "reference": "057e5dc8371b23a4a0a5ecde7bb5202133793673"
                 },
-                "time": "2022-10-19T11:14:44+00:00",
+                "time": "2022-10-19T16:04:25+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -43788,9 +44020,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "f3013c3b27347d59ad237fbebed3f34a908c1d31"
+                    "reference": "e296c129a03f39df5ea32b4ff9700914c0c921cf"
                 },
-                "time": "2022-10-18T10:08:48+00:00",
+                "time": "2022-10-19T15:26:23+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
@@ -46367,7 +46599,6 @@
                 },
                 "time": "2022-10-19T13:12:25+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -46559,6 +46790,26 @@
                 "type": "drupal-module",
                 "description": "A Drupal 9-compatible version of drupal.org/project/personas"
             },
+            "1.3.0": {
+                "name": "numiko/personas",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-personas.git",
+                    "reference": "6486b09e20e6d7934de29deb539774daec154089"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/personas/numiko-personas-1.3.0-c32a17.tar",
+                    "reference": "6486b09e20e6d7934de29deb539774daec154089",
+                    "shasum": "4b82497f73c745b2e50a01b757a59e0bcbf93b42"
+                },
+                "time": "2022-10-20T08:49:06+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "A Drupal 9-compatible version of drupal.org/project/personas"
+            },
             "dev-master": {
                 "name": "numiko/personas",
                 "version": "dev-master",
@@ -46566,9 +46817,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-personas.git",
-                    "reference": "d2115327e3f61d2a743aed851156dfcd3881ea53"
+                    "reference": "6486b09e20e6d7934de29deb539774daec154089"
                 },
-                "time": "2022-09-06T14:14:39+00:00",
+                "time": "2022-10-20T08:49:06+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "A Drupal 9-compatible version of drupal.org/project/personas"
