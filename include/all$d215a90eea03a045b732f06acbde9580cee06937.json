@@ -22947,6 +22947,29 @@
                 ],
                 "description": "The Numiko D9 profile"
             },
+            "1.5.0": {
+                "name": "numiko/d9-profile",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "1614ce47481ffdddfad88a63b51b4124f18a288d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.5.0-2109bc.tar",
+                    "reference": "1614ce47481ffdddfad88a63b51b4124f18a288d",
+                    "shasum": "3cb62f1a69dcbb1fc32d884bb6c2651ebc9881e1"
+                },
+                "time": "2022-10-21T15:05:13+00:00",
+                "type": "drupal-profile",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
             "1.5.0-beta1": {
                 "name": "numiko/d9-profile",
                 "version": "1.5.0-beta1",
@@ -23140,6 +23163,51 @@
                 },
                 "time": "2022-10-21T13:16:13+00:00",
                 "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            "1.5.0-beta18": {
+                "name": "numiko/d9-profile",
+                "version": "1.5.0-beta18",
+                "version_normalized": "1.5.0.0-beta18",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "2f979c5c68d15c9f910aef55448a6487075a3efd"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta18-3dea2e.tar",
+                    "reference": "2f979c5c68d15c9f910aef55448a6487075a3efd",
+                    "shasum": "a1ab0a64239028950903581e7f1198f9b74c440c"
+                },
+                "time": "2022-10-21T14:51:12+00:00",
+                "type": "drupal-profile",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            "1.5.0-beta19": {
+                "name": "numiko/d9-profile",
+                "version": "1.5.0-beta19",
+                "version_normalized": "1.5.0.0-beta19",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "1614ce47481ffdddfad88a63b51b4124f18a288d"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta19-2109bc.tar",
+                    "reference": "1614ce47481ffdddfad88a63b51b4124f18a288d",
+                    "shasum": "ccd5665f2c4e960c8874f6b68dc0109ae1870c2d"
+                },
+                "time": "2022-10-21T15:05:13+00:00",
+                "type": "drupal-profile",
                 "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
@@ -23316,22 +23384,6 @@
                     "shasum": "7b7f8b1df49ae1b7dc6cc8523ba7c291f43f83a3"
                 },
                 "time": "2022-10-19T14:36:59+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            "dev-SITEKIT-205": {
-                "name": "numiko/d9-profile",
-                "version": "dev-SITEKIT-205",
-                "version_normalized": "dev-SITEKIT-205",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "9449c647e6b6089ed3e2f87d2ebd7022dce06e8e"
-                },
-                "time": "2022-10-21T09:45:36+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -23551,99 +23603,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "70d34c70b77a489a54076311ee01755fd76832a6"
+                    "reference": "561024c520e23821f5d9e5ab6e07dfaab8fa5242"
                 },
-                "require": {
-                    "drupal/admin_toolbar": "*",
-                    "drupal/advagg": "*",
-                    "drupal/allowed_formats": "*",
-                    "drupal/clientside_validation": "*",
-                    "drupal/coffee": "*",
-                    "drupal/components": "*",
-                    "drupal/config_filter": "*",
-                    "drupal/config_ignore": "*",
-                    "drupal/config_split": "^2.0",
-                    "drupal/config_update": "*",
-                    "drupal/cshs": "*",
-                    "drupal/ctools": "*",
-                    "drupal/devel": "*",
-                    "drupal/easy_breadcrumb": "*",
-                    "drupal/editor_advanced_link": "*",
-                    "drupal/embed": "*",
-                    "drupal/entity_clone": "*",
-                    "drupal/entity_embed": "*",
-                    "drupal/facets": "*",
-                    "drupal/facets_pretty_paths": "*",
-                    "drupal/fallback_media": "*",
-                    "drupal/field_group": "*",
-                    "drupal/file_delete": "*",
-                    "drupal/filter_perms": "*",
-                    "drupal/focal_point": "*",
-                    "drupal/gin": "*",
-                    "drupal/gin_toolbar": "*",
-                    "drupal/honeypot": "*",
-                    "drupal/imageapi_optimize": "*",
-                    "drupal/imageapi_optimize_binaries": "*",
-                    "drupal/inline_entity_form": "*",
-                    "drupal/linkit": "^6",
-                    "drupal/mail_safety": "*",
-                    "drupal/mailsystem": "*",
-                    "drupal/maxlength": "*",
-                    "drupal/menu_block": "*",
-                    "drupal/metatag": "*",
-                    "drupal/minifyhtml": "*",
-                    "drupal/node_boolean": "*",
-                    "drupal/node_revision_delete": "*",
-                    "drupal/paragraphs": "*",
-                    "drupal/password_policy": "3.x-dev@dev",
-                    "drupal/path_redirect_import": "*",
-                    "drupal/pathauto": "*",
-                    "drupal/redirect": "*",
-                    "drupal/redis": "*",
-                    "drupal/role_delegation": "*",
-                    "drupal/scheduled_publish": "*",
-                    "drupal/schema_metatag": "*",
-                    "drupal/search_api": "*",
-                    "drupal/search_api_attachments": "*",
-                    "drupal/search_api_autocomplete": "*",
-                    "drupal/search_api_solr": "*",
-                    "drupal/seckit": "*",
-                    "drupal/simple_sitemap": "*",
-                    "drupal/smart_trim": "*",
-                    "drupal/stage_file_proxy": "*",
-                    "drupal/token": "*",
-                    "drupal/username_enumeration_prevention": "*",
-                    "drupal/webform": "^6.0@alpha",
-                    "numiko/csp_per_page": "*",
-                    "numiko/custom-caption-filter": "^3.0",
-                    "numiko/entity_reference_view_display": "*",
-                    "numiko/form_ui": "^2.0",
-                    "numiko/icon-menu": "^1.0",
-                    "numiko/integration_tests": "^2.0@beta",
-                    "numiko/personas": "*",
-                    "numiko/responsive_image_class": "*",
-                    "numiko/slice_jump_links": "*",
-                    "numiko/twig_field_values": "*",
-                    "numiko/user_login_admin": "*",
-                    "numiko/views-topup": "*"
-                },
-                "time": "2022-10-21T11:33:55+00:00",
+                "time": "2022-10-21T16:41:14+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
-                "extra": {
-                    "patches": {
-                        "drupal/coffee": {
-                            "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
-                        },
-                        "drupal/gin_toolbar": {
-                            "[3121440] Add option for node local tasks in toolbar": "https://www.drupal.org/files/issues/2022-02-11/3263805-41.patch"
-                        }
-                    }
-                },
                 "license": [
                     "GPL-2.0+"
                 ],
-                "description": "The Numiko D9 profile"
+                "description": "The Numiko drupal profile"
             },
             "dev-release/1.1.1": {
                 "name": "numiko/d9-profile",
@@ -23948,22 +23916,6 @@
                     "GPL-2.0+"
                 ],
                 "description": "The Numiko D9 profile"
-            },
-            "dev-release/1.5.0": {
-                "name": "numiko/d9-profile",
-                "version": "dev-release/1.5.0",
-                "version_normalized": "dev-release/1.5.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "67c485f83cd3ba66092a84e5ce7662b93d0b9cd1"
-                },
-                "time": "2022-10-21T13:16:13+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
             },
             "dev-sprint-1": {
                 "name": "numiko/d9-profile",
@@ -33909,6 +33861,205 @@
                 ],
                 "description": "Project template for Drupal 9 projects with composer"
             },
+            "1.5.0": {
+                "name": "numiko/drupal-9-composer-template",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "reference": "8dc0a505f84c34a8ffad614a5b40bbd37f1833bb"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-5bd730.tar",
+                    "reference": "8dc0a505f84c34a8ffad614a5b40bbd37f1833bb",
+                    "shasum": "e84e3797122707ea8319132bb1a8aada3866ea53"
+                },
+                "require": {
+                    "composer/installers": "^1.9",
+                    "cweagans/composer-patches": "^1.7",
+                    "drupal/admin_toolbar": "^3.2",
+                    "drupal/advagg": "^5.0",
+                    "drupal/allowed_formats": "^1.5",
+                    "drupal/clientside_validation": "^4.0",
+                    "drupal/coffee": "^1.2",
+                    "drupal/components": "^2.4",
+                    "drupal/config_filter": "^2.4",
+                    "drupal/config_ignore": "^2.3",
+                    "drupal/config_split": "^2.0",
+                    "drupal/config_update": "^1.7",
+                    "drupal/core-composer-scaffold": "^9.4",
+                    "drupal/core-recommended": "^9.4",
+                    "drupal/cshs": "^3.6",
+                    "drupal/ctools": "^3.11",
+                    "drupal/devel": "^5.0",
+                    "drupal/easy_breadcrumb": "^2.0",
+                    "drupal/embed": "^1.6",
+                    "drupal/entity_clone": "^1.0",
+                    "drupal/entity_embed": "^1.2",
+                    "drupal/facets": "^2.0",
+                    "drupal/facets_pretty_paths": "^1.2",
+                    "drupal/field_group": "^3.3",
+                    "drupal/file_delete": "^2.0",
+                    "drupal/file_replace": "^1.3",
+                    "drupal/filter_perms": "^1.0",
+                    "drupal/focal_point": "^1.5",
+                    "drupal/gin": "^3.0",
+                    "drupal/gin_toolbar": "^1.0",
+                    "drupal/honeypot": "^2.1",
+                    "drupal/imageapi_optimize": "^4.0",
+                    "drupal/imageapi_optimize_binaries": "^1.0",
+                    "drupal/inline_entity_form": "^1.0",
+                    "drupal/linkit": "^6.0",
+                    "drupal/mail_safety": "^1.2",
+                    "drupal/mailsystem": "^4.4",
+                    "drupal/maxlength": "^2.0",
+                    "drupal/menu_block": "^1.8",
+                    "drupal/metatag": "^1.22",
+                    "drupal/minifyhtml": "^2.0",
+                    "drupal/node_boolean": "^1.10",
+                    "drupal/node_revision_delete": "^1.0",
+                    "drupal/paragraphs": "^1.15",
+                    "drupal/password_policy": "^3.2",
+                    "drupal/path_redirect_import": "^2.0",
+                    "drupal/pathauto": "^1.11",
+                    "drupal/redirect": "^1.8",
+                    "drupal/redis": "^1.5",
+                    "drupal/role_delegation": "^1.2",
+                    "drupal/scheduled_publish": "^3.9",
+                    "drupal/schema_metatag": "^2.3",
+                    "drupal/search_api": "^1.26",
+                    "drupal/search_api_attachments": "^9.0",
+                    "drupal/search_api_autocomplete": "^1.7",
+                    "drupal/search_api_solr": "^4.2",
+                    "drupal/seckit": "^2.0",
+                    "drupal/simple_sitemap": "^4.1",
+                    "drupal/smart_trim": "^1.3",
+                    "drupal/stage_file_proxy": "^1.2",
+                    "drupal/token": "^1.11",
+                    "drupal/username_enumeration_prevention": "^1.2",
+                    "drupal/webform": "^6.1",
+                    "drush/drush": "^10.3",
+                    "numiko/csp_per_page": "*",
+                    "numiko/custom-caption-filter": "^3.0",
+                    "numiko/d9-profile": "^1.5.0",
+                    "numiko/entity_reference_view_display": "*",
+                    "numiko/form_ui": "^2.0",
+                    "numiko/icon-menu": "^1.0",
+                    "numiko/integration_tests": "^2.2",
+                    "numiko/media_gallery": "^1.0",
+                    "numiko/media_video_id": "^1.2",
+                    "numiko/numidemo": "^1.0",
+                    "numiko/paragraphs_category_modal": "^2.3",
+                    "numiko/personas": "^1.3",
+                    "numiko/responsive_image_class": "^1.2",
+                    "numiko/security_checker": "^1.0",
+                    "numiko/site_alerts": "^1.7",
+                    "numiko/slice_jump_links": "^8.4",
+                    "numiko/twig_field_values": "^3.0",
+                    "numiko/user_login_admin": "^2.1",
+                    "numiko/views-topup": "^2.1",
+                    "php": ">=8",
+                    "vlucas/phpdotenv": "^5.1",
+                    "webflo/drupal-finder": "^1.2"
+                },
+                "conflict": {
+                    "drupal/drupal": "*"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "^9.0",
+                    "mglaman/drupal-check": "^1.1",
+                    "zaporylie/composer-drupal-optimizations": "^1.2"
+                },
+                "time": "2022-10-21T15:17:41+00:00",
+                "type": "project",
+                "extra": {
+                    "enable-patching": true,
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "docroot/"
+                        },
+                        "file-mapping": {
+                            "[web-root]/sites/example.settings.local.php": false,
+                            "[web-root]/sites/development.services.yml": false,
+                            "[web-root]/robots.txt": false
+                        }
+                    },
+                    "installer-paths": {
+                        "docroot/core": [
+                            "type:drupal-core"
+                        ],
+                        "docroot/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "docroot/profiles/contrib/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "docroot/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ],
+                        "docroot/libraries/{$name}": [
+                            "type:drupal-library"
+                        ]
+                    },
+                    "patches": {
+                        "drupal/core": {
+                            "[3099026] Claros preprocessing of field multiple value forms table header cell removes potential changes by others": "https://www.drupal.org/files/issues/2021-11-25/3099026-32_0.patch"
+                        },
+                        "drupal/coffee": {
+                            "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
+                        },
+                        "drupal/easy_breadcrumb": {
+                            "[3281468] preg_split(): Passing null to parameter #2 ($subject) of type string is deprecated": "https://www.drupal.org/files/issues/2022-05-25/preg-split-3281468-7.patch"
+                        },
+                        "drupal/paragraphs": {
+                            "[3268122] Button Add above is missing with Gin theme enabled": "https://www.drupal.org/files/issues/2022-10-18/3268122-add-above-button-to-work-with-gin-8.patch"
+                        }
+                    }
+                },
+                "installation-source": "source",
+                "autoload": {
+                    "classmap": [
+                        "scripts/composer/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "pre-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-create-project-cmd": [
+                        "Composer\\Config::disableProcessTimeout",
+                        "DrupalProject\\composer\\ScriptHandler::setScriptPermissionsOnProjectCreate",
+                        "bash scripts/composer/download-docker",
+                        "bash scripts/composer/theme-install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Numiko",
+                        "role": ""
+                    }
+                ],
+                "description": "Drupal composer project"
+            },
             "1.5.0-beta1": {
                 "name": "numiko/drupal-9-composer-template",
                 "version": "1.5.0-beta1",
@@ -35479,6 +35630,402 @@
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
                 "time": "2022-10-21T13:04:29+00:00",
+                "type": "project",
+                "extra": {
+                    "enable-patching": true,
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "docroot/"
+                        },
+                        "file-mapping": {
+                            "[web-root]/sites/example.settings.local.php": false,
+                            "[web-root]/sites/development.services.yml": false,
+                            "[web-root]/robots.txt": false
+                        }
+                    },
+                    "installer-paths": {
+                        "docroot/core": [
+                            "type:drupal-core"
+                        ],
+                        "docroot/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "docroot/profiles/contrib/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "docroot/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ],
+                        "docroot/libraries/{$name}": [
+                            "type:drupal-library"
+                        ]
+                    },
+                    "patches": {
+                        "drupal/core": {
+                            "[3099026] Claros preprocessing of field multiple value forms table header cell removes potential changes by others": "https://www.drupal.org/files/issues/2021-11-25/3099026-32_0.patch"
+                        },
+                        "drupal/coffee": {
+                            "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
+                        },
+                        "drupal/easy_breadcrumb": {
+                            "[3281468] preg_split(): Passing null to parameter #2 ($subject) of type string is deprecated": "https://www.drupal.org/files/issues/2022-05-25/preg-split-3281468-7.patch"
+                        },
+                        "drupal/paragraphs": {
+                            "[3268122] Button Add above is missing with Gin theme enabled": "https://www.drupal.org/files/issues/2022-10-18/3268122-add-above-button-to-work-with-gin-8.patch"
+                        }
+                    }
+                },
+                "autoload": {
+                    "classmap": [
+                        "scripts/composer/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "pre-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-create-project-cmd": [
+                        "Composer\\Config::disableProcessTimeout",
+                        "DrupalProject\\composer\\ScriptHandler::setScriptPermissionsOnProjectCreate",
+                        "bash scripts/composer/download-docker",
+                        "bash scripts/composer/theme-install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Numiko",
+                        "role": ""
+                    }
+                ],
+                "description": "Drupal composer project"
+            },
+            "1.5.0-beta18": {
+                "name": "numiko/drupal-9-composer-template",
+                "version": "1.5.0-beta18",
+                "version_normalized": "1.5.0.0-beta18",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "reference": "c4532c7a0c84baae06e6931ff14ed6365ddb8fc4"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta18-723042.tar",
+                    "reference": "c4532c7a0c84baae06e6931ff14ed6365ddb8fc4",
+                    "shasum": "48fdca90d83c9bc7e8a9c1a67745debd4216d8fd"
+                },
+                "require": {
+                    "composer/installers": "^1.9",
+                    "cweagans/composer-patches": "^1.7",
+                    "drupal/admin_toolbar": "^3.2",
+                    "drupal/advagg": "^5.0",
+                    "drupal/allowed_formats": "^1.5",
+                    "drupal/clientside_validation": "^4.0",
+                    "drupal/coffee": "^1.2",
+                    "drupal/components": "^2.4",
+                    "drupal/config_filter": "^2.4",
+                    "drupal/config_ignore": "^2.3",
+                    "drupal/config_split": "^2.0",
+                    "drupal/config_update": "^1.7",
+                    "drupal/core-composer-scaffold": "^9.4",
+                    "drupal/core-recommended": "^9.4",
+                    "drupal/cshs": "^3.6",
+                    "drupal/ctools": "^3.11",
+                    "drupal/devel": "^5.0",
+                    "drupal/easy_breadcrumb": "^2.0",
+                    "drupal/embed": "^1.6",
+                    "drupal/entity_clone": "^1.0",
+                    "drupal/entity_embed": "^1.2",
+                    "drupal/facets": "^2.0",
+                    "drupal/facets_pretty_paths": "^1.2",
+                    "drupal/field_group": "^3.3",
+                    "drupal/file_delete": "^2.0",
+                    "drupal/file_replace": "^1.3",
+                    "drupal/filter_perms": "^1.0",
+                    "drupal/focal_point": "^1.5",
+                    "drupal/gin": "^3.0",
+                    "drupal/gin_toolbar": "^1.0",
+                    "drupal/honeypot": "^2.1",
+                    "drupal/imageapi_optimize": "^4.0",
+                    "drupal/imageapi_optimize_binaries": "^1.0",
+                    "drupal/inline_entity_form": "^1.0",
+                    "drupal/linkit": "^6.0",
+                    "drupal/mail_safety": "^1.2",
+                    "drupal/mailsystem": "^4.4",
+                    "drupal/maxlength": "^2.0",
+                    "drupal/menu_block": "^1.8",
+                    "drupal/metatag": "^1.22",
+                    "drupal/minifyhtml": "^2.0",
+                    "drupal/node_boolean": "^1.10",
+                    "drupal/node_revision_delete": "^1.0",
+                    "drupal/paragraphs": "^1.15",
+                    "drupal/password_policy": "^3.2",
+                    "drupal/path_redirect_import": "^2.0",
+                    "drupal/pathauto": "^1.11",
+                    "drupal/redirect": "^1.8",
+                    "drupal/redis": "^1.5",
+                    "drupal/role_delegation": "^1.2",
+                    "drupal/scheduled_publish": "^3.9",
+                    "drupal/schema_metatag": "^2.3",
+                    "drupal/search_api": "^1.26",
+                    "drupal/search_api_attachments": "^9.0",
+                    "drupal/search_api_autocomplete": "^1.7",
+                    "drupal/search_api_solr": "^4.2",
+                    "drupal/seckit": "^2.0",
+                    "drupal/simple_sitemap": "^4.1",
+                    "drupal/smart_trim": "^1.3",
+                    "drupal/stage_file_proxy": "^1.2",
+                    "drupal/token": "^1.11",
+                    "drupal/username_enumeration_prevention": "^1.2",
+                    "drupal/webform": "^6.1",
+                    "drush/drush": "^10.3",
+                    "numiko/csp_per_page": "*",
+                    "numiko/custom-caption-filter": "^3.0",
+                    "numiko/d9-profile": "^1.5.0",
+                    "numiko/entity_reference_view_display": "*",
+                    "numiko/form_ui": "^2.0",
+                    "numiko/icon-menu": "^1.0",
+                    "numiko/integration_tests": "^2.2",
+                    "numiko/media_gallery": "^1.0",
+                    "numiko/media_video_id": "^1.2",
+                    "numiko/paragraphs_category_modal": "^2.3",
+                    "numiko/personas": "^1.3",
+                    "numiko/responsive_image_class": "^1.2",
+                    "numiko/security_checker": "^1.0",
+                    "numiko/site_alerts": "^1.7",
+                    "numiko/slice_jump_links": "^8.4",
+                    "numiko/twig_field_values": "^3.0",
+                    "numiko/user_login_admin": "^2.1",
+                    "numiko/views-topup": "^2.1",
+                    "php": ">=8",
+                    "vlucas/phpdotenv": "^5.1",
+                    "webflo/drupal-finder": "^1.2"
+                },
+                "conflict": {
+                    "drupal/drupal": "*"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "^9.0",
+                    "mglaman/drupal-check": "^1.1",
+                    "zaporylie/composer-drupal-optimizations": "^1.2"
+                },
+                "time": "2022-10-21T14:46:21+00:00",
+                "type": "project",
+                "extra": {
+                    "enable-patching": true,
+                    "drupal-scaffold": {
+                        "locations": {
+                            "web-root": "docroot/"
+                        },
+                        "file-mapping": {
+                            "[web-root]/sites/example.settings.local.php": false,
+                            "[web-root]/sites/development.services.yml": false,
+                            "[web-root]/robots.txt": false
+                        }
+                    },
+                    "installer-paths": {
+                        "docroot/core": [
+                            "type:drupal-core"
+                        ],
+                        "docroot/modules/contrib/{$name}": [
+                            "type:drupal-module"
+                        ],
+                        "docroot/profiles/contrib/{$name}": [
+                            "type:drupal-profile"
+                        ],
+                        "docroot/themes/contrib/{$name}": [
+                            "type:drupal-theme"
+                        ],
+                        "drush/contrib/{$name}": [
+                            "type:drupal-drush"
+                        ],
+                        "docroot/libraries/{$name}": [
+                            "type:drupal-library"
+                        ]
+                    },
+                    "patches": {
+                        "drupal/core": {
+                            "[3099026] Claros preprocessing of field multiple value forms table header cell removes potential changes by others": "https://www.drupal.org/files/issues/2021-11-25/3099026-32_0.patch"
+                        },
+                        "drupal/coffee": {
+                            "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
+                        },
+                        "drupal/easy_breadcrumb": {
+                            "[3281468] preg_split(): Passing null to parameter #2 ($subject) of type string is deprecated": "https://www.drupal.org/files/issues/2022-05-25/preg-split-3281468-7.patch"
+                        },
+                        "drupal/paragraphs": {
+                            "[3268122] Button Add above is missing with Gin theme enabled": "https://www.drupal.org/files/issues/2022-10-18/3268122-add-above-button-to-work-with-gin-8.patch"
+                        }
+                    }
+                },
+                "installation-source": "source",
+                "autoload": {
+                    "classmap": [
+                        "scripts/composer/ScriptHandler.php"
+                    ]
+                },
+                "scripts": {
+                    "pre-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "pre-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+                    ],
+                    "post-install-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-update-cmd": [
+                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
+                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
+                    ],
+                    "post-create-project-cmd": [
+                        "Composer\\Config::disableProcessTimeout",
+                        "DrupalProject\\composer\\ScriptHandler::setScriptPermissionsOnProjectCreate",
+                        "bash scripts/composer/download-docker",
+                        "bash scripts/composer/theme-install"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Numiko",
+                        "role": ""
+                    }
+                ],
+                "description": "Drupal composer project"
+            },
+            "1.5.0-beta19": {
+                "name": "numiko/drupal-9-composer-template",
+                "version": "1.5.0-beta19",
+                "version_normalized": "1.5.0.0-beta19",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
+                    "reference": "8dc0a505f84c34a8ffad614a5b40bbd37f1833bb"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/drupal-9-composer-template/numiko-drupal-9-composer-template-1.5.0-beta19-5bd730.tar",
+                    "reference": "8dc0a505f84c34a8ffad614a5b40bbd37f1833bb",
+                    "shasum": "809ea6bd3250a6dbaf52bfe7ca7641b13c9ee715"
+                },
+                "require": {
+                    "composer/installers": "^1.9",
+                    "cweagans/composer-patches": "^1.7",
+                    "drupal/admin_toolbar": "^3.2",
+                    "drupal/advagg": "^5.0",
+                    "drupal/allowed_formats": "^1.5",
+                    "drupal/clientside_validation": "^4.0",
+                    "drupal/coffee": "^1.2",
+                    "drupal/components": "^2.4",
+                    "drupal/config_filter": "^2.4",
+                    "drupal/config_ignore": "^2.3",
+                    "drupal/config_split": "^2.0",
+                    "drupal/config_update": "^1.7",
+                    "drupal/core-composer-scaffold": "^9.4",
+                    "drupal/core-recommended": "^9.4",
+                    "drupal/cshs": "^3.6",
+                    "drupal/ctools": "^3.11",
+                    "drupal/devel": "^5.0",
+                    "drupal/easy_breadcrumb": "^2.0",
+                    "drupal/embed": "^1.6",
+                    "drupal/entity_clone": "^1.0",
+                    "drupal/entity_embed": "^1.2",
+                    "drupal/facets": "^2.0",
+                    "drupal/facets_pretty_paths": "^1.2",
+                    "drupal/field_group": "^3.3",
+                    "drupal/file_delete": "^2.0",
+                    "drupal/file_replace": "^1.3",
+                    "drupal/filter_perms": "^1.0",
+                    "drupal/focal_point": "^1.5",
+                    "drupal/gin": "^3.0",
+                    "drupal/gin_toolbar": "^1.0",
+                    "drupal/honeypot": "^2.1",
+                    "drupal/imageapi_optimize": "^4.0",
+                    "drupal/imageapi_optimize_binaries": "^1.0",
+                    "drupal/inline_entity_form": "^1.0",
+                    "drupal/linkit": "^6.0",
+                    "drupal/mail_safety": "^1.2",
+                    "drupal/mailsystem": "^4.4",
+                    "drupal/maxlength": "^2.0",
+                    "drupal/menu_block": "^1.8",
+                    "drupal/metatag": "^1.22",
+                    "drupal/minifyhtml": "^2.0",
+                    "drupal/node_boolean": "^1.10",
+                    "drupal/node_revision_delete": "^1.0",
+                    "drupal/paragraphs": "^1.15",
+                    "drupal/password_policy": "^3.2",
+                    "drupal/path_redirect_import": "^2.0",
+                    "drupal/pathauto": "^1.11",
+                    "drupal/redirect": "^1.8",
+                    "drupal/redis": "^1.5",
+                    "drupal/role_delegation": "^1.2",
+                    "drupal/scheduled_publish": "^3.9",
+                    "drupal/schema_metatag": "^2.3",
+                    "drupal/search_api": "^1.26",
+                    "drupal/search_api_attachments": "^9.0",
+                    "drupal/search_api_autocomplete": "^1.7",
+                    "drupal/search_api_solr": "^4.2",
+                    "drupal/seckit": "^2.0",
+                    "drupal/simple_sitemap": "^4.1",
+                    "drupal/smart_trim": "^1.3",
+                    "drupal/stage_file_proxy": "^1.2",
+                    "drupal/token": "^1.11",
+                    "drupal/username_enumeration_prevention": "^1.2",
+                    "drupal/webform": "^6.1",
+                    "drush/drush": "^10.3",
+                    "numiko/csp_per_page": "*",
+                    "numiko/custom-caption-filter": "^3.0",
+                    "numiko/d9-profile": "^1.5.0",
+                    "numiko/entity_reference_view_display": "*",
+                    "numiko/form_ui": "^2.0",
+                    "numiko/icon-menu": "^1.0",
+                    "numiko/integration_tests": "^2.2",
+                    "numiko/media_gallery": "^1.0",
+                    "numiko/media_video_id": "^1.2",
+                    "numiko/numidemo": "^1.0",
+                    "numiko/paragraphs_category_modal": "^2.3",
+                    "numiko/personas": "^1.3",
+                    "numiko/responsive_image_class": "^1.2",
+                    "numiko/security_checker": "^1.0",
+                    "numiko/site_alerts": "^1.7",
+                    "numiko/slice_jump_links": "^8.4",
+                    "numiko/twig_field_values": "^3.0",
+                    "numiko/user_login_admin": "^2.1",
+                    "numiko/views-topup": "^2.1",
+                    "php": ">=8",
+                    "vlucas/phpdotenv": "^5.1",
+                    "webflo/drupal-finder": "^1.2"
+                },
+                "conflict": {
+                    "drupal/drupal": "*"
+                },
+                "require-dev": {
+                    "drupal/core-dev": "^9.0",
+                    "mglaman/drupal-check": "^1.1",
+                    "zaporylie/composer-drupal-optimizations": "^1.2"
+                },
+                "time": "2022-10-21T15:17:41+00:00",
                 "type": "project",
                 "extra": {
                     "enable-patching": true,
@@ -37290,198 +37837,6 @@
                 ],
                 "description": "Drupal composer project"
             },
-            "dev-SITEKIT-205": {
-                "name": "numiko/drupal-9-composer-template",
-                "version": "dev-SITEKIT-205",
-                "version_normalized": "dev-SITEKIT-205",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "ab8fc7481fbfad1a792cb77b1bd5e73c11debc4e"
-                },
-                "require": {
-                    "composer/installers": "^1.9",
-                    "cweagans/composer-patches": "^1.7",
-                    "drupal/admin_toolbar": "^3.2",
-                    "drupal/advagg": "^5.0",
-                    "drupal/allowed_formats": "^1.5",
-                    "drupal/clientside_validation": "^4.0",
-                    "drupal/coffee": "^1.2",
-                    "drupal/components": "^2.4",
-                    "drupal/config_filter": "^2.4",
-                    "drupal/config_ignore": "^2.3",
-                    "drupal/config_split": "^2.0",
-                    "drupal/config_update": "^1.7",
-                    "drupal/core-composer-scaffold": "^9.4",
-                    "drupal/core-recommended": "^9.4",
-                    "drupal/cshs": "^3.6",
-                    "drupal/ctools": "^3.11",
-                    "drupal/devel": "^5.0",
-                    "drupal/easy_breadcrumb": "^2.0",
-                    "drupal/embed": "^1.6",
-                    "drupal/entity_clone": "^1.0",
-                    "drupal/entity_embed": "^1.2",
-                    "drupal/facets": "^2.0",
-                    "drupal/facets_pretty_paths": "^1.2",
-                    "drupal/field_group": "^3.3",
-                    "drupal/file_delete": "^2.0",
-                    "drupal/file_replace": "^1.3",
-                    "drupal/filter_perms": "^1.0",
-                    "drupal/focal_point": "^1.5",
-                    "drupal/gin": "^3.0",
-                    "drupal/gin_toolbar": "^1.0",
-                    "drupal/honeypot": "^2.1",
-                    "drupal/imageapi_optimize": "^4.0",
-                    "drupal/imageapi_optimize_binaries": "^1.0",
-                    "drupal/inline_entity_form": "^1.0",
-                    "drupal/linkit": "^6.0",
-                    "drupal/mail_safety": "^1.2",
-                    "drupal/mailsystem": "^4.4",
-                    "drupal/maxlength": "^2.0",
-                    "drupal/menu_block": "^1.8",
-                    "drupal/metatag": "^1.22",
-                    "drupal/minifyhtml": "^2.0",
-                    "drupal/node_boolean": "^1.10",
-                    "drupal/node_revision_delete": "^1.0",
-                    "drupal/paragraphs": "^1.15",
-                    "drupal/password_policy": "^3.2",
-                    "drupal/path_redirect_import": "^2.0",
-                    "drupal/pathauto": "^1.11",
-                    "drupal/redirect": "^1.8",
-                    "drupal/redis": "^1.5",
-                    "drupal/role_delegation": "^1.2",
-                    "drupal/scheduler": "^1.4",
-                    "drupal/scheduler_content_moderation_integration": "^1.4",
-                    "drupal/schema_metatag": "^2.3",
-                    "drupal/search_api": "^1.26",
-                    "drupal/search_api_attachments": "^9.0",
-                    "drupal/search_api_autocomplete": "^1.7",
-                    "drupal/search_api_solr": "^4.2",
-                    "drupal/seckit": "^2.0",
-                    "drupal/simple_sitemap": "^4.1",
-                    "drupal/smart_trim": "^1.3",
-                    "drupal/stage_file_proxy": "^1.2",
-                    "drupal/token": "^1.11",
-                    "drupal/username_enumeration_prevention": "^1.2",
-                    "drupal/webform": "^6.1",
-                    "drush/drush": "^10.3",
-                    "numiko/csp_per_page": "*",
-                    "numiko/custom-caption-filter": "^3.0",
-                    "numiko/d9-profile": "^1.5.0",
-                    "numiko/entity_reference_view_display": "*",
-                    "numiko/form_ui": "^2.0",
-                    "numiko/icon-menu": "^1.0",
-                    "numiko/integration_tests": "^2.2",
-                    "numiko/media_gallery": "^1.0",
-                    "numiko/media_video_id": "^1.2",
-                    "numiko/paragraphs_category_modal": "^2.3",
-                    "numiko/personas": "^1.3",
-                    "numiko/responsive_image_class": "^1.2",
-                    "numiko/security_checker": "^1.0",
-                    "numiko/site_alerts": "^1.7",
-                    "numiko/slice_jump_links": "^8.4",
-                    "numiko/twig_field_values": "^3.0",
-                    "numiko/user_login_admin": "^2.1",
-                    "numiko/views-topup": "^2.1",
-                    "php": ">=8",
-                    "vlucas/phpdotenv": "^5.1",
-                    "webflo/drupal-finder": "^1.2"
-                },
-                "conflict": {
-                    "drupal/drupal": "*"
-                },
-                "require-dev": {
-                    "drupal/core-dev": "^9.0",
-                    "mglaman/drupal-check": "^1.1",
-                    "zaporylie/composer-drupal-optimizations": "^1.2"
-                },
-                "time": "2022-10-21T13:51:02+00:00",
-                "type": "project",
-                "extra": {
-                    "enable-patching": true,
-                    "drupal-scaffold": {
-                        "locations": {
-                            "web-root": "docroot/"
-                        },
-                        "file-mapping": {
-                            "[web-root]/sites/example.settings.local.php": false,
-                            "[web-root]/sites/development.services.yml": false,
-                            "[web-root]/robots.txt": false
-                        }
-                    },
-                    "installer-paths": {
-                        "docroot/core": [
-                            "type:drupal-core"
-                        ],
-                        "docroot/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "docroot/profiles/contrib/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "docroot/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ],
-                        "docroot/libraries/{$name}": [
-                            "type:drupal-library"
-                        ]
-                    },
-                    "patches": {
-                        "drupal/core": {
-                            "[3099026] Claros preprocessing of field multiple value forms table header cell removes potential changes by others": "https://www.drupal.org/files/issues/2021-11-25/3099026-32_0.patch"
-                        },
-                        "drupal/coffee": {
-                            "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
-                        },
-                        "drupal/easy_breadcrumb": {
-                            "[3281468] preg_split(): Passing null to parameter #2 ($subject) of type string is deprecated": "https://www.drupal.org/files/issues/2022-05-25/preg-split-3281468-7.patch"
-                        },
-                        "drupal/paragraphs": {
-                            "[3268122] Button Add above is missing with Gin theme enabled": "https://www.drupal.org/files/issues/2022-10-18/3268122-add-above-button-to-work-with-gin-8.patch"
-                        }
-                    }
-                },
-                "autoload": {
-                    "classmap": [
-                        "scripts/composer/ScriptHandler.php"
-                    ]
-                },
-                "scripts": {
-                    "pre-install-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
-                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
-                    ],
-                    "post-update-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
-                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
-                    ],
-                    "post-create-project-cmd": [
-                        "Composer\\Config::disableProcessTimeout",
-                        "DrupalProject\\composer\\ScriptHandler::setScriptPermissionsOnProjectCreate",
-                        "bash scripts/composer/download-docker",
-                        "bash scripts/composer/theme-install"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "authors": [
-                    {
-                        "name": "Numiko",
-                        "role": ""
-                    }
-                ],
-                "description": "Drupal composer project"
-            },
             "dev-feature/storybook-integration": {
                 "name": "numiko/drupal-9-composer-template",
                 "version": "dev-feature/storybook-integration",
@@ -37596,16 +37951,93 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "60e57930313b35b1b438b83b4da431099b590b0c"
+                    "reference": "26646684875598c0211e98bd4cc4ed696bd26d98"
                 },
                 "require": {
                     "composer/installers": "^1.9",
                     "cweagans/composer-patches": "^1.7",
-                    "drupal/core-composer-scaffold": "^9.0",
-                    "drupal/core-recommended": "^9.0",
+                    "drupal/admin_toolbar": "^3.2",
+                    "drupal/advagg": "^5.0",
+                    "drupal/allowed_formats": "^1.5",
+                    "drupal/clientside_validation": "^4.0",
+                    "drupal/coffee": "^1.2",
+                    "drupal/components": "^2.4",
+                    "drupal/config_filter": "^2.4",
+                    "drupal/config_ignore": "^2.3",
+                    "drupal/config_split": "^2.0",
+                    "drupal/config_update": "^1.7",
+                    "drupal/core-composer-scaffold": "^9.4",
+                    "drupal/core-recommended": "^9.4",
+                    "drupal/cshs": "^3.6",
+                    "drupal/ctools": "^3.11",
+                    "drupal/devel": "^5.0",
+                    "drupal/easy_breadcrumb": "^2.0",
+                    "drupal/embed": "^1.6",
+                    "drupal/entity_clone": "^1.0",
+                    "drupal/entity_embed": "^1.2",
+                    "drupal/facets": "^2.0",
+                    "drupal/facets_pretty_paths": "^1.2",
+                    "drupal/field_group": "^3.3",
+                    "drupal/file_delete": "^2.0",
+                    "drupal/file_replace": "^1.3",
+                    "drupal/filter_perms": "^1.0",
+                    "drupal/focal_point": "^1.5",
+                    "drupal/gin": "^3.0",
+                    "drupal/gin_toolbar": "^1.0",
+                    "drupal/honeypot": "^2.1",
+                    "drupal/imageapi_optimize": "^4.0",
+                    "drupal/imageapi_optimize_binaries": "^1.0",
+                    "drupal/inline_entity_form": "^1.0",
+                    "drupal/linkit": "^6.0",
+                    "drupal/mail_safety": "^1.2",
+                    "drupal/mailsystem": "^4.4",
+                    "drupal/maxlength": "^2.0",
+                    "drupal/menu_block": "^1.8",
+                    "drupal/metatag": "^1.22",
+                    "drupal/minifyhtml": "^2.0",
+                    "drupal/node_boolean": "^1.10",
+                    "drupal/node_revision_delete": "^1.0",
+                    "drupal/paragraphs": "^1.15",
+                    "drupal/password_policy": "^3.2",
+                    "drupal/path_redirect_import": "^2.0",
+                    "drupal/pathauto": "^1.11",
+                    "drupal/redirect": "^1.8",
+                    "drupal/redis": "^1.5",
+                    "drupal/role_delegation": "^1.2",
+                    "drupal/scheduled_publish": "^3.9",
+                    "drupal/schema_metatag": "^2.3",
+                    "drupal/search_api": "^1.26",
+                    "drupal/search_api_attachments": "^9.0",
+                    "drupal/search_api_autocomplete": "^1.7",
+                    "drupal/search_api_solr": "^4.2",
+                    "drupal/seckit": "^2.0",
+                    "drupal/simple_sitemap": "^4.1",
+                    "drupal/smart_trim": "^1.3",
+                    "drupal/stage_file_proxy": "^1.2",
+                    "drupal/token": "^1.11",
+                    "drupal/username_enumeration_prevention": "^1.2",
+                    "drupal/webform": "^6.1",
                     "drush/drush": "^10.3",
-                    "numiko/d9-profile": "1.4.*",
-                    "php": ">=7.3",
+                    "numiko/csp_per_page": "*",
+                    "numiko/custom-caption-filter": "^3.0",
+                    "numiko/d9-profile": "^1.5.0",
+                    "numiko/entity_reference_view_display": "*",
+                    "numiko/form_ui": "^2.0",
+                    "numiko/icon-menu": "^1.0",
+                    "numiko/integration_tests": "^2.2",
+                    "numiko/media_gallery": "^1.0",
+                    "numiko/media_video_id": "^1.2",
+                    "numiko/numidemo": "^1.0",
+                    "numiko/paragraphs_category_modal": "^2.3",
+                    "numiko/personas": "^1.3",
+                    "numiko/responsive_image_class": "^1.2",
+                    "numiko/security_checker": "^1.0",
+                    "numiko/site_alerts": "^1.7",
+                    "numiko/slice_jump_links": "^8.4",
+                    "numiko/twig_field_values": "^3.0",
+                    "numiko/user_login_admin": "^2.1",
+                    "numiko/views-topup": "^2.1",
+                    "php": ">=8",
                     "vlucas/phpdotenv": "^5.1",
                     "webflo/drupal-finder": "^1.2"
                 },
@@ -37617,7 +38049,7 @@
                     "mglaman/drupal-check": "^1.1",
                     "zaporylie/composer-drupal-optimizations": "^1.2"
                 },
-                "time": "2022-10-19T14:21:16+00:00",
+                "time": "2022-10-21T16:40:55+00:00",
                 "default-branch": true,
                 "type": "project",
                 "extra": {
@@ -37627,20 +38059,9 @@
                             "web-root": "docroot/"
                         },
                         "file-mapping": {
-                            "[web-root]/sites/development.services.yml": {
-                                "mode": "replace",
-                                "path": "files/example.development.services.yml",
-                                "overwrite": false
-                            },
-                            "[web-root]/sites/example.settings.local.php": {
-                                "mode": "replace",
-                                "path": "files/example.settings.local.php",
-                                "overwrite": false
-                            },
-                            "[web-root]/sites/default/default.settings.php": {
-                                "append": "files/example.settings.php",
-                                "overwrite": false
-                            }
+                            "[web-root]/sites/example.settings.local.php": false,
+                            "[web-root]/sites/development.services.yml": false,
+                            "[web-root]/robots.txt": false
                         }
                     },
                     "installer-paths": {
@@ -37658,7 +38079,24 @@
                         ],
                         "drush/contrib/{$name}": [
                             "type:drupal-drush"
+                        ],
+                        "docroot/libraries/{$name}": [
+                            "type:drupal-library"
                         ]
+                    },
+                    "patches": {
+                        "drupal/core": {
+                            "[3099026] Claros preprocessing of field multiple value forms table header cell removes potential changes by others": "https://www.drupal.org/files/issues/2021-11-25/3099026-32_0.patch"
+                        },
+                        "drupal/coffee": {
+                            "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
+                        },
+                        "drupal/easy_breadcrumb": {
+                            "[3281468] preg_split(): Passing null to parameter #2 ($subject) of type string is deprecated": "https://www.drupal.org/files/issues/2022-05-25/preg-split-3281468-7.patch"
+                        },
+                        "drupal/paragraphs": {
+                            "[3268122] Button Add above is missing with Gin theme enabled": "https://www.drupal.org/files/issues/2022-10-18/3268122-add-above-button-to-work-with-gin-8.patch"
+                        }
                     }
                 },
                 "autoload": {
@@ -37683,6 +38121,7 @@
                     ],
                     "post-create-project-cmd": [
                         "Composer\\Config::disableProcessTimeout",
+                        "DrupalProject\\composer\\ScriptHandler::setScriptPermissionsOnProjectCreate",
                         "bash scripts/composer/download-docker",
                         "bash scripts/composer/theme-install"
                     ]
@@ -37692,11 +38131,11 @@
                 ],
                 "authors": [
                     {
-                        "name": "",
+                        "name": "Numiko",
                         "role": ""
                     }
                 ],
-                "description": "Project template for Drupal 9 projects with composer"
+                "description": "Drupal composer project"
             },
             "dev-release/1.2.0": {
                 "name": "numiko/drupal-9-composer-template",
@@ -37911,197 +38350,6 @@
                     }
                 ],
                 "description": "Project template for Drupal 9 projects with composer"
-            },
-            "dev-release/1.5.0": {
-                "name": "numiko/drupal-9-composer-template",
-                "version": "dev-release/1.5.0",
-                "version_normalized": "dev-release/1.5.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/drupal-9-composer-template.git",
-                    "reference": "ead4f8856ff98dfa8ded453c1e4227e9762159b9"
-                },
-                "require": {
-                    "composer/installers": "^1.9",
-                    "cweagans/composer-patches": "^1.7",
-                    "drupal/admin_toolbar": "^3.2",
-                    "drupal/advagg": "^5.0",
-                    "drupal/allowed_formats": "^1.5",
-                    "drupal/clientside_validation": "^4.0",
-                    "drupal/coffee": "^1.2",
-                    "drupal/components": "^2.4",
-                    "drupal/config_filter": "^2.4",
-                    "drupal/config_ignore": "^2.3",
-                    "drupal/config_split": "^2.0",
-                    "drupal/config_update": "^1.7",
-                    "drupal/core-composer-scaffold": "^9.4",
-                    "drupal/core-recommended": "^9.4",
-                    "drupal/cshs": "^3.6",
-                    "drupal/ctools": "^3.11",
-                    "drupal/devel": "^5.0",
-                    "drupal/easy_breadcrumb": "^2.0",
-                    "drupal/embed": "^1.6",
-                    "drupal/entity_clone": "^1.0",
-                    "drupal/entity_embed": "^1.2",
-                    "drupal/facets": "^2.0",
-                    "drupal/facets_pretty_paths": "^1.2",
-                    "drupal/field_group": "^3.3",
-                    "drupal/file_delete": "^2.0",
-                    "drupal/file_replace": "^1.3",
-                    "drupal/filter_perms": "^1.0",
-                    "drupal/focal_point": "^1.5",
-                    "drupal/gin": "^3.0",
-                    "drupal/gin_toolbar": "^1.0",
-                    "drupal/honeypot": "^2.1",
-                    "drupal/imageapi_optimize": "^4.0",
-                    "drupal/imageapi_optimize_binaries": "^1.0",
-                    "drupal/inline_entity_form": "^1.0",
-                    "drupal/linkit": "^6.0",
-                    "drupal/mail_safety": "^1.2",
-                    "drupal/mailsystem": "^4.4",
-                    "drupal/maxlength": "^2.0",
-                    "drupal/menu_block": "^1.8",
-                    "drupal/metatag": "^1.22",
-                    "drupal/minifyhtml": "^2.0",
-                    "drupal/node_boolean": "^1.10",
-                    "drupal/node_revision_delete": "^1.0",
-                    "drupal/paragraphs": "^1.15",
-                    "drupal/password_policy": "^3.2",
-                    "drupal/path_redirect_import": "^2.0",
-                    "drupal/pathauto": "^1.11",
-                    "drupal/redirect": "^1.8",
-                    "drupal/redis": "^1.5",
-                    "drupal/role_delegation": "^1.2",
-                    "drupal/scheduled_publish": "^3.9",
-                    "drupal/schema_metatag": "^2.3",
-                    "drupal/search_api": "^1.26",
-                    "drupal/search_api_attachments": "^9.0",
-                    "drupal/search_api_autocomplete": "^1.7",
-                    "drupal/search_api_solr": "^4.2",
-                    "drupal/seckit": "^2.0",
-                    "drupal/simple_sitemap": "^4.1",
-                    "drupal/smart_trim": "^1.3",
-                    "drupal/stage_file_proxy": "^1.2",
-                    "drupal/token": "^1.11",
-                    "drupal/username_enumeration_prevention": "^1.2",
-                    "drupal/webform": "^6.1",
-                    "drush/drush": "^10.3",
-                    "numiko/csp_per_page": "*",
-                    "numiko/custom-caption-filter": "^3.0",
-                    "numiko/d9-profile": "^1.5.0",
-                    "numiko/entity_reference_view_display": "*",
-                    "numiko/form_ui": "^2.0",
-                    "numiko/icon-menu": "^1.0",
-                    "numiko/integration_tests": "^2.2",
-                    "numiko/media_gallery": "^1.0",
-                    "numiko/media_video_id": "^1.2",
-                    "numiko/paragraphs_category_modal": "^2.3",
-                    "numiko/personas": "^1.3",
-                    "numiko/responsive_image_class": "^1.2",
-                    "numiko/security_checker": "^1.0",
-                    "numiko/site_alerts": "^1.7",
-                    "numiko/slice_jump_links": "^8.4",
-                    "numiko/twig_field_values": "^3.0",
-                    "numiko/user_login_admin": "^2.1",
-                    "numiko/views-topup": "^2.1",
-                    "php": ">=8",
-                    "vlucas/phpdotenv": "^5.1",
-                    "webflo/drupal-finder": "^1.2"
-                },
-                "conflict": {
-                    "drupal/drupal": "*"
-                },
-                "require-dev": {
-                    "drupal/core-dev": "^9.0",
-                    "mglaman/drupal-check": "^1.1",
-                    "zaporylie/composer-drupal-optimizations": "^1.2"
-                },
-                "time": "2022-10-21T13:04:29+00:00",
-                "type": "project",
-                "extra": {
-                    "enable-patching": true,
-                    "drupal-scaffold": {
-                        "locations": {
-                            "web-root": "docroot/"
-                        },
-                        "file-mapping": {
-                            "[web-root]/sites/example.settings.local.php": false,
-                            "[web-root]/sites/development.services.yml": false,
-                            "[web-root]/robots.txt": false
-                        }
-                    },
-                    "installer-paths": {
-                        "docroot/core": [
-                            "type:drupal-core"
-                        ],
-                        "docroot/modules/contrib/{$name}": [
-                            "type:drupal-module"
-                        ],
-                        "docroot/profiles/contrib/{$name}": [
-                            "type:drupal-profile"
-                        ],
-                        "docroot/themes/contrib/{$name}": [
-                            "type:drupal-theme"
-                        ],
-                        "drush/contrib/{$name}": [
-                            "type:drupal-drush"
-                        ],
-                        "docroot/libraries/{$name}": [
-                            "type:drupal-library"
-                        ]
-                    },
-                    "patches": {
-                        "drupal/core": {
-                            "[3099026] Claros preprocessing of field multiple value forms table header cell removes potential changes by others": "https://www.drupal.org/files/issues/2021-11-25/3099026-32_0.patch"
-                        },
-                        "drupal/coffee": {
-                            "[1734898] Allow user to specify keyboard shortcut": "https://www.drupal.org/files/issues/1734898-7.coffee-hotkeys.patch"
-                        },
-                        "drupal/easy_breadcrumb": {
-                            "[3281468] preg_split(): Passing null to parameter #2 ($subject) of type string is deprecated": "https://www.drupal.org/files/issues/2022-05-25/preg-split-3281468-7.patch"
-                        },
-                        "drupal/paragraphs": {
-                            "[3268122] Button Add above is missing with Gin theme enabled": "https://www.drupal.org/files/issues/2022-10-18/3268122-add-above-button-to-work-with-gin-8.patch"
-                        }
-                    }
-                },
-                "autoload": {
-                    "classmap": [
-                        "scripts/composer/ScriptHandler.php"
-                    ]
-                },
-                "scripts": {
-                    "pre-install-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "pre-update-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
-                    ],
-                    "post-install-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
-                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
-                    ],
-                    "post-update-cmd": [
-                        "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
-                        "DrupalProject\\composer\\ScriptHandler::denyAccessToDocumentationFiles"
-                    ],
-                    "post-create-project-cmd": [
-                        "Composer\\Config::disableProcessTimeout",
-                        "DrupalProject\\composer\\ScriptHandler::setScriptPermissionsOnProjectCreate",
-                        "bash scripts/composer/download-docker",
-                        "bash scripts/composer/theme-install"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "authors": [
-                    {
-                        "name": "Numiko",
-                        "role": ""
-                    }
-                ],
-                "description": "Drupal composer project"
             },
             "dev-sprint-1": {
                 "name": "numiko/drupal-9-composer-template",
@@ -44808,25 +45056,6 @@
                     "Drupal"
                 ]
             },
-            "dev-feature/demo_site": {
-                "name": "numiko/numibase",
-                "version": "dev-feature/demo_site",
-                "version_normalized": "dev-feature/demo_site",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "42b88b03a8837ca0adc9aeaea40dba365dc9dcf3"
-                },
-                "time": "2022-10-21T13:18:31+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
             "dev-feature/demo_site_update": {
                 "name": "numiko/numibase",
                 "version": "dev-feature/demo_site_update",
@@ -44910,9 +45139,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "e4d73bb5844534fc57d1ff39ac79f1af1454e6b4"
+                    "reference": "83c47f94ffbae0ba6433fa3446aaac18871dfcf2"
                 },
-                "time": "2022-10-21T13:20:19+00:00",
+                "time": "2022-10-21T14:54:35+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -47262,6 +47491,19 @@
                 "time": "2021-05-07T14:20:28+00:00",
                 "type": "drupal-module",
                 "description": "Extra checks for security_review module."
+            },
+            "dev-sprint/internal-week-22": {
+                "name": "numiko/numiko_security_review",
+                "version": "dev-sprint/internal-week-22",
+                "version_normalized": "dev-sprint/internal-week-22",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiko-security-review.git",
+                    "reference": "40ecd76b2990cf182322dc7ed0050e8e0f04c8c9"
+                },
+                "time": "2022-10-21T13:55:22+00:00",
+                "type": "drupal-module",
+                "description": "Extra checks for security_review module."
             }
         },
         "numiko/paragraphs_category_modal": {
@@ -48080,6 +48322,26 @@
                 "type": "drupal-module",
                 "description": "Field formatter for image field types to allow classes to be added."
             },
+            "1.3.0": {
+                "name": "numiko/responsive_image_class",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/responsive-image-class.git",
+                    "reference": "a68982cda6c265a9deb347ac684c45bff278ea94"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/responsive_image_class/numiko-responsive_image_class-1.3.0-c4eeb5.tar",
+                    "reference": "a68982cda6c265a9deb347ac684c45bff278ea94",
+                    "shasum": "0c0d462918341bb39f0c37ce0f8a1671dadd2108"
+                },
+                "time": "2022-10-21T14:13:49+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Field formatter for image field types to allow classes to be added."
+            },
             "dev-master": {
                 "name": "numiko/responsive_image_class",
                 "version": "dev-master",
@@ -48087,23 +48349,10 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/responsive-image-class.git",
-                    "reference": "1d992a0ac37d08d235dbcbde10fab670bb3add6f"
+                    "reference": "a68982cda6c265a9deb347ac684c45bff278ea94"
                 },
-                "time": "2022-10-12T10:38:45+00:00",
+                "time": "2022-10-21T14:13:49+00:00",
                 "default-branch": true,
-                "type": "drupal-module",
-                "description": "Field formatter for image field types to allow classes to be added."
-            },
-            "dev-release/1.3.0": {
-                "name": "numiko/responsive_image_class",
-                "version": "dev-release/1.3.0",
-                "version_normalized": "dev-release/1.3.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/responsive-image-class.git",
-                    "reference": "d7f539975e5357954b5fb904dae2ddc7360f3c4b"
-                },
-                "time": "2022-10-21T13:50:44+00:00",
                 "type": "drupal-module",
                 "description": "Field formatter for image field types to allow classes to be added."
             }

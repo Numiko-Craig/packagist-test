@@ -40,6 +40,19 @@
                 "time": "2021-05-07T14:20:28+00:00",
                 "type": "drupal-module",
                 "description": "Extra checks for security_review module."
+            },
+            {
+                "name": "numiko/numiko_security_review",
+                "version": "dev-sprint/internal-week-22",
+                "version_normalized": "dev-sprint/internal-week-22",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiko-security-review.git",
+                    "reference": "40ecd76b2990cf182322dc7ed0050e8e0f04c8c9"
+                },
+                "time": "2022-10-21T13:55:22+00:00",
+                "type": "drupal-module",
+                "description": "Extra checks for security_review module."
             }
         ]
     }
