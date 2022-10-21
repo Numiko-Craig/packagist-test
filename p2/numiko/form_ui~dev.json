@@ -46,9 +46,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "2a15a155b6e31e3e6ac7b6f884828681d750b7a9"
+                    "reference": "306f106dc4ee21f589296907657eca0cb04a22f2"
                 },
-                "time": "2022-09-05T10:08:34+00:00",
+                "time": "2022-10-21T12:48:10+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [

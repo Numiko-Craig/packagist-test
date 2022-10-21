@@ -23118,7 +23118,6 @@
                 },
                 "time": "2022-10-21T09:28:47+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -40263,6 +40262,32 @@
                     "Drupal"
                 ]
             },
+            "2.2.0": {
+                "name": "numiko/form_ui",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/form-ui.git",
+                    "reference": "306f106dc4ee21f589296907657eca0cb04a22f2"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/form_ui/numiko-form_ui-2.2.0-77d054.tar",
+                    "reference": "306f106dc4ee21f589296907657eca0cb04a22f2",
+                    "shasum": "cf0d8ee1c1904f8224ba26441c7536cb0334f901"
+                },
+                "time": "2022-10-21T12:48:10+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Form UI Improvements",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/form_ui",
                 "version": "8.1.0",
@@ -40933,9 +40958,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/form-ui.git",
-                    "reference": "2a15a155b6e31e3e6ac7b6f884828681d750b7a9"
+                    "reference": "306f106dc4ee21f589296907657eca0cb04a22f2"
                 },
-                "time": "2022-09-05T10:08:34+00:00",
+                "time": "2022-10-21T12:48:10+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
