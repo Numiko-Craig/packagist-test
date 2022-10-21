@@ -8320,7 +8320,6 @@
                 },
                 "time": "2022-10-20T15:17:04+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -8343,7 +8342,6 @@
                 },
                 "time": "2022-10-21T07:39:41+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

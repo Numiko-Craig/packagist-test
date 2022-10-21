@@ -8,25 +8,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "c4bafb6a0d764100d7da89e8c24f3e3a10ad1351"
+                    "reference": "9449c647e6b6089ed3e2f87d2ebd7022dce06e8e"
                 },
-                "time": "2022-10-20T14:20:01+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            {
-                "name": "numiko/d9-profile",
-                "version": "dev-SITEKIT-225",
-                "version_normalized": "dev-SITEKIT-225",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "7c028bf18ff9cd599cbcf79d06d8ba7cbebc3b66"
-                },
-                "time": "2022-10-21T08:43:55+00:00",
+                "time": "2022-10-21T09:45:36+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -651,9 +635,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "d6cc6eeabb248c78cf0a6edce6459b03592fd776"
+                    "reference": "d903d0fc4d91a3bb4a1920822fa14da3e5d0050b"
                 },
-                "time": "2022-10-21T07:39:41+00:00",
+                "time": "2022-10-21T09:28:47+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"

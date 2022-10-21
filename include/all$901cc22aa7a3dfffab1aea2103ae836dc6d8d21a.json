@@ -23074,7 +23074,6 @@
                 },
                 "time": "2022-10-20T15:17:04+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -23097,7 +23096,6 @@
                 },
                 "time": "2022-10-21T07:39:41+00:00",
                 "type": "drupal-profile",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],
@@ -23286,25 +23284,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "c4bafb6a0d764100d7da89e8c24f3e3a10ad1351"
+                    "reference": "9449c647e6b6089ed3e2f87d2ebd7022dce06e8e"
                 },
-                "time": "2022-10-20T14:20:01+00:00",
-                "type": "drupal-profile",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "The Numiko drupal profile"
-            },
-            "dev-SITEKIT-225": {
-                "name": "numiko/d9-profile",
-                "version": "dev-SITEKIT-225",
-                "version_normalized": "dev-SITEKIT-225",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "7c028bf18ff9cd599cbcf79d06d8ba7cbebc3b66"
-                },
-                "time": "2022-10-21T08:43:55+00:00",
+                "time": "2022-10-21T09:45:36+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -23929,9 +23911,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "d6cc6eeabb248c78cf0a6edce6459b03592fd776"
+                    "reference": "d903d0fc4d91a3bb4a1920822fa14da3e5d0050b"
                 },
-                "time": "2022-10-21T07:39:41+00:00",
+                "time": "2022-10-21T09:28:47+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -44338,25 +44320,6 @@
                     "Drupal"
                 ]
             },
-            "dev-feature/demo_site": {
-                "name": "numiko/numibase",
-                "version": "dev-feature/demo_site",
-                "version_normalized": "dev-feature/demo_site",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "17003abe7915fb6220700b691665c90a6fc955fa"
-                },
-                "time": "2022-10-21T08:54:06+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
             "dev-feature/demo_site_update": {
                 "name": "numiko/numibase",
                 "version": "dev-feature/demo_site_update",
@@ -44440,9 +44403,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "58cb1f20ba2ad8fb02e43040774125a7a7a0a909"
+                    "reference": "1f2c82ca07a4b02083df03f869f24d20384b580f"
                 },
-                "time": "2022-09-12T13:57:53+00:00",
+                "time": "2022-10-21T08:58:36+00:00",
                 "default-branch": true,
                 "type": "drupal-theme",
                 "license": [
@@ -50965,6 +50928,33 @@
                     "Drupal"
                 ]
             },
+            "3.0.2": {
+                "name": "numiko/twig_field_values",
+                "version": "3.0.2",
+                "version_normalized": "3.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
+                    "reference": "39d778adbe3c6848c85672e397d62891897cb669"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/twig_field_values/numiko-twig_field_values-3.0.2-5d3873.tar",
+                    "reference": "39d778adbe3c6848c85672e397d62891897cb669",
+                    "shasum": "5de04ca106857c1b9dc8d937275e89a86aa8686b"
+                },
+                "time": "2022-10-21T09:07:52+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Twig Field Values",
+                "homepage": "https://bitbucket.org/numiko/twig-field-extensions",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "8.1.0": {
                 "name": "numiko/twig_field_values",
                 "version": "8.1.0",
@@ -51230,9 +51220,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/twig-field-extensions.git",
-                    "reference": "c92035aea9e62743d46e2392433be097b9c38844"
+                    "reference": "39d778adbe3c6848c85672e397d62891897cb669"
                 },
-                "time": "2022-10-18T12:04:20+00:00",
+                "time": "2022-10-21T09:07:52+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "license": [
