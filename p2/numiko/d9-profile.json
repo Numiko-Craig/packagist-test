@@ -8298,6 +8298,51 @@
                 },
                 "time": "2022-10-20T14:06:46+00:00",
                 "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/d9-profile",
+                "version": "1.5.0-beta14",
+                "version_normalized": "1.5.0.0-beta14",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "675842abb402fb867990e8e1dbefb6e705509ed8"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta14-6027bc.tar",
+                    "reference": "675842abb402fb867990e8e1dbefb6e705509ed8",
+                    "shasum": "ac1935283dbeeb07a26dbb153e1847fee37a9bdc"
+                },
+                "time": "2022-10-20T15:17:04+00:00",
+                "type": "drupal-profile",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            {
+                "name": "numiko/d9-profile",
+                "version": "1.5.0-beta15",
+                "version_normalized": "1.5.0.0-beta15",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "d6cc6eeabb248c78cf0a6edce6459b03592fd776"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta15-3bd54b.tar",
+                    "reference": "d6cc6eeabb248c78cf0a6edce6459b03592fd776",
+                    "shasum": "af2ebee6e07b6f4518636171532ed61c8331c77b"
+                },
+                "time": "2022-10-21T07:39:41+00:00",
+                "type": "drupal-profile",
                 "installation-source": "source",
                 "license": [
                     "GPL-2.0+"

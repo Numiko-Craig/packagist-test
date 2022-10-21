@@ -23052,6 +23052,51 @@
                 },
                 "time": "2022-10-20T14:06:46+00:00",
                 "type": "drupal-profile",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            "1.5.0-beta14": {
+                "name": "numiko/d9-profile",
+                "version": "1.5.0-beta14",
+                "version_normalized": "1.5.0.0-beta14",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "675842abb402fb867990e8e1dbefb6e705509ed8"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta14-6027bc.tar",
+                    "reference": "675842abb402fb867990e8e1dbefb6e705509ed8",
+                    "shasum": "ac1935283dbeeb07a26dbb153e1847fee37a9bdc"
+                },
+                "time": "2022-10-20T15:17:04+00:00",
+                "type": "drupal-profile",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "The Numiko drupal profile"
+            },
+            "1.5.0-beta15": {
+                "name": "numiko/d9-profile",
+                "version": "1.5.0-beta15",
+                "version_normalized": "1.5.0.0-beta15",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/d9-profile.git",
+                    "reference": "d6cc6eeabb248c78cf0a6edce6459b03592fd776"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/d9-profile/numiko-d9-profile-1.5.0-beta15-3bd54b.tar",
+                    "reference": "d6cc6eeabb248c78cf0a6edce6459b03592fd776",
+                    "shasum": "af2ebee6e07b6f4518636171532ed61c8331c77b"
+                },
+                "time": "2022-10-21T07:39:41+00:00",
+                "type": "drupal-profile",
                 "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
@@ -23250,16 +23295,16 @@
                 ],
                 "description": "The Numiko drupal profile"
             },
-            "dev-SITEKIT-218": {
+            "dev-SITEKIT-225": {
                 "name": "numiko/d9-profile",
-                "version": "dev-SITEKIT-218",
-                "version_normalized": "dev-SITEKIT-218",
+                "version": "dev-SITEKIT-225",
+                "version_normalized": "dev-SITEKIT-225",
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "46126eec5f5170fc5aecc7692f3498dc240a8194"
+                    "reference": "7c028bf18ff9cd599cbcf79d06d8ba7cbebc3b66"
                 },
-                "time": "2022-10-19T10:35:41+00:00",
+                "time": "2022-10-21T08:43:55+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -23884,9 +23929,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "5e137bddbfa092d32a1fdfbd945a85014a582f0e"
+                    "reference": "d6cc6eeabb248c78cf0a6edce6459b03592fd776"
                 },
-                "time": "2022-10-20T14:06:46+00:00",
+                "time": "2022-10-21T07:39:41+00:00",
                 "type": "drupal-profile",
                 "license": [
                     "GPL-2.0+"
@@ -42348,6 +42393,25 @@
                     "Drupal"
                 ]
             },
+            "dev-feature/api": {
+                "name": "numiko/listings_filter",
+                "version": "dev-feature/api",
+                "version_normalized": "dev-feature/api",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "431cefaa1fc823baceacaafa65e40b0ce17a9e3b"
+                },
+                "time": "2022-10-20T16:43:10+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-master": {
                 "name": "numiko/listings_filter",
                 "version": "dev-master",
@@ -44281,28 +44345,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "fbba4e90a00908306a9f37a40a5ed28947872f4e"
+                    "reference": "17003abe7915fb6220700b691665c90a6fc955fa"
                 },
-                "time": "2022-10-20T08:02:08+00:00",
-                "type": "drupal-theme",
-                "license": [
-                    "GPL-2.0+"
-                ],
-                "description": "Numiko Starter sub-theme of Stable",
-                "keywords": [
-                    "Drupal"
-                ]
-            },
-            "dev-feature/demo_site_simplify": {
-                "name": "numiko/numibase",
-                "version": "dev-feature/demo_site_simplify",
-                "version_normalized": "dev-feature/demo_site_simplify",
-                "source": {
-                    "type": "git",
-                    "url": "git@bitbucket.org:numiko/numibase.git",
-                    "reference": "0c8a1897f5cf3f1c4d809526f92aeab7a80ee53c"
-                },
-                "time": "2022-10-20T13:27:48+00:00",
+                "time": "2022-10-21T08:54:06+00:00",
                 "type": "drupal-theme",
                 "license": [
                     "GPL-2.0+"
