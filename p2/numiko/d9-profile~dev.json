@@ -230,7 +230,7 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/d9-profile.git",
-                    "reference": "bbc58b53a262ecb114c9a1cfae8573f146faba85"
+                    "reference": "70d34c70b77a489a54076311ee01755fd76832a6"
                 },
                 "require": {
                     "drupal/admin_toolbar": "*",
@@ -306,7 +306,7 @@
                     "numiko/user_login_admin": "*",
                     "numiko/views-topup": "*"
                 },
-                "time": "2022-10-20T10:35:09+00:00",
+                "time": "2022-10-21T11:33:55+00:00",
                 "default-branch": true,
                 "type": "drupal-profile",
                 "extra": {
