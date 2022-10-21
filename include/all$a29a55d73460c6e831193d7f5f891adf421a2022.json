@@ -42375,6 +42375,32 @@
                     "Drupal"
                 ]
             },
+            "3.0.0-beta1": {
+                "name": "numiko/listings_filter",
+                "version": "3.0.0-beta1",
+                "version_normalized": "3.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/listings-filter.git",
+                    "reference": "aa849aaba3e0bad753529e021199229a382123e3"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/listings_filter/numiko-listings_filter-3.0.0-beta1-f54e7b.tar",
+                    "reference": "aa849aaba3e0bad753529e021199229a382123e3",
+                    "shasum": "00f44352919f427ce1d9fded37b766064014ac71"
+                },
+                "time": "2022-10-21T10:16:54+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Create multiple listing filter paragraphs which populate a drupalsettings object ready for use on the front-end",
+                "keywords": [
+                    "Drupal"
+                ]
+            },
             "dev-feature/api": {
                 "name": "numiko/listings_filter",
                 "version": "dev-feature/api",
@@ -42382,9 +42408,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/listings-filter.git",
-                    "reference": "431cefaa1fc823baceacaafa65e40b0ce17a9e3b"
+                    "reference": "aa849aaba3e0bad753529e021199229a382123e3"
                 },
-                "time": "2022-10-20T16:43:10+00:00",
+                "time": "2022-10-21T10:16:54+00:00",
                 "type": "drupal-module",
                 "license": [
                     "GPL-2.0+"
@@ -46697,6 +46723,26 @@
                 "type": "drupal-module",
                 "description": "Extra checks for security_review module."
             },
+            "0.6.0": {
+                "name": "numiko/numiko_security_review",
+                "version": "0.6.0",
+                "version_normalized": "0.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiko-security-review.git",
+                    "reference": "8cca6935219ea3daf6ee6d210feb3382b1999dfc"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko_security_review/numiko-numiko_security_review-0.6.0-203209.tar",
+                    "reference": "8cca6935219ea3daf6ee6d210feb3382b1999dfc",
+                    "shasum": "f68f1ee1563307c6c7eaa9226903a9660a28c633"
+                },
+                "time": "2022-10-21T10:36:41+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Extra checks for security_review module."
+            },
             "dev-master": {
                 "name": "numiko/numiko_security_review",
                 "version": "dev-master",
@@ -46704,9 +46750,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/numiko-security-review.git",
-                    "reference": "88490c331e653002b6b8c5c3972b311f587d2634"
+                    "reference": "8cca6935219ea3daf6ee6d210feb3382b1999dfc"
                 },
-                "time": "2022-09-06T10:35:36+00:00",
+                "time": "2022-10-21T10:36:41+00:00",
                 "default-branch": true,
                 "type": "drupal-module",
                 "description": "Extra checks for security_review module."
@@ -50945,7 +50991,6 @@
                 },
                 "time": "2022-10-21T09:07:52+00:00",
                 "type": "drupal-module",
-                "installation-source": "source",
                 "license": [
                     "GPL-2.0+"
                 ],

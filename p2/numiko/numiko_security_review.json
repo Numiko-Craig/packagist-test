@@ -76,6 +76,26 @@
                 "time": "2021-05-06T10:26:08+00:00",
                 "type": "drupal-module",
                 "description": "Extra checks for security_review module."
+            },
+            {
+                "name": "numiko/numiko_security_review",
+                "version": "0.6.0",
+                "version_normalized": "0.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@bitbucket.org:numiko/numiko-security-review.git",
+                    "reference": "8cca6935219ea3daf6ee6d210feb3382b1999dfc"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://numiko-craig.github.io/packagist-test/dist/numiko/numiko_security_review/numiko-numiko_security_review-0.6.0-203209.tar",
+                    "reference": "8cca6935219ea3daf6ee6d210feb3382b1999dfc",
+                    "shasum": "f68f1ee1563307c6c7eaa9226903a9660a28c633"
+                },
+                "time": "2022-10-21T10:36:41+00:00",
+                "type": "drupal-module",
+                "installation-source": "source",
+                "description": "Extra checks for security_review module."
             }
         ]
     }
