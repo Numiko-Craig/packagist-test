@@ -22,9 +22,9 @@
                 "source": {
                     "type": "git",
                     "url": "git@bitbucket.org:numiko/responsive-image-class.git",
-                    "reference": "e040896321c1211c099cbf5beba1b5c5d6a86e8c"
+                    "reference": "d7f539975e5357954b5fb904dae2ddc7360f3c4b"
                 },
-                "time": "2022-10-21T11:46:27+00:00",
+                "time": "2022-10-21T13:50:44+00:00",
                 "type": "drupal-module",
                 "description": "Field formatter for image field types to allow classes to be added."
             }
